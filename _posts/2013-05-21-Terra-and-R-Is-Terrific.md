@@ -10,11 +10,9 @@ tags: terra R performance extension
 <div class="pdate"> {{ page.date | date: "%b %d, %Y" }} </div>
 
 
-[My helpful screenshot]({{ site.url }}/assets/screenshot.jpg)
 
-<p class="meta">22 Nov 2011 - San Francisco</p>
-
-<pre><code class="R"> 
+<pre>
+<code class="R"> 
 LY <- which(as.Date(adi$date)>=lastYear)
 level.data <- T(MODEL$x[1,])
 level.data <- data.frame(date=adi[LY,"date"], y= level.data[LY])
@@ -37,5 +35,6 @@ d4 <- rbind(level.data, d3)
 ylims <- range(subset(d4, whichyear !=CODE)$y)+c(-1,1)*diff(range(subset(d4, whichyear !=CODE)$y))*0.1/2
 ylims <- list(ylims, ylims, range(d2$y,na.rm=TRUE)+c(-1,1)*diff(range(d2$y,na.rm=TRUE))*0.1/2)
 lp <- mplot(d4,ylab='Level (millions)',ylims=ylims,panels=3)
-</code></pre>
+</code>
+</pre>
 
