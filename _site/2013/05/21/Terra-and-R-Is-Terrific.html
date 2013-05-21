@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+<head>
+   <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+   <title>Using Terra to Speed Up R</title>
+   <meta name="author" content="Saptarshi Guha" />
+
+   <!-- syntax highlighting CSS -->
+   <link rel="stylesheet" href="http://people.mozilla.com/~sguha/blog/css/syntax.css" type="text/css" />
+
+   <!-- Homepage CSS -->
+   <link rel="stylesheet" href="http://people.mozilla.com/~sguha/blog/css/screen.css" type="text/css" media="screen, projection" />
+
+<!-- Typography -->
+<link href='http://fonts.googleapis.com/css?family=Droid+Sans:400,700' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Esteban' rel='stylesheet' type='text/css'>
+
+<!--Highlighting JS-->
+<link href='/js/highlight.js/styles/ascetic.css' rel='stylesheet'/>
+<script src='/js/highlight.js/highlight.pack.js'/></script>
+<script>
+hljs.initHighlightingOnLoad();
+</script>
+</head>
+<body>
+
+
+<div class="site">
+  <div class="title">
+    <a href="http://people.mozilla.com/~sguha/blog">aajiKali,delayed pleasure.</a><br/>
+    <ul>
+      <li><a class="extra" href="http://people.mozilla.com/~sguha/blog/miscentries/mylife.html">who?</a></li>
+      <li><a class="extra" href="http://people.mozilla.com/~sguha/blog/miscentries/projects.html">projects</a></li>
+    </ul>      
+  </div>
+
+  
+  <div id="post">
+<h1>Using Terra to Speed Up R</h1>
+
+<div class="pdate"> May 21, 2013 </div>
+
+
+<p><a href="http://people.mozilla.com/~sguha/blog/assets/screenshot.jpg">My helpful screenshot</a></p>
+
+<p class="meta">22 Nov 2011 - San Francisco</p>
+
+
+
+
+<pre><code class="R"> 
+LY <- which(as.Date(adi$date)>=lastYear)
+level.data <- T(MODEL$x[1,])
+level.data <- data.frame(date=adi[LY,"date"], y= level.data[LY])
+
+LY <- which(as.Date(adi$date)>=lastYear)
+level.data <- T(MODEL$x[1,])
+level.data <- data.frame(date=adi[LY,"date"], y= level.data[LY])
+level.data$onedate <- sapply(as.Date(level.data$date),function(r){
+  if(r>=thisYear) sprintf("2012-%s-%s", strftime(r,"%m"),strftime(r,"%d")) else as.character(r)
+})
+level.data$whichyear <- sapply(as.Date(level.data$date),strftime, "%Y")
+d1 <- lapply(split(level.data,level.data$whichyear),function(r) {
+  data.frame(date=r$date, onedate=r$onedate,y=filter(r$y, c(1,1)/2,sides=1))
+})
+d2 <- merge(d1[[2]],d1[[1]],by="onedate")[,c("onedate","date.x","y.x","y.y")];colnames(d2) <- c("onedate","date","levelTY","levelLY")
+d2$y <- 100*(d2$levelTY/d2$levelLY-1)
+d2$whichyear <-CODE <- "ThisYear/LastYear"
+d3 <- d2[,c("date","y","onedate","whichyear")]
+d4 <- rbind(level.data, d3)
+ylims <- range(subset(d4, whichyear !=CODE)$y)+c(-1,1)*diff(range(subset(d4, whichyear !=CODE)$y))*0.1/2
+ylims <- list(ylims, ylims, range(d2$y,na.rm=TRUE)+c(-1,1)*diff(range(d2$y,na.rm=TRUE))*0.1/2)
+lp <- mplot(d4,ylab='Level (millions)',ylims=ylims,panels=3)
+</code></pre>
+
+
+
+
+</div>
+
+<!-- <div id="related"> -->
+<!--   <h2>Related Posts</h2> -->
+<!--   <ul class="posts"> -->
+<!--      -->
+<!--   </ul> -->
+
+
+<footer id="disqus_thread">
+<br/>
+    <div id="disqus_thread"></div>
+<script type="text/javascript">
+/* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+var disqus_shortname = 'saptarshiguha'; // required: replace example with your forum shortname
+
+/* * * DON'T EDIT BELOW THIS LINE * * */
+(function() {
+var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+    
+</footer>
+  
+</div>
+  </div>
+  
+  <div class="footer">
+    <div class="contact">
+      <p>
+      Saptarshi Guha<br />
+      Data Scientist at <a href="http://mozilla.com/">Mozilla</a><br />
+      saptarshi.guha@gmail.com<br/>
+      Taken from <a href="http://github.com/mojombo">Mojombo</a>
+      </p>
+      <p>
+        <a href="http://github.com/saptarshiguha/">github.com/saptarshiguha</a><br />
+        <a href="http://www.linkedin.com/in/saptarshiguha/">www.linkedin.com/in/saptarshiguha</a><br />
+      </p>
+    </div>
+  </div>
+
+
+</body>
+</html>
