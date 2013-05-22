@@ -17,7 +17,7 @@ based of Lua. My impression is that is a statically typed version of Lua (though
 to be typed, regular Lua functions execute just fine) with tight LLVM integration. Code written in
 the TerraLang syntax (using the `terra` keyword) can be JIT compiled to machine code (using
 LLVM). TerraLang is called a __multi stage__ system, superficially to me, this means it has a
-similar macro system to LISP's ( i am most likeley very wrong).
+similar macro system to LISP's ( i am most likley very wrong).
 
 My reasons for investigating TerraLang is to find an extension language for R that has good
 performance characteristics. The current choice is C++ (using
