@@ -21,15 +21,31 @@
 <script>
 hljs.initHighlightingOnLoad();
 </script>
+<!-- mathjax config similar to math.stackexchange -->
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+  jax: ["input/TeX", "output/HTML-CSS"],
+  tex2jax: {
+    inlineMath: [ ['$', '$'] ],
+    displayMath: [ ['$$', '$$']],
+    processEscapes: true,
+    skipTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code']
+  },
+  messageStyle: "none",
+  "HTML-CSS": { preferredFont: "TeX", availableFonts: ["STIX","TeX"] }
+});
+</script>
+<script src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML" type="text/javascript"></script>
+
 </head>
 <body>
 
 
 <div class="site">
   <div class="title">
-    <a href="{{site.url}}">aajiKali,delayed pleasure.</a><br/>
+    <a href="{{site.url}}">aajikali,delayed pleasure.</a><br/>
     <ul>
-      <li><a class="extra" href="{{site.url}}/miscentries/mylife.html">who?</a></li>
+      <li><a class="extra" href="{{site.url}}/miscentries/about.html">who?</a></li>
       <li><a class="extra" href="{{site.url}}/miscentries/projects.html">projects</a></li>
     </ul>      
   </div>
@@ -48,7 +64,8 @@ hljs.initHighlightingOnLoad();
       </p>
       <p>
         <a href="http://github.com/saptarshiguha/">github.com/saptarshiguha</a><br />
-        <a href="http://www.linkedin.com/in/saptarshiguha/">www.linkedin.com/in/saptarshiguha</a><br />
+      <a href="http://www.linkedin.com/in/saptarshiguha/">www.linkedin.com/in/saptarshiguha</a><br />
+      <a href="https://plus.google.com/115887938173387570339">Google Plus</a>
       </p>
     </div>
   </div>

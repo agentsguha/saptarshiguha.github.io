@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Using Terra to Speed Up R
-excerpt: Exploring the new TerraLang project as an extension language for R
+excerpt: Exploring the new TerraLang project as an extension language for R.
 tags: terra R performance extension
 ---
 
@@ -9,32 +9,191 @@ tags: terra R performance extension
 ================
 <div class="pdate"> {{ page.date | date: "%b %d, %Y" }} </div>
 
+* mytoc
+{:toc}
+
+Recently Stanford student Zach DeVito created a language called [TerraLang](http://terralang.org/)
+based of Lua. My impression is that is a statically typed version of Lua (though not everything has
+to be typed, regular Lua functions execute just fine) with tight LLVM integration. Code written in
+the TerraLang syntax (using the `terra` keyword) can be JIT compiled to machine code (using
+LLVM). TerraLang is called a __multi stage__ system, superficially to me, this means it has a
+similar macro system to LISP's ( i am most likeley very wrong).
+
+My reasons for investigating TerraLang is to find an extension language for R that has good
+performance characteristics. The current choice is C++ (using
+[Rcpp](http://cran.r-project.org/web/packages/Rcpp/))
+or Java (using [rJava](http://cran.r-project.org/web/packages/rJava/)). Both languages are
+performant and in many cases, provide orders of speed improvement over the R language. However, I
+don't recommend either for the general R programmer. I have seen too many __segfaults__, R
+programmers fighting with pointers, and  the verbosity of Java
+
+Lua on the other hand is a very simple language to
+learn. [LuaJIT](luajit.org) is a blazing fast implementation of Lua
+(though one has to program idiomatically). And TerraLang can compile
+terra functions to machine code (via LLVM). Moreover, one can write
+macros in TerraLang to produce code-driven-code!
+
+I will describe some micro benchmarks and help a fellow explorer create their own __terrRific__
+code!
+
+## Installation
+You need: Ubuntu 12.10 (what i tested on), LLVM 3.2, Clang, and R (with development libraries).
+The files `a.cc`,`code2.t` and `run.R` can be found [here]({{site.url}}/resources/terraexample).
+Clone the terralang repository
+
+	git clone https://github.com/zdevito/terra
 
 
-<pre>
-<code class="R"> 
-LY <- which(as.Date(adi$date)>=lastYear)
-level.data <- T(MODEL$x[1,])
-level.data <- data.frame(date=adi[LY,"date"], y= level.data[LY])
+Change to the terra folder, and edit the terra Makefile, change `FLAGS` field to include `-fPIC` i.e.
 
-LY <- which(as.Date(adi$date)>=lastYear)
-level.data <- T(MODEL$x[1,])
-level.data <- data.frame(date=adi[LY,"date"], y= level.data[LY])
-level.data$onedate <- sapply(as.Date(level.data$date),function(r){
-  if(r>=thisYear) sprintf("2012-%s-%s", strftime(r,"%m"),strftime(r,"%d")) else as.character(r)
-})
-level.data$whichyear <- sapply(as.Date(level.data$date),strftime, "%Y")
-d1 <- lapply(split(level.data,level.data$whichyear),function(r) {
-  data.frame(date=r$date, onedate=r$onedate,y=filter(r$y, c(1,1)/2,sides=1))
-})
-d2 <- merge(d1[[2]],d1[[1]],by="onedate")[,c("onedate","date.x","y.x","y.y")];colnames(d2) <- c("onedate","date","levelTY","levelLY")
-d2$y <- 100*(d2$levelTY/d2$levelLY-1)
-d2$whichyear <-CODE <- "ThisYear/LastYear"
-d3 <- d2[,c("date","y","onedate","whichyear")]
-d4 <- rbind(level.data, d3)
-ylims <- range(subset(d4, whichyear !=CODE)$y)+c(-1,1)*diff(range(subset(d4, whichyear !=CODE)$y))*0.1/2
-ylims <- list(ylims, ylims, range(d2$y,na.rm=TRUE)+c(-1,1)*diff(range(d2$y,na.rm=TRUE))*0.1/2)
-lp <- mplot(d4,ylab='Level (millions)',ylims=ylims,panels=3)
-</code>
-</pre>
+	FLAGS=-g -fPIC $(INCLUDE_PATH)
 
+
+Search for the region in the Makefile that looks like
+
+	$(LUAJIT_LIB): build/$(LUAJIT_TAR)
+	(cd build; tar -xf $(LUAJIT_TAR))
+	(cd $(LUAJIT_DIR); make CC=$(CC))
+	cp $(LUAJIT_DIR)/src/libluajit.a build/libluajit.a
+
+	
+and change the `make CC=...`  to
+
+	$(LUAJIT_LIB): build/$(LUAJIT_TAR)
+	(cd build; tar -xf $(LUAJIT_TAR))
+	(cd $(LUAJIT_DIR); make CC=$(CC) STATIC_CC="$(CC) -fPIC")
+	cp $(LUAJIT_DIR)/src/libluajit.a build/libluajit.a
+
+
+Find the section with the make targets i.e.
+
+	$(LIBRARY):	$(addprefix build/, $(LIBOBJS))
+		rm -f $(LIBRARY)
+		$(AR) -cq $@ $^
+
+
+then copy `a.cc` to the terra folder, and  add one for `RLIB` i.e.
+
+	RLIB = rlib
+	$(RLIB): $(addprefix build/, $(LIBOBJS))
+		$(CC)  -fPIC -c -o a.o a.cc `R CMD config --cppflags` -Ibuild/LuaJIT-2.0.1/src -Isrc/
+		$(CXX)  -shared a.o -o a.so `R CMD config --ldflags` $(LFLAGS)
+
+Finally, run
+
+	make
+	make rlib
+
+If all works, you should have `a.so` in the terra directory.
+
+## Using TerraLang as an Extension Language for R
+
+We will compare performance with bubblesort found
+[here](http://www.numbertheory.nl/2013/05/14/much-more-efficient-bubble-sort-in-r-using-the-rcpp-and-inline-packages/)
+. Download the above files (`code2.t` and friends), which contains the bubble sort code along with other demo Lua/Terra
+code. Some examples:
+
+Terra Code to load the libraries
+
+	terralib.linklibrary("/usr/lib/R/lib/libR.so")
+	Rmath = terralib.includec("Rmath.h")
+	Rinternals = terralib.includec("Rinternals.h")
+
+Code to allocate an R vector the type of the vector is based on what
+
+	terra x( what :int, l :int)
+		var a =  Rinternals.Rf_allocVector(what, l)
+	end
+
+### Benchmarking the BubbleSort
+
+ This can be written so that the sort is in place.  For comparison
+purposes I've made a copy. Note, a lot of this is boilerplate and in a
+library it would be removed.
+
+	terra bubbleSort( a :&Rinternals.SEXPREC ): &Rinternals.SEXPREC
+	   var itemCount:int = Rinternals.LENGTH(a)
+	   var hasChanged : bool
+	   var ac : &Rinternals.SEXPREC = Rinternals.Rf_allocVector(14,itemCount)
+	   Rinternals.Rf_protect(ac)
+	   -- do a memcpy
+	   ffi.copy(Rinternals.REAL(ac), Rinternals.REAL(a), itemCount*8)
+	   var A : &double = Rinternals.REAL(ac)
+	   repeat
+	      hasChanged = false
+	      itemCount = itemCount - 1
+	      for i = 0, itemCount do
+	   	  if A[i] > A[i + 1] then
+	   	    @(A+i), @(A+i + 1) = A[i + 1], A[i]
+	   	    hasChanged = true
+	   	 end
+	      end
+	   until hasChanged == false
+	   Rinternals.Rf_unprotect(1)
+	   return(ac)
+	end
+
+
+The R code to initialize this is (run R in the terra directory)
+
+	Sys.setenv(INCLUDE_PATH= strsplit(system("R CMD config --cppflags",intern=TRUE),"-I")[[1]][[2]])
+	dyn.load("a.so")
+	.Call("initTerrific",NULL)
+	.Call("terraDoFile","/home/sguha/dev/earth/code2.t") ## change to path of code2.t
+
+And now run the comparison benchmark
+
+	require(inline)  ## for cxxfunction()                                                       
+	src = 'Rcpp::NumericVector vec = Rcpp::NumericVector(vec_in);                               
+	       double tmp = 0;                                                                      
+	       int no_swaps;                                                                        
+	       while(true) {                                                                        
+	           no_swaps = 0;                                                                    
+	           for (int i = 0; i < vec.size()-1; ++i) {                                         
+	               if(vec[i] > vec[i+1]) {                                                      
+	                   no_swaps++;                                                              
+	                   tmp = vec[i];                                                            
+	                   vec[i] = vec[i+1];                                                       
+	                   vec[i+1] = tmp;                                                          
+	               };                                                                           
+	           };                                                                               
+	           if(no_swaps == 0) break;                                                         
+	       };                                                                                   
+	       return(vec);'                                                                        
+	bubble_sort_cpp = cxxfunction(signature(vec_in = "numeric"), body=src, plugin="Rcpp")  	
+
+	library(microbenchmark) 
+	vector_size <- 10000
+	x1 <- as.numeric(sample(1:vector_size))
+	print(microbenchmark(
+	        .Call("doTerraFunc1","bubbleSort",x1),
+	        bubble_sort_cpp(x1),
+	        sort(x1),control=list(warmup=5)))
+
+
+### Results of Benchmark
+(In microseconds), The first line corresponds to TerraLang, Rcpp and lastly, R builtin. Note, R
+builtin does much more work(NA resolution etc).
+
+	                                    expr     min       lq   median       uq         max neval
+	 .Call("doTerraFunc1", "bubbleSort", x1)  40.019  43.1315  46.6980  50.8220     913.433   100
+	                     bubble_sort_cpp(x1)  81.326  83.3380  83.7335  84.9925 1755508.443   100
+	                                sort(x1) 167.754 171.3210 175.5285 182.6385    1176.576   100
+
+For a vector of length 100,000
+
+	                                   expr      min       lq   median       uq
+	 .Call("doTerraFunc1", "bubbleSort", x1)  470.705  759.308 1084.037 2147.427
+	                     bubble_sort_cpp(x1)  928.686 2026.870 2056.922 2134.380
+	                                sort(x1) 1940.067 3232.532 3991.745 5185.881
+	
+## Summary
+
+None of the above code uses the true power of Terra - it's macro
+facility,though the (if i'm not mistaken) the Terra function is
+compiled to machine code via LLVM. It looks like FFI calls to the R
+library and yet it is performant. Moreover, the example is silly
+... and the Rcpp examples (e.g. clamp) are not so interesting. A good
+test would be to rewrite an R package using a Terra+R library.
+
+<br/>
