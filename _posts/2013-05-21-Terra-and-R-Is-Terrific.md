@@ -12,7 +12,7 @@ tags: terra R performance extension
 * mytoc
 {:toc}
 
-Recently Stanford student Zach DeVito created a language called [TerraLang](http://terralang.org/)
+Recently, Stanford student Zach DeVito created a language called [TerraLang](http://terralang.org/)
 based of Lua. My impression is that is a statically typed version of Lua (though not everything has
 to be typed, regular Lua functions execute just fine) with tight LLVM integration. Code written in
 the TerraLang syntax (using the `terra` keyword) can be JIT compiled to machine code (using
@@ -56,7 +56,6 @@ Search for the region in the Makefile that looks like
 	(cd $(LUAJIT_DIR); make CC=$(CC))
 	cp $(LUAJIT_DIR)/src/libluajit.a build/libluajit.a
 
-	
 and change the `make CC=...`  to
 
 	$(LUAJIT_LIB): build/$(LUAJIT_TAR)
@@ -99,7 +98,9 @@ Terra Code to load the libraries
 	Rmath = terralib.includec("Rmath.h")
 	Rinternals = terralib.includec("Rinternals.h")
 
-Code to allocate an R vector the type of the vector is based on what
+Code to allocate an R vector, the type of the vector is based on `what`. Here it
+is 14 and taken from `Rinternals.h`. In a complete R-Terra library, this would
+be from a table.
 
 	terra x( what :int, l :int)
 		var a =  Rinternals.Rf_allocVector(what, l)
@@ -189,11 +190,12 @@ For a vector of length 100,000
 	
 ## Summary
 
-None of the above code uses the true power of Terra - it's macro
-facility,though the (if i'm not mistaken) the Terra function is
-compiled to machine code via LLVM. It looks like FFI calls to the R
-library and yet it is performant. Moreover, the example is silly
-... and the Rcpp examples (e.g. clamp) are not so interesting. A good
-test would be to rewrite an R package using a Terra+R library.
+None of the above code uses the true power of Terra - it's macro facility,though
+the (if i'm not mistaken) the Terra function is compiled to machine code via
+LLVM. It looks like FFI calls to the R library and yet it is performant. I
+should also just try writing the FFI version in a standard a Lua function (and
+then it will be pure LuaJIT). That said, the example is silly ... and the Rcpp
+examples (e.g. clamp) are not so interesting. A good test would be to rewrite an
+R package using a Terra+R library.
 
 <br/>
