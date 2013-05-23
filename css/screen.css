@@ -11,10 +11,35 @@
   padding: 0;
 }
 
+/* .container { */
+/*              /\* min-height: 100%; *\/ */
+/*              /\* height: 100%; *\/ */
+/*              /\* margin: 0 auto -20px; *\/ */
+                          
+/*              background-color:#ffe; */
+/*              width:90%; */
+/* } */
+.basecontainer {
+                 background-color: #FFFFFF;
+                 max-width:90%;
+                 margin:auto;
+                 overflow:auto;
+                 min-height:100px;
+                 height:auto!important;
+                 height:100px;/
+
+}
+
+
 .highlight pre { background-color: white; }
-html, body {
-             height: 100%;
-             }
+html{ height:100%; }
+body {
+       height: 100%;
+       /* background-image:url('back.png'); */
+       /* background-repeat:repeat-y repeat-x; */
+               max-width:85%;
+                 margin:auto;
+       }
 
 body {
        background-color: white;
@@ -59,11 +84,11 @@ a:hover  {
            }
 
 a:visited {
-  color: #a00;
+            color: #a00;
             }
 a:visited:hover {
-  color: #E68415;
-            }
+                  color: #E68415;
+                  }
 
 .title ul, .title li{
                       display: inline-block;
@@ -120,6 +145,7 @@ ul.posts span {
            margin: 3em auto 2em 2em;
            float:left;
            line-height: 1.5em;
+           display:block;
 }
 
 .title {
@@ -203,25 +229,25 @@ ul.posts span {
     color: #666;
     /* border-top: 4px solid #eee; */
     margin-top: 3.2em;
-    overflow: hidden;
+    /* overflow: hidden; */
   }
 
 .footer .contact {
                    text-align:left;
-      /* float: right; */
-      margin-right: 3em;
-    }
+                   /* float: right; */
+                   margin-right: 3em;
+                   }
 
-    .footer .contact a {
-        color: #8085C1;
-      }
-    .footer .contact a:hover {
-                       color:#E68415        ;
-      }
+.footer .contact a {
+                     color: #8085C1;
+                     }
+.footer .contact a:hover {
+                           color:#E68415        ;
+                           }
 
- .footer  img {
-        border: 0;
-      }
+.footer  img {
+               border: 0;
+               }
 /*****************************************************************************/
 /*
 /* Posts
@@ -285,4 +311,5 @@ ul.posts span {
 
 #dsq-content #dsq-comments .dsq-comment-message { font-size: 16px; }
 
-
+body{ 
+      }
