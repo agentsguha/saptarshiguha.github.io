@@ -35,14 +35,14 @@
 html{ height:100%; }
 body {
        height: 100%;
-       /* background-image:url('back.png'); */
+       background-color:#FFFFF5;
+       /* background-image:url('back2.png'); */
        /* background-repeat:repeat-y repeat-x; */
                max-width:85%;
                  margin:auto;
        }
 
 body {
-       background-color: white;
        font-family: 'Droid Sans',helvetica, arial, clean, sans-serif;;
        font-size: 13.34px ;
        *font-size: small;
@@ -287,7 +287,7 @@ ul.posts span {
 #post code {
              border: none;
              display:inline;
-             font-size: 90%;
+             font-size: 95%;
              margin-bottom:1em;           
              }
 #post ul,
