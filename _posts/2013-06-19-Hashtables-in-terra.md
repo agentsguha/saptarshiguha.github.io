@@ -127,8 +127,10 @@ The code to iterate follows.
 	end
 
 The variables `ck`, `cuk` and `vk` are upvalues for `Iterator:next()`, thus
-state is kept across calls. Once again the casting is done appropriately. And
-example of it's use is then
+state is kept across calls. Once again the casting is done appropriately.
+
+## Example
+And example of it's use is then
 	
 	C = terralib.includec("stdio.h")
 	C1 = terralib.includec("stdlib.h")
@@ -138,6 +140,8 @@ example of it's use is then
 	   return terralib.cast(rawstring,"foo" .. tonumber(b))
 	end
 	tcncat = terralib.cast({&int8, int}->{&int8},cncat)
+
+	hashIntToComplex = makeHash(int, &ComplexName,function(a) return(tonumber(a)) end)
 	
 	terra testme()
 	   var b : hashIntToComplex
