@@ -38,50 +38,29 @@ code!
 
 ## Installation
 You need: Ubuntu 12.10 (what i tested on), LLVM 3.2, Clang, and R (with development libraries).
-The files `a.cc`,`code2.t` and `run.R` can be found [here]({{site.url}}/resources/terraexample).
-Clone the terralang repository
+The files `a.cc`,`code2.t` and `run.R` can be found[here]({{site.url}}/resources/terraexample).
+
+You should install LuaJIT. To do that go
+[here](http://luajit.org/download.html), download the archive, unzip and run
+
+	make && sudo make install
+
+You might need to use sudo to `make install`.
+
+Now, clone the Terra repository
 
 	git clone https://github.com/zdevito/terra
-
-
-Change to the terra folder, and edit the terra Makefile, change `FLAGS` field to include `-fPIC` i.e.
-
-	FLAGS=-g -fPIC $(INCLUDE_PATH)
-
-
-Search for the region in the Makefile that looks like
-
-	$(LUAJIT_LIB): build/$(LUAJIT_TAR)
-	(cd build; tar -xf $(LUAJIT_TAR))
-	(cd $(LUAJIT_DIR); make CC=$(CC))
-	cp $(LUAJIT_DIR)/src/libluajit.a build/libluajit.a
-
-and change the `make CC=...`  to
-
-	$(LUAJIT_LIB): build/$(LUAJIT_TAR)
-	(cd build; tar -xf $(LUAJIT_TAR))
-	(cd $(LUAJIT_DIR); make CC=$(CC) STATIC_CC="$(CC) -fPIC")
-	cp $(LUAJIT_DIR)/src/libluajit.a build/libluajit.a
-
-
-Find the section with the make targets i.e.
-
-	$(LIBRARY):	$(addprefix build/, $(LIBOBJS))
-		rm -f $(LIBRARY)
-		$(AR) -cq $@ $^
-
-
-then copy `a.cc` to the terra folder, and  add one for `RLIB` i.e.
-
-	RLIB = rlib
-	$(RLIB): $(addprefix build/, $(LIBOBJS))
-		$(CC)  -fPIC -c -o a.o a.cc `R CMD config --cppflags` -Ibuild/LuaJIT-2.0.1/src -Isrc/
-		$(CXX)  -shared a.o -o a.so `R CMD config --ldflags` $(LFLAGS)
-
-Finally, run
-
+	cd terra
 	make
-	make rlib
+	sudo cp build/libterra.so /usr/local/lib/
+
+Download the `a.cc` file from [here]({{site.url}}/resources/terraexample) and run
+
+	g++ -fPIC -c -o a.o a.cc `R CMD config --cppflags` -I/usr/local/include/luajit-2.0/ -I/home/sguha/dev/terra/src
+
+Note the last `-I/home/sguha/dev/terra/src`, this should point to the location where you downloaded Terra and then
+
+	g++ -shared a.o -o a.so `R CMD config --ldflags` -L/usr/local/lib -lluajit-5.1 -lterra
 
 If all works, you should have `a.so` in the terra directory.
 
@@ -89,7 +68,11 @@ If all works, you should have `a.so` in the terra directory.
 
 We will compare performance with bubblesort found
 [here](http://www.numbertheory.nl/2013/05/14/much-more-efficient-bubble-sort-in-r-using-the-rcpp-and-inline-packages/)
-. Download the above files (`code2.t` and friends), which contains the bubble sort code along with other demo Lua/Terra
+. Download the above files (`code2.t` and friends, change the
+
+	.Call("terraDoFile","/home/sguha/dev/earth/code2.t")
+
+to point to where you downloaded `code2.t`), which contains the bubble sort code along with other demo Lua/Terra
 code. Some examples:
 
 Terra Code to load the libraries
