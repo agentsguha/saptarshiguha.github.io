@@ -15,9 +15,9 @@ tags: terra R performance extension hashtable
 Though Lua uses hashtables/dictionaries almost exclusively for all it's data
 structures, Terra does not. Terra is much lower level than Lua and as yet does
 not have a standard library. There are two ways one can create a hashtable that
-can be used terra functions
+can be used in Terra functions
 
-- using C code such as uthash
+- using C code such as [uthash](http://troydhanson.github.io/uthash/userguide.html)
 - using a Lua hashtable and wrapping it in Terra+Lua.
 
 I'll demonstrate the latter and then explain why we need the former.
@@ -25,16 +25,26 @@ I'll demonstrate the latter and then explain why we need the former.
 ## The Lua Code
 
 If we want a hashtable, we need (much like in C/C++/Java) need to specify the
-type of the keys and values. So our call to create a Terra hashtable starts
+type of the keys and values. So our call to create a Terra hashtable with
+integer keys and `ComplexName` values starts
 outside a terra function like:
 
 	hashIntToComplex = makeHash(int, &ComplexName,function(a) return(tonumber(a)) end)
 
-where `ComplexName` is a struct describing the values, `int` are the keys and
+where `ComplexName` is defined as
+
+	struct ComplexName
+	{
+	   name: &int8;
+	   x : double;
+	   y : double;
+	}
+
+and `ComplexName` is a struct describing the values, `int` are the keys and
 the last lua function is the hashing function. What would the `makeHash`
 function be?
 
-In essence the function `makeHash` returns structure called `Hash` which methods
+In essence the function `makeHash` returns a structure called `Hash` which methods
 `add`, `get`, `exists`, `delete` and `makeIter`. These methods have as their
 upvalue a lua dictionary. To access the dictionary and retrieve keys/values,
 they call wrapped lua functions. Note the lua functions need to be wrapped
@@ -119,7 +129,10 @@ The code to iterate follows.
 The variables `ck`, `cuk` and `vk` are upvalues for `Iterator:next()`, thus
 state is kept across calls. Once again the casting is done appropriately. And
 example of it's use is then
-
+	
+	C = terralib.includec("stdio.h")
+	C1 = terralib.includec("stdlib.h")
+	ffi = require("ffi")
 
 	function cncat(a,b)
 	   return terralib.cast(rawstring,"foo" .. tonumber(b))

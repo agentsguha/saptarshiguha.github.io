@@ -276,6 +276,7 @@ ul.posts span {
                          padding-left: 0.5em;
                          padding:0;
                          display:inline-block;
+                         font-weight:bold;
                          }
 #post pre{
            border-left: 3px solid #ddd;
