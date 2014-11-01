@@ -2,13 +2,12 @@
 layout: default
 title: aajikaali, delayed pleasure.
 ---
-
 <div id="home">
   <ul class="posts">
     {% for post in site.posts %}
     <li>
-    <span class="postdate">{{ post.date | date: "%b %d, %Y" }}</span>
-    <a href="{{site.url}}{{ post.url }}">{{ post.title }}</a>, <div class="excerpt"> {{ post.excerpt }}</span>
+      <span class="postdate">{{ post.date | date: "%b %d, %Y" }}</span>
+    <a href="{{site.url}}{{ post.url }}">{{ post.title }}</a></br><div      class="excerpt"> <it>{{ post.excerpt }} </it></span>
     </li>
     {% endfor %}
   </ul>

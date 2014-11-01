@@ -1,4 +1,6 @@
-imges <- normalizePath(list.files(pattern="DSC*",full=TRUE))
+pattern <- "_*"
+pattern <- "*jpg"
+imges <- normalizePath(list.files(pattern=pattern,full=TRUE))
 pct <- 1
 mh <- 800
 mw <- 800
@@ -19,13 +21,19 @@ m <- lapply(imges, function(s){
 })
 m <- rbindlist(m)
 
-PATH='fleetweek'
+PATH='dillon'
+
+convert=FALSE
 ii <- paste(unlist(lapply(1:nrow(m),function(i){
     l <- m[i,]
-    conv <- sprintf("convert %s -resize %sx%s %s", l$i, as.integer(l$w), as.integer(l$h), gsub("DSC","t-", basename(l$i)))
-    print(conv)
-    system(conv)
-    sprintf('<div class="item" data-w="%s" data-h="%s">\n\t<div class="img"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/%s/%s"></div>\n</div>', as.integer(l$w), as.integer(l$h),  PATH,gsub("DSC","t-", basename(l$i)))
+    if(convert) {
+        conv <- sprintf("convert %s -resize %sx%s %s", l$i, as.integer(l$w), as.integer(l$h), gsub("DSC","t-", basename(l$i)))
+        print(conv)
+        system(conv)
+    }
+    sprintf('<div class="item" data-w="%s" data-h="%s">\n\t<div class="img"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/%s/%s"></div>\n</div>', as.integer(l$w), as.integer(l$h),  PATH,if(convert) gsub("DSC","t-", basename(l$i)) else basename(l$i))
 })),collapse='\n')
 cat(ii)
 cat("\n")
+
+

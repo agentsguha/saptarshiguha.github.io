@@ -1,5 +1,5 @@
 markdown: kramdown
-pygments: true
+rouge: true
 future: true
 lsi: false
 
@@ -17,12 +17,19 @@ accounts:
     linkedin: http://linkedin.com/saptarshiguha
     google: https://plus.google.com/115887938173387570339/
 
+name: aajikali
+description: that often thought yet rarely written
 baseurl: /blog
-url: http://people.mozilla.com/~sguha/blog
+url: https://people.mozilla.com/~sguha/blog
 
 tags:
 - jekyll
 - code
 
 kramdown:
+   enable_coderay: true
    toc_levels: 2..6
+   use_coderay: true
+
+      
+      
