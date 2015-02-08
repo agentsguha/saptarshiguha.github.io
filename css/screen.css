@@ -35,6 +35,31 @@
 #demo9 .item .img { position: absolute; left: 0; top: 3px; right: 3px; bottom: 1px; }
 #demo9 .item .bottom { position: absolute; left: 1px; bottom: 0px; right: 1px; font-size: 12px; height: 20px; }
 
+#demo10 .item { margin: 0 1px 1px 1px; border: 0; }
+#demo10 .item .img { position: absolute; left: 0; top: 3px; right: 3px; bottom: 1px; }
+#demo10 .item .bottom { position: absolute; left: 1px; bottom: 0px; right: 1px; font-size: 12px; height: 20px; }
+
+#demo11 .item { margin: 0 1px 1px 1px; border: 0; }
+#demo11 .item .img { position: absolute; left: 0; top: 3px; right: 3px; bottom: 1px; }
+#demo11 .item .bottom { position: absolute; left: 1px; bottom: 0px; right: 1px; font-size: 12px; height: 20px; }
+
+#demo12 .item { margin: 0 1px 1px 1px; border: 0; }
+#demo12 .item .img { position: absolute; left: 0; top: 3px; right: 3px; bottom: 1px; }
+#demo12 .item .bottom { position: absolute; left: 1px; bottom: 0px; right: 1px; font-size: 12px; height: 20px; }
+
+#demo13 .item { margin: 0 1px 1px 1px; border: 0; }
+#demo13 .item .img { position: absolute; left: 0; top: 3px; right: 3px; bottom: 1px; }
+#demo13 .item .bottom { position: absolute; left: 1px; bottom: 0px; right: 1px; font-size: 12px; height: 20px; }
+
+#demo14 .item { margin: 0 1px 1px 1px; border: 0; }
+#demo14 .item .img { position: absolute; left: 0; top: 3px; right: 3px; bottom: 1px; }
+#demo14 .item .bottom { position: absolute; left: 1px; bottom: 0px; right: 1px; font-size: 12px; height: 20px; }
+
+#demo15 .item { margin: 0 1px 1px 1px; border: 0; }
+#demo15 .item .img { position: absolute; left: 0; top: 3px; right: 3px; bottom: 1px; }
+#demo15 .item .bottom { position: absolute; left: 1px; bottom: 0px; right: 1px; font-size: 12px; height: 20px; }
+
+
 #maintitle {
     color:#000000;
     }

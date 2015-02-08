@@ -56,20 +56,28 @@ The easiest way to do this is
 
 		brew tap homebrew/science
 
-3. And then edit the `r.rb` formula located in `/usr/local/Library/Taps/homebrew-science/` (assuming you installed homebrew in its default location)
-   Modify the definition `install` to look like
+3. And then edit the `r.rb` formula located in `/usr/local/Library/Taps/homebrew/homebrew-science/r.rb` (assuming you installed homebrew in its default location)
+   Modify the definition `install` to look like (add the two lines #a and #b)
 
 		def install
-			ENV['MAIN_LDFLAGS']='-pagezero_size 10000 -image_base 100000000'
-			ENV['ALL_CFLAGS'] = ENV['MAIN_LDFLAGS']
-			args = [
-				"--prefix=#{prefix}",
-				"--with-aqua",
-				"--enable-R-framework",
-				"--with-lapack"
-			]
+            ENV.append_to_cflags "-D__ACCELERATE__" if ENV.compiler != :clang and build.without? "openblas"
+         
+            # If LDFLAGS contains any -L options, configure sets LD_LIBRARY_PATH to
+            # search those directories. Remove -LHOMEBREW_PREFIX/lib from LDFLAGS.
+            ENV.remove "LDFLAGS", "-L#{HOMEBREW_PREFIX}/lib" if OS.linux?
+         
+            ENV['MAIN_LDFLAGS']='-pagezero_size 10000 -image_base 100000000' #a
+            ENV.append_to_cflags ENV['MAIN_LDFLAGS']                         #b
+         
+            args = [
+              "--prefix=#{prefix}",
+              "--with-libintl-prefix=#{Formula['gettext'].opt_prefix}",
+            ]
 
-4. Save and run `brew install r` and you should be good to go.
-
+4. Save and run `HOMEBREW_BUILD_FROM_SOURCE=1 brew install --verbose --force -d r` and you should be good to go.
+    That said, it might be better to run `brew install --verbose  -d r`, then
+    remove R (`brew remove --force r`) and then use the first version (using
+    build from source). Doing this way wont compile gcc.
+	
 <br/>
 

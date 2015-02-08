@@ -1,3 +1,6 @@
-site
+_site
 ./site
 ./site/
+*.tgz
+*.tar.gz
+*.jpg
