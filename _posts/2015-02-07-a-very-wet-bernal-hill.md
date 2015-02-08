@@ -42,40 +42,38 @@ Hope you like the pictures.
 
 
 
-
 <div style="max-width:1200px;margin:0;padding:0;">
 <div id="demo5" class="flex-images">
+<br>
+<br>
 
-<div class="item" data-w="500" data-h="750">
+<div class="item" data-w="466" data-h="700">
 	<div class="img"><a href="{{ site.url }}/images/photos/bernalwet/t-F0691.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/bernalwet/st-F0691.jpg"></a></div>
 </div>
-<div class="item" data-w="500" data-h="750">
+<div class="item" data-w="466" data-h="700">
 	<div class="img"><a href="{{ site.url }}/images/photos/bernalwet/t-F0693.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/bernalwet/st-F0693.jpg"></a></div>
 </div>
-<div class="item" data-w="499" data-h="750">
+<div class="item" data-w="466" data-h="700">
 	<div class="img"><a href="{{ site.url }}/images/photos/bernalwet/t-F0695.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/bernalwet/st-F0695.jpg"></a></div>
 </div>
-<div class="item" data-w="499" data-h="750">
+<div class="item" data-w="466" data-h="700">
 	<div class="img"><a href="{{ site.url }}/images/photos/bernalwet/t-F0699.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/bernalwet/st-F0699.jpg"></a></div>
 </div>
-<div class="item" data-w="500" data-h="750">
+<div class="item" data-w="466" data-h="700">
 	<div class="img"><a href="{{ site.url }}/images/photos/bernalwet/t-F0701.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/bernalwet/st-F0701.jpg"></a></div>
 </div>
-<div class="item" data-w="500" data-h="750">
+<div class="item" data-w="466" data-h="700">
 	<div class="img"><a href="{{ site.url }}/images/photos/bernalwet/t-F0702.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/bernalwet/st-F0702.jpg"></a></div>
 </div>
-<div class="item" data-w="499" data-h="750">
+<div class="item" data-w="466" data-h="700">
 	<div class="img"><a href="{{ site.url }}/images/photos/bernalwet/t-F0704.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/bernalwet/st-F0704.jpg"></a></div>
 </div>
-<div class="item" data-w="500" data-h="750">
+<div class="item" data-w="466" data-h="700">
 	<div class="img"><a href="{{ site.url }}/images/photos/bernalwet/t-F0711.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/bernalwet/st-F0711.jpg"></a></div>
 </div>
-
-
-
 </div>
 </div>
 
 <script>
-$('#demo5').flexImages({ rowHeight:500 , truncate: 0});
+$('#demo5').flexImages({ rowHeight:700 , truncate: 0});
 </script>
