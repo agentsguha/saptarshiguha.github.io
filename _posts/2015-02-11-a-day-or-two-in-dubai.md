@@ -35,9 +35,11 @@ at every second corner.
 
 Some of the places visited were the Burj Khalifa, the Burj Al Arab, the never
 ending Dubai Mall (which must be a relief in summer), some of Sheetal's
-favorite restaurants (sadly closed ...). And her some of still present
+favorite restaurants (sadly closed ...). And some of the  still present
 restaurants don't taste the same. The butter purchased, the butter remembered
-and the butter tasted are three different things.
+and the butter tasted are three different things. We met her very gracious friends, long
+dinners, and longer drinks. Isn't it nice to meet friends after years hiatus and
+still feel  a connection? 
 
 
 The pictures below are mix of film (using the Bessa R3A) and Fuji XT1 (with the
