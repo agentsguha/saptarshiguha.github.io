@@ -47,8 +47,8 @@ convert=TRUE
 ii <- sprintf("%s\n",paste(unlist(lapply(1:nrow(m),function(i){
     l <- m[i,]
     if(convert) {
-        conv <- sprintf("convert %s -quality 100 -resize %sx%s %s", l$i, as.integer(l$w), as.integer(l$h), sprintf("t-%s",basename(l$i)))
-        conv2 <- sprintf("convert %s -quality 100 -resize %sx%s %s", l$i, as.integer(l$bw), as.integer(l$bh), sprintf("st-%s",basename(l$i)))
+        conv <- sprintf("convert %s -quality 100 -resize %sx%s %s", l$i, as.integer(l$bw), as.integer(l$bh), sprintf("t-%s",basename(l$i)))
+        conv2 <- sprintf("convert %s -quality 100 -resize %sx%s %s", l$i, as.integer(l$w), as.integer(l$h), sprintf("st-%s",basename(l$i)))
         print(conv)
         print(conv2)
         system(conv);system(conv2)
