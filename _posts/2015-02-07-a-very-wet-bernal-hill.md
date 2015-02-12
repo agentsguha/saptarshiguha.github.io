@@ -17,17 +17,18 @@ green and huggable in the winter.
 Dry or wet, it is a dogs haven. Morning, noon or evening, dogs are running,
 climbing, sauntering, stick chasing all throughout the hill. Up and windy, to
 the top, higher and higher to the communications tower. Owners, joggers,
-stragglers walk behind their dog or after the dog, each having their own good
+stragglers walk behind their dog or after the dog, each having a lovely
 time.
 
-The hill is steep to one side and gently unfolds towards the eastern side. Bernal Hill 
- was created when the Pacific plate moving underneath (_subducting_) the
-North American Plate. On a rainy day, the determined walker is exposed to the
-full unimpeded wind and the shards of rain that come with it. I had to walk at an angle! A
-cigarette took 8 matches to light.
+The hill is steep to one side and gently unfolds towards the eastern
+ side. Bernal Hill was created when the Pacific plate moved underneath
+ (_subducting_) the North American Plate. On a rainy day, the determined walker
+ is exposed to the full unimpeded wind and the shards of rain that come with
+ it. I had to walk at an angle! A cigarette took 8 matches to light.
 
-I wanted to capture her green loveliness, so I took a nice long walk and used the
-Fuji XT1+35mm/1.4 combination. Sufficiently overcast to shoot wide open throughout. Touched up in Lightroom.
+I wanted to capture her green loveliness, so I took a nice long walk and used
+the Fuji XT1+35mm/1.4 combination. Sufficiently overcast to shoot wide open
+throughout. Touched up in Lightroom.
 
 I also took some panoramas using a Hasselblad XPan. I'll update the page with
 this soon.

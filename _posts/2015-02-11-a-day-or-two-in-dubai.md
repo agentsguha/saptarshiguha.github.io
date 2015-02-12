@@ -11,7 +11,7 @@ tags: dubai, bessa r3a voightlander, film, portra , fuji xt1
 
 India calls or did call last year. I tend to miss the familiar sights and sounds
 of the country, though it is mostly missed in absentia. A healthy living involves
-being able to recognize around us what we miss when we are removed from it.
+being able to recognize experiences that we'll miss when we are removed from them.
 
 We stopped by Dubai for about two days. My wife worked in Dubai for two to three
 years and wanted to show me parts of it. I really wanted to find long
@@ -34,21 +34,20 @@ everywhere and we were treated to stern photos of Mohammed bin Rashid Al Maktoum
 at every second corner.
 
 Some of the places visited were the Burj Khalifa, the Burj Al Arab, the never
-ending Dubai Mall (which must be a relief in summer), some of Sheetal's
-favorite restaurants (sadly closed ...). And some of the  still present
-restaurants don't taste the same. The butter purchased, the butter remembered
-and the butter tasted are three different things. We met her very gracious friends, long
+ending Dubai Mall (which must be a relief in summer), some of Sheetal's favorite
+restaurants (sadly closed ...). And some of the still present restaurants don't
+taste the same. The butter purchased, the butter remembered and the butter
+tasted are three different things. We met her very gracious friends, had long
 dinners, and longer drinks. Isn't it nice to meet friends after years hiatus and
-still feel  a connection? 
+still feel a connection?
 
 
 The pictures below are mix of film (using the Bessa R3A) and Fuji XT1 (with the
-23mm lens).The latter is touched up in Lightroom. Fuji pictures are 17th
-onwards. The film was scanned by Richard Photo Labs who did a great job though I
-had to bring up the exposure by one third of a stop and expose the
-shadows/blacks a _lot_. Oh, and the Color Skopar 21mm Voigtlander lens is so
-damn useful. You can take a picture of almost any sized object and  it's easy to
-zone focus.
+23mm lens).The latter is touched up in Lightroom. Fuji pictures are the last 8.
+The film was scanned by Richard Photo Labs who did a great job though I had to
+bring up the exposure by one third of a stop and expose the shadows/blacks a
+_lot_. Oh, and the Color Skopar 21mm Voigtlander lens is so damn useful. You can
+take a picture of almost any sized object and it's easy to zone focus.
 
 
 Click on the pictures for larger views.
