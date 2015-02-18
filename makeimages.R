@@ -5,7 +5,7 @@ imges <- normalizePath(list.files(pattern=pattern,full=TRUE))
 pct <- 1
 mh <- 1500
 mw <- 1500
-PATH='dubai'
+PATH='bang1'
 FA <- mh/700
 Fh <- FA
 Fw <- FA
@@ -53,7 +53,7 @@ ii <- sprintf("%s\n",paste(unlist(lapply(1:nrow(m),function(i){
         print(conv2)
         system(conv);system(conv2)
     }
-    sprintf('<div class="item" data-w="%s" data-h="%s">\n\t<div class="img"><a href="{{ site.url }}/images/photos/%s/%s"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/%s/%s"></a></div>\n</div>', as.integer(l$bw), as.integer(l$bh),  PATH,if(convert) sprintf("t-%s", basename(l$i)) else basename(l$i),PATH,if(convert) sprintf("st-%s", basename(l$i)) else basename(l$i))
+    sprintf('<div class="item" data-w="%s" data-h="%s">\n\t<div class="img"><a href="{{ site.url }}/images/photos/%s/%s"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/%s/%s"></a></div>\n</div>', as.integer(l$w), as.integer(l$h),  PATH,if(convert) sprintf("t-%s", basename(l$i)) else basename(l$i),PATH,if(convert) sprintf("st-%s", basename(l$i)) else basename(l$i))
 })),collapse='\n'))
 cat(ii)
 cat("\n")
