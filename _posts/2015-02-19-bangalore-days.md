@@ -51,7 +51,7 @@ city. Similar sentiments heard in San Francisco.
 </div>
 
 <div class="row" style="margin-top:1.5em;">
-	<div class="col-xs-6">
+	<div class="col-xs-9">
 		<p> I don't have a comfort with the city to take pictures, so I didn't take
 many. Actually time was spent looking for another home for Sheetal's mum. Her
 mum spent many years in a lush sylvan nook in Kerala. Days of fresh clean air
@@ -67,7 +67,7 @@ electricity, a guard to keep us safe, and yet these new ivory towers are at the
 same time symbols of such inequity.  
 		</p>
 	</div>
-	<div class="col-xs-6">
+	<div class="col-xs-3">
 	<figure>
 	<a href="{{ site.url }}/images/photos/bang1/t-DSCF0488.jpg"> <img  style="margin:1em 0px;" src="{{ site.url }}/images/photos/bang1/st-DSCF0488.jpg" width='250'></a>
 		<figcaption>Construction outside our home</figcaption>

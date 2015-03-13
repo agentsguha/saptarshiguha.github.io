@@ -9,19 +9,13 @@
    <!-- syntax highlighting CSS -->
    <link rel="stylesheet" href="{{ site.url }}/css/syntax.css" type="text/css" />
 <!-- Homepage CSS -->
-<link rel="stylesheet" href="{{ site.url }}/css/screen.css" type="text/css" media="screen, projection"/>
 <link rel="stylesheet" href="https://people.mozilla.com/~sguha/blog/fleximage/jquery.flex-images.css"/>
+<link rel="stylesheet" href="{{ site.mybase }}/css/screen.css" type="text/css" media="screen, projection"/>
 
 <!-- Typography -->
 
-   <link href='https://fonts.googleapis.com/css?family=Hammersmith+One' rel='stylesheet' type='text/css'>
+  <link href='https://fonts.googleapis.com/css?family=Hammersmith+One' rel='stylesheet' type='text/css'>
   <link href='https://fonts.googleapis.com/css?family=Domine:400,700' rel='stylesheet' type='text/css'>
-<!--Highlighting JS-->
-<!-- <link href='{{site.url}}/js/highlight.js/styles/ascetic.css' rel='stylesheet'/> -->
-<!-- <script src='{{site.url}}/js/highlight.js/highlight.pack.js'/></script> -->
-<!-- <script> -->
-<!-- hljs.initHighlightingOnLoad(); -->
-<!-- </script> -->
 <!-- mathjax config similar to math.stackexchange -->
 <script type="text/x-mathjax-config">
 MathJax.Hub.Config({
@@ -54,46 +48,58 @@ line-height:120%;
 #demo7 .item { margin: 0 1px 10px 1px; border: 0;}
 #demo7 .item .img { position:relative; top:0;bottom:10; ;}
 #demo7 .item .bottomX { position:absolute;bottom:0px;font-size: 13px; margin:5px;width:100%; height: 18px; color:white;background-color:rgba(255,255,255,0.5); }
-
-
-
-
 </style>
 
 </head>
 <body>
 
-<!-- <div class="basecontainer"> -->
   
-<div class="site">
+<div class="row" style="margin-top:3em;">
+
+<div class="col-sm-2"></div>
+
+
+<div class="col-sm-8">
+
+  <div class="row">
+  <div class="col-sm-10">
   <div class="title">
     <a id="maintitle" href="{{site.url}}">aajikali</a><br/>
-    <ul>
-      <li><a class="extra" href="{{site.url}}/resources/saptarshi_guha_resume.pdf">resume</a></li>
-      <li><a class="extra" href="{{site.url}}/miscentries/projects.html">projects</a></li>
-    </ul>      
+    <!-- <ul> -->
+      <!-- <li><a class="extra" href="{{site.url}}/resources/saptarshi_guha_resume.pdf">resume</a></li> -->
+      <!-- <li><a class="extra" href="{{site.url}}/miscentries/projects.html">projects</a></li> -->
+    <!-- </ul> -->
   </div>
-
-  
-  {{ content }}
-
   </div>
-  
-  <div class="footer">
-  <div class="contact">
-    <p>
-      Saptarshi Guha<br />
-      Data Scientist at <a href="http://mozilla.com/">Mozilla</a><br />
-      saptarshi.guha@gmail.com<br/>
-    </p>
-    <p>
-    <a href="http://github.com/saptarshiguha/">github.com/saptarshiguha</a><br />
-    <a href="http://www.linkedin.com/in/saptarshiguha/">www.linkedin.com/in/saptarshiguha</a><br />
-    <a href="https://plus.google.com/115887938173387570339">Google Plus</a>
-    </p>
+  <div class="col-sm-2">
+  <div class="mycontact">
+           <p>
+           Saptarshi Guha<br />
+           Data Scientist at <a href="http://mozilla.com/">Mozilla</a><br />
+           saptarshi.guha@gmail.com<br/>
+           <a  href="{{site.url}}/resources/saptarshi_guha_resume.pdf">My Resume</a><br />
+           </p>
+           <p>
+           <a href="http://github.com/saptarshiguha/">github.com/saptarshiguha</a><br />
+           <a href="http://www.linkedin.com/in/saptarshiguha/">www.linkedin.com/in/saptarshiguha</a><br />
+           <a href="https://plus.google.com/115887938173387570339">Google Plus</a>
+           </p>
+  </div>
   </div>
   </div>
 
-      
+  <div class="row">
+  <div class="col-sm-12">
+    {{content}}
+  </div>
+  </div>
+
+  <div class="col-sm-2"></div>
+
+</div>
+
+
+</div>
+
 </body>
 </html>

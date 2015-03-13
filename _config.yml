@@ -21,6 +21,8 @@ name: aajikali
 description: that often thought yet rarely written
 baseurl: /blog
 url: https://people.mozilla.com/~sguha/blog
+#url: /Users/sguha/saptarshiguha.github.io/_site/
+mybase: ./
 
 tags:
 - jekyll

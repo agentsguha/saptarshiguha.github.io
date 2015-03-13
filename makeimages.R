@@ -3,17 +3,12 @@ pattern <- "*jpg"
 imges <- normalizePath(list.files(pattern=pattern,full=TRUE))
 ## PARAMS
 pct <- 1
-mh <- 1500
-mw <- 1500
-PATH='bang1'
-FA <- mh/700
-Fh <- FA
-Fw <- FA
+PATH='dcaws'
 
 
 ##
-rowheight <- 700
-rowwidth <- 1200
+rowheight <- 600
+rowwidth <- 600
 
 large.width <- 1500
 large.height <- 1500
