@@ -264,9 +264,16 @@ ul.posts span {
     display:inline;
     font-size:12pt;
 }
+#posttit {
+    font-family: 'Cousine', "Andale Mono";
+    font-size:10pt;
+    color: #000000;
+    font-weight:bold;
+}    
 .postdate {
-    font-family: 'Domine', sans-serif;
-    font-size:14pt;
+    font-family: 'Cousine', "Andale Mono";
+    font-size:10pt;
+    margin-right:1em;
 }
 .site .title a {
     color: #222;

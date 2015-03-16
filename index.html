@@ -7,8 +7,9 @@ title: aajikaali, delayed indulgence.
   <ul class="posts">
     {% for post in site.posts %}
     <li>
-      <span class="postdate">{{ post.date | date: "%b %d, %Y" }}</span>
-    <a href="{{site.mybase}}{{ post.url }}">{{ post.title }}</a></br><div      class="excerpt"> <it>{{ post.excerpt }} </it></span>
+    <span class="postdate">{{ post.date | date: "%b %d, %Y" }}</span>
+    <a id="posttit" href="{{site.mybase}}{{ post.url }}">{{ post.title }}</a>
+    <div class="excerpt"> {{ post.excerpt }} </span>
     </li>
     {% endfor %}
   </ul>
