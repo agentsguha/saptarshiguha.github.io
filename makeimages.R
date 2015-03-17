@@ -8,8 +8,8 @@ PATH='xpanAndvisitors'
 
 
 ##
-rowheight <- 600
-rowwidth <- 600
+rowheight <- 400
+rowwidth <- 400
 
 large.width <- 1500
 large.height <- 1500
@@ -69,3 +69,10 @@ cat(ii)
 cat("\n")
 
 
+
+
+y <- rhwatch(map=function(a,b){
+    seconds <- round(runif(1)*3600,0)
+    rhcollect(1,c(1,seconds, seconds/3600))
+}, reduce=rhoptions()$temp$colsummer, input=c(1e9,10000,100))
+    
