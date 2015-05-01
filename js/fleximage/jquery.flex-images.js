@@ -27,7 +27,7 @@
 
     function makeGrid(container, items, o, noresize){
         var x, new_w, ratio = 1, rows = 1, max_w = container.width(), row = [], row_width = 0, row_h = o.rowHeight;
-
+        console.log("Width="+max_w);
         // define inside makeGrid to access variables in scope
         function _helper(lastRow){
             if (o.maxRows && rows > o.maxRows || o.truncate && lastRow) row[x][0].hide();
@@ -36,11 +36,12 @@
                 row[x][0].css({ width: new_w, height: row_h }).show();
             }
         }
-
         for (i=0; i<items.length; i++) {
             row.push(items[i]);
             row_width += items[i][3] + o.margin;
+            console.log("i="+i+" current_width="+row_width);
             if (row_width >= max_w) {
+                console.log("Now have to show");
                 ratio = max_w / row_width, row_h = Math.ceil(o.rowHeight*ratio), exact_w = 0, new_w;
                 for (x=0; x<row.length; x++) {
                     new_w = Math.ceil(row[x][3]*ratio);
@@ -55,8 +56,18 @@
         }
         // layout last row - match height of last row to previous row
         for (x=0; x<row.length; x++) {
-            new_w = Math.floor(row[x][3]*ratio), h = Math.floor(o.rowHeight*ratio);
-            _helper(true);
+            // if work needs to be done herem thats because images were added but did not
+            // exceed the width of te container, had it exceeded, it would have been processed
+            // in the above if condition block and row would be []
+            // ratio = max_w / row_width;
+            // only set ratio to ratio if aspect of image is <1
+            row_h = Math.ceil(o.rowHeight*ratio), exact_w = 0, new_w;
+            for (x=0; x<row.length; x++) {
+                new_w = Math.ceil(row[x][3]*ratio);
+                exact_w += new_w + o.margin;
+                if (exact_w > max_w) new_w -= exact_w - max_w + 1;
+                _helper();
+            }
         }
 
         // scroll bars added or removed during rendering new layout?

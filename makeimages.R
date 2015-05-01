@@ -4,12 +4,14 @@ pattern <- "*jpg"
 imges <- normalizePath(list.files(pattern=pattern,full=TRUE))
 ## PARAMS
 pct <- 1
-PATH='xpanAndvisitors'
+PATH='hotevening'
 
 
 ##
-rowheight <- 400
-rowwidth <- 400
+rowheight <- 800
+rowwidth <- 1200
+## rowheight <- 400
+## rowwidth <- 400
 
 large.width <- 1500
 large.height <- 1500
@@ -33,7 +35,8 @@ m <- lapply(imges, function(s){
     width <- hw[1];height=hw[2];
     aspect <- height/width
     useXPAN <- (aspect < 0.45) || (aspect >= 2.2)
-    convertThis <- grepl("^(DSC)", s)
+    convertThis <- grepl("(DSC)", s)
+    print(convertThis)
     if(width<=height){
         ## a portrait photo
         new.height <- min(rowheight*(useXPAN*xpan.fac+(1-useXPAN)*1), height)
@@ -71,8 +74,8 @@ cat("\n")
 
 
 
-y <- rhwatch(map=function(a,b){
-    seconds <- round(runif(1)*3600,0)
-    rhcollect(1,c(1,seconds, seconds/3600))
-}, reduce=rhoptions()$temp$colsummer, input=c(1e9,10000,100))
+## y <- rhwatch(map=function(a,b){
+##     seconds <- round(runif(1)*3600,0)
+##     rhcollect(1,c(1,seconds, seconds/3600))
+## }, reduce=rhoptions()$temp$colsummer, input=c(2e9,50000,100))
     
