@@ -256,6 +256,9 @@ $('#demo8').flexImages({ rowHeight:430 , truncate: 0});
 	<div class="img"><a href="{{ site.url }}/images/photos/xpanpakon/t-1.jpg.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/xpanpakon/st-1.jpg.jpg"></a></div>
 </div>
 </div>
+</div>
+</div>
+
 <script>
 $('#demo9').flexImages({ rowHeight:430 , truncate: 0});
 </script>
