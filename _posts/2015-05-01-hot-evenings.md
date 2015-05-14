@@ -22,7 +22,7 @@ the air is warm and the air is still
 <p>no wind to hear, no hugging ourselves</p>
 <p>and only laughter</p>
 <p>the drunken rancour</p>
-<p>old men eating icecream</p>
+<p>old men slurping icecream</p>
 <p>people disbeleving</p>
 <p>and nature hears the sounds of a city</p>
 </blockquote>

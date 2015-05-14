@@ -73,7 +73,7 @@
                  overflow:auto;
                  min-height:100px;
                  height:auto!important;
-                 height:100px;/
+                 height:100px;
 
 }
 
@@ -89,6 +89,7 @@ body {
        background-position: 50% -16%;
        background-size: 200px;
        background-position:fixed; 
+       width:100%;
        /* max-width:92%; */
        /* margin:auto; */
        }
@@ -98,6 +99,9 @@ body {
     font-size: 15.34px ;
 }
 
+.bannerimg{
+    float:left;max-width: 100%;height:auto;width:auto\9;
+}
 
 .tm {
     width:95%;
@@ -230,6 +234,7 @@ ul.posts span {
 #post {
     font-family: 'Cambo',georgia,serif;
     font-size: 15.34px ;
+    overflow:visible;
 }
 
 /*****************************************************************************/

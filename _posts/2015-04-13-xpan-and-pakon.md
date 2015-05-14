@@ -1,16 +1,23 @@
 ---
-layout: post
+layout: post2
 title: The XPan and Pakon Getting Along
 excerpt: XPan is 35mm and the Pakon scans 35mm. So can I? Yes, using the TLXCLientDemo  ....
 tags: xpan, pakon, 35mm, film, panoramic
 ---
 
-{{ page.title }}
-================
+  
+
+<!-- Main CSS Body goes here -->
+<div class="row">
+<div class="col-sm-2"></div>
+<div class="col-sm-8">
+
+
+<h1> {{ page.title }} </h1>
 <div class="pdate"> {{ page.date | date: "%b %d, %Y" }} </div>
 
 <div class="row">
-	<div class="col-xs-9">
+<div class="col-xs-9">
 <p>
 
 Not happy with scanning quality and price combinations that abound in the San
@@ -163,15 +170,20 @@ view and then frame.
 
 </div>
 
-## Proof Picture Positive
+</div>
+</div>
+
 
 <div class="row">
-<div class="col-xs-12">
+<div class="col-sm-2"></div>
+<div class="col-sm-8">
+
+<h2> Proof Picture Positive</h2>
 
 At the end of the day, I got some nice scans from expired Kodak 800 film( found
 in my wife's box of hoarding, a person who is least interested in photography)
 and a roll of Tri-X 400 (taken in Seattle). I saved to JPG and touched them up
-in  Lightroom.
+in  Lightroom v5.
 
 <br/>
 <div id="demo6" class="flex-images" style="padding-top:0.5em;">
@@ -184,14 +196,27 @@ in  Lightroom.
 <div class="item" data-w="2400" data-h="905">
 	<div class="img"><a href="{{ site.url }}/images/photos/xpanpakon/t-12A.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/xpanpakon/st-12A.jpg"></a></div>
 </div>
-<div class="item" data-w="2400" data-h="905">
-	<div class="img"><a href="{{ site.url }}/images/photos/xpanpakon/t-13.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/xpanpakon/st-13.jpg"></a></div>
-</div>
-<div class="item" data-w="2400" data-h="903">
-	<div class="img"><a href="{{ site.url }}/images/photos/xpanpakon/t-18A.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/xpanpakon/st-18A.jpg"></a></div>
-</div>
 <div class="item" data-w="2400" data-h="903">
 	<div class="img"><a href="{{ site.url }}/images/photos/xpanpakon/t-22A.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/xpanpakon/st-22A.jpg"></a></div>
+</div>
+</div>
+</div>
+</div>
+<script>
+$('#demo6').flexImages({ rowHeight:430 , truncate: 0});
+</script>
+
+<div class="row" style="margin:0.5em;">
+<a href="{{ site.url }}/images/photos/xpanpakon/t-13.jpg" ><img class='bannerimg' src="{{ site.url }}/images/photos/xpanpakon/t-13.jpg"></a>
+</div>
+
+
+<div class="row"><div class="col-sm-2"></div>
+<div class="col-sm-8">
+
+<div id="demo8" class="flex-images" style="padding-top:0.5em;">
+<div class="item" data-w="2400" data-h="903">
+	<div class="img"><a href="{{ site.url }}/images/photos/xpanpakon/t-18A.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/xpanpakon/st-18A.jpg"></a></div>
 </div>
 <div class="item" data-w="2400" data-h="895">
 	<div class="img"><a href="{{ site.url }}/images/photos/xpanpakon/t-3.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/xpanpakon/st-3.jpg"></a></div>
@@ -202,9 +227,22 @@ in  Lightroom.
 <div class="item" data-w="2400" data-h="891">
 	<div class="img"><a href="{{ site.url }}/images/photos/xpanpakon/t-5.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/xpanpakon/st-5.jpg"></a></div>
 </div>
-<div class="item" data-w="2400" data-h="430">
-	<div class="img"><a href="{{ site.url }}/images/photos/xpanpakon/t-cross2.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/xpanpakon/st-cross2.jpg"></a></div>
 </div>
+
+</div>
+</div>
+<script>
+$('#demo8').flexImages({ rowHeight:430 , truncate: 0});
+</script>
+
+
+<div class="row" style="margin:0.5em;">
+<a href="{{ site.url }}/images/photos/xpanpakon/t-cross2.jpg" ><img class='bannerimg' src="{{ site.url }}/images/photos/xpanpakon/t-cross2.jpg"></a>
+</div>
+
+<div class="row"><div class="col-sm-2"></div>
+<div class="col-sm-8">
+<div id="demo9" class="flex-images" style="padding-top:0.5em;">
 <div class="item" data-w="2400" data-h="880">
 	<div class="img"><a href="{{ site.url }}/images/photos/xpanpakon/t-docks.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/xpanpakon/st-docks.jpg"></a></div>
 </div>
@@ -217,11 +255,11 @@ in  Lightroom.
 <div class="item" data-w="1200" data-h="555">
 	<div class="img"><a href="{{ site.url }}/images/photos/xpanpakon/t-1.jpg.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/xpanpakon/st-1.jpg.jpg"></a></div>
 </div>
-
-</div>
-</div>
 </div>
 <script>
-$('#demo6').flexImages({ rowHeight:430 , truncate: 0});
+$('#demo9').flexImages({ rowHeight:430 , truncate: 0});
 </script>
 
+
+
+  
