@@ -4,4 +4,7 @@ _site
 *.tgz
 *.tar.gz
 *.jpg
+*.png
+*.JPG
+*.PNG
 

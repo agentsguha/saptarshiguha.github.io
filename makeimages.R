@@ -4,17 +4,17 @@ pattern <- "*jpg"
 imges <- normalizePath(list.files(pattern=pattern,full=TRUE))
 ## PARAMS
 pct <- 1
-PATH='hotevening'
+PATH='bw2'
 
 
 ##
-rowheight <- 800
+rowheight <- 1200
 rowwidth <- 1200
 ## rowheight <- 400
 ## rowwidth <- 400
 
-large.width <- 1500
-large.height <- 1500
+large.height <- 1440
+large.width <- 2560
 
 ## xpan  factor
 xpan.fac <- 2

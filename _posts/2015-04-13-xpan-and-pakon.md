@@ -206,7 +206,7 @@ in  Lightroom v5.
 $('#demo6').flexImages({ rowHeight:430 , truncate: 0});
 </script>
 
-<div class="row" style="margin:0.5em;">
+<div class="row" style="margin:0;padding:0;margin-top:0.5em;margin-bottom:0.5em;">
 <a href="{{ site.url }}/images/photos/xpanpakon/t-13.jpg" ><img class='bannerimg' src="{{ site.url }}/images/photos/xpanpakon/t-13.jpg"></a>
 </div>
 
@@ -236,7 +236,7 @@ $('#demo8').flexImages({ rowHeight:430 , truncate: 0});
 </script>
 
 
-<div class="row" style="margin:0.5em;">
+<div class="row" style="margin:0;padding:0;margin-top:0.5em;margin-bottom:0.5em;">
 <a href="{{ site.url }}/images/photos/xpanpakon/t-cross2.jpg" ><img class='bannerimg' src="{{ site.url }}/images/photos/xpanpakon/t-cross2.jpg"></a>
 </div>
 
@@ -246,9 +246,6 @@ $('#demo8').flexImages({ rowHeight:430 , truncate: 0});
 <div class="item" data-w="2400" data-h="880">
 	<div class="img"><a href="{{ site.url }}/images/photos/xpanpakon/t-docks.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/xpanpakon/st-docks.jpg"></a></div>
 </div>
-<div class="item" data-w="695" data-h="1600">
-	<div class="img"><a href="{{ site.url }}/images/photos/xpanpakon/t-DX_ERROR.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/xpanpakon/st-DX_ERROR.jpg"></a></div>
-</div>
 <div class="item" data-w="2400" data-h="885">
 	<div class="img"><a href="{{ site.url }}/images/photos/xpanpakon/t-troll.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/xpanpakon/st-troll.jpg"></a></div>
 </div>
@@ -256,6 +253,8 @@ $('#demo8').flexImages({ rowHeight:430 , truncate: 0});
 	<div class="img"><a href="{{ site.url }}/images/photos/xpanpakon/t-1.jpg.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/xpanpakon/st-1.jpg.jpg"></a></div>
 </div>
 </div>
+<a href="{{ site.url }}/images/photos/xpanpakon/t-DX_ERROR.jpg"><img class='bannerimg' src="{{ site.url }}/images/photos/xpanpakon/t-DX_ERROR.jpg"></a>
+
 </div>
 </div>
 

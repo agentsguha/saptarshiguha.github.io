@@ -100,7 +100,17 @@ body {
 }
 
 .bannerimg{
-    float:left;max-width: 100%;height:auto;width:auto\9;
+    float:left;max-width: 100%;height:auto;width:auto;
+}
+
+#textcontent {
+    margin-left:2.5em;
+    margin-right:2.5em;
+    line-height: 130%;
+}
+
+p.textcontent {
+    line-height: 140%;
 }
 
 .tm {
