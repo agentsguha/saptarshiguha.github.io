@@ -4,17 +4,17 @@ pattern <- "*jpg"
 imges <- normalizePath(list.files(pattern=pattern,full=TRUE))
 ## PARAMS
 pct <- 1
-PATH='bw2'
+PATH='lostcoast'
 
 
 ##
-rowheight <- 1200
-rowwidth <- 1200
+rowheight <- 600
+rowwidth <- 600
 ## rowheight <- 400
 ## rowwidth <- 400
 
-large.height <- 1440
-large.width <- 2560
+large.height <- 1800
+large.width <- 2880
 
 ## xpan  factor
 xpan.fac <- 2
@@ -29,7 +29,7 @@ convert=c(DSC=TRUE,ELSE=FALSE)
 ## Code
 library(data.table)
 m <- lapply(imges, function(s){
-    i1 <- system(sprintf("identify -verbose %s", s),inter=TRUE)
+    i1 <- system(sprintf("identify -verbose '%s'", s),inter=TRUE)
     hw <- as.numeric(strsplit(strsplit(tail(strsplit(i1[grepl("Geometry",i1)]," ")[[1]],1),"+",fixed=TRUE)[[1]][[1]],"x")[[1]])
     print(sprintf("%s w=%s h=%s", s, hw[1], hw[2]))
     width <- hw[1];height=hw[2];
@@ -57,11 +57,11 @@ m <- rbindlist(m)
 ii <- sprintf("%s\n",paste(unlist(lapply(1:nrow(m),function(i){
     l <- m[i,]
     if(l$convert) {
-        conv <- sprintf("convert %s -quality 100 -resize %sx%s %s", l$i, as.integer(l$bw), as.integer(l$bh), sprintf("t-%s",basename(l$i)))
+        conv <- sprintf("convert '%s' -quality 100 -resize %sx%s '%s'", l$i, as.integer(l$bw), as.integer(l$bh), sprintf("t-%s",basename(l$i)))
     }else {
-        conv <- sprintf("cp %s ./%s",l$i,  sprintf("t-%s",basename(l$i)))
+        conv <- sprintf("cp '%s' './%s'",l$i,  sprintf("t-%s",basename(l$i)))
     }
-    conv2 <- sprintf("convert %s -quality 100 -resize %sx%s %s", l$i, as.integer(l$w), as.integer(l$h), sprintf("st-%s",basename(l$i)))
+    conv2 <- sprintf("convert '%s' -quality 100 -resize %sx%s '%s'", l$i, as.integer(l$w), as.integer(l$h), sprintf("st-%s",basename(l$i)))
     print(conv)
     print(conv2)
     system(conv);system(conv2)
@@ -72,10 +72,3 @@ cat(ii)
 cat("\n")
 
 
-
-
-## y <- rhwatch(map=function(a,b){
-##     seconds <- round(runif(1)*3600,0)
-##     rhcollect(1,c(1,seconds, seconds/3600))
-## }, reduce=rhoptions()$temp$colsummer, input=c(2e9,50000,100))
-    

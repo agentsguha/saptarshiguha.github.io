@@ -181,7 +181,7 @@ view and then frame.
 <h2> Proof Picture Positive</h2>
 
 At the end of the day, I got some nice scans from expired Kodak 800 film( found
-in my wife's box of hoarding, a person who is least interested in photography)
+in Sheetal's box of hoarding, a person who is least interested in photography)
 and a roll of Tri-X 400 (taken in Seattle). I saved to JPG and touched them up
 in  Lightroom v5.
 

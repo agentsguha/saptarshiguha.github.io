@@ -13,7 +13,7 @@ India calls or did call last year. I tend to miss the familiar sights and sounds
 of the country, though it is mostly missed in absentia. A healthy living involves
 being able to recognize experiences that we'll miss when we are removed from them.
 
-We stopped by Dubai for about two days. My wife worked in Dubai for two to three
+We stopped by Dubai for about two days. Sheetal worked in Dubai for two to three
 years and wanted to show me parts of it. I really wanted to find long
 undiscovered histories of Dubai, but it is a new city and a great example of what
 new found money (oil discovery) when put to good use can do for a country(think
