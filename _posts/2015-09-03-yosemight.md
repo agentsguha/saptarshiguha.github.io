@@ -41,7 +41,7 @@ Mariposa can be massively hot and Yosemite can be amazingly
 crowded. So crowded in fact that the road to Glacier Point was blocked
 because of traffic and a ranger had to do traffic control. Expect to
 wait an hour in traffic. In a national park. Huh. It was rather
-disappointing because we very likely spent more in traffic than
+disappointing because we very likely spent more time in traffic than
 sniffing air.
 
 </p>
