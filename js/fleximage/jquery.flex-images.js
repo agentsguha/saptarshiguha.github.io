@@ -14,9 +14,11 @@
             $items.each(function(){
                 var w = parseInt($(this).data('w')),
                     h = parseInt($(this).data('h')),
+                    isSolo = $(this).data('solo') ;                  
+                    sqz = $(this).data('sqz') ;                  
                     norm_w = w*(o.rowHeight/h), // normalized width
                     obj = $(this).find(o.object);
-                items.push([$(this), w, h, norm_w, obj, obj.data('src')]);
+                items.push([$(this), w, h, norm_w, obj, obj.data('src'),{solo:isSolo,sqz:sqz}]);
             });
             makeGrid($this, items, o);
             $(window).off('resize.flexImages'+$this.data('flex-t'));
@@ -27,47 +29,69 @@
 
     function makeGrid(container, items, o, noresize){
         var x, new_w, ratio = 1, rows = 1, max_w = container.width(), row = [], row_width = 0, row_h = o.rowHeight;
-        console.log("Width="+max_w);
         // define inside makeGrid to access variables in scope
-        function _helper(lastRow){
-            if (o.maxRows && rows > o.maxRows || o.truncate && lastRow) row[x][0].hide();
+        function _helper(lastRow,rows,rr){
+            if (o.maxRows && rows > o.maxRows || o.truncate && lastRow) rr[x][0].hide();
             else {
-                if (row[x][5]) { row[x][4].attr('src', row[x][5]); row[x][5] = ''; }
-                row[x][0].css({ width: new_w, height: row_h }).show();
+                if (rr[x][5]) { rr[x][4].attr('src', rr[x][5]); rr[x][5] = ''; }
+                rr[x][0].css({ width: new_w, height: row_h }).show();
             }
         }
-        for (i=0; i<items.length; i++) {
-            row.push(items[i]);
-            row_width += items[i][3] + o.margin;
-            console.log("i="+i+" current_width="+row_width);
-            if (row_width >= max_w) {
-                console.log("Now have to show");
-                ratio = max_w / row_width, row_h = Math.ceil(o.rowHeight*ratio), exact_w = 0, new_w;
-                for (x=0; x<row.length; x++) {
-                    new_w = Math.ceil(row[x][3]*ratio);
+        function _isSolo(x){
+            console.log(x);
+            if (x.solo== "y" || x.solo=="yes" || x.solo=="1") {
+                return true;
+            }
+            return false;
+        }
+        function doFlush(r,w,myrows){
+            ratio = max_w / w;
+            row_h = Math.ceil(o.rowHeight*ratio), exact_w = 0, new_w;
+            for (x=0; x<r.length; x++) {
+                    new_w = Math.ceil(r[x][3]*ratio);
                     exact_w += new_w + o.margin;
                     if (exact_w > max_w) new_w -= exact_w - max_w + 1;
-                    _helper();
+                    _helper(false,myrows, r);
+                }  
+        }
+       var i = 0; 
+       while(i < items.length) {
+            if(_isSolo(items[i][6])) {
+               if(row.length >0 ) {
+                   doFlush(row, row_width);
+                   row = [], row_width = 0;
+                   rows++;
+               }
+               doFlush( [ items[i]], items[i][3]+o.margin,rows);
+               rows++;
+               i = i+1;
+            } else {
+                row.push(items[i]);
+                row_width += items[i][3] + o.margin;
+                i = i+1
+                if (row_width >= max_w || items[i][6].flush=="y") {
+                    // about to flush
+                    j = i;
+                    if(j< (items.length-1)){
+                        while(true){
+                                var tt = items[j];
+                                if(tt[6].sqz=="y"){
+                                    row.push(tt);
+                                    row_width += tt[3] + o.margin;
+                                }else break
+                                j = j+1;  
+                        }
+                    }
+                    doFlush(row, row_width,rows);
+                    row = [], row_width = 0;
+                    rows++;
+                    i = j;
                 }
-                // reset for next row
-                row = [], row_width = 0;
-                rows++;
             }
         }
         // layout last row - match height of last row to previous row
-        for (x=0; x<row.length; x++) {
-            // if work needs to be done herem thats because images were added but did not
-            // exceed the width of te container, had it exceeded, it would have been processed
-            // in the above if condition block and row would be []
-            // ratio = max_w / row_width;
-            // only set ratio to ratio if aspect of image is <1
-            row_h = Math.ceil(o.rowHeight*ratio), exact_w = 0, new_w;
-            for (x=0; x<row.length; x++) {
-                new_w = Math.ceil(row[x][3]*ratio);
-                exact_w += new_w + o.margin;
-                if (exact_w > max_w) new_w -= exact_w - max_w + 1;
-                _helper();
-            }
+        if(row.length>0){
+            doFlush(row, row_width);
         }
 
         // scroll bars added or removed during rendering new layout?

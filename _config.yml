@@ -3,11 +3,11 @@ rouge: true
 future: true
 lsi: false
 
-extensions:	
+extensions:
  - autolink      # greedily urlify links
  - footnotes     # footnotes
  - smart         # typographic substitutions with SmartyPants
- 
+
 author: Saptarshi Guha
 username: saptarshiguha
 email: saptarshi.guha@gmail.com
@@ -31,7 +31,4 @@ tags:
 kramdown:
    enable_coderay: true
    toc_levels: 2..6
-   use_coderay: true
-
-      
-      
+   enable_coderay: true
