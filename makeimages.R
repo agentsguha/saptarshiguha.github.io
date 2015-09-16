@@ -4,11 +4,11 @@ pattern <- ".*jpg"
 imges <- normalizePath(list.files(pattern=pattern,full=TRUE))
 ## PARAMS
 pct <- 1
-PATH='jose'
+PATH='plaubel1'
 
 ##
-rowheight <- 900
-rowwidth <- 900
+rowheight <- 850
+rowwidth <- 850
 ## rowheight <- 400
 ## rowwidth <- 400
 

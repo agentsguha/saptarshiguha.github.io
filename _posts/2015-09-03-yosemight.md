@@ -72,7 +72,7 @@ Voigtlander 21mm.
 	<div class="img"><a href="{{ site.url }}/images/photos/jose/t-000070390001.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/jose/st-bord-000070390001.jpg"></a></div>
 </div>
 <div class="item" data-w="900" data-h="867" data-sqz='y'>
-	<div class="img"><a href="{{ site.url }}/images/photos/jose/t-000070390003.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/jose/st-bord-000070390003.jpg"></a></div>
+	<div class="img"><a href="{{ site.url }}/images/photos/jose/000078470003.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/jose/000078470003.jpg"></a></div>
 </div>
 <div class="item" data-solo="y" data-w="900" data-h="876">
 	<div class="img"><a href="{{ site.url }}/images/photos/jose/t-000070390007.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/jose/st-bord-000070390007.jpg"></a></div>
@@ -166,14 +166,16 @@ $('#demo6').flexImages({ rowHeight:900 , truncate: 0});
 	<div class="img"><a href="{{ site.url }}/images/photos/jose/t-aAB016.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/jose/st-bord-aAB016.jpg"></a></div>
 </div>
 <div class="item" data-w="625" data-h="900">
-	<div class="img"><a href="{{ site.url }}/images/photos/jose/t-AB011.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/jose/st-bord-AB011.jpg"></a></div>
-</div>
-<div class="item" data-w="625" data-h="900">
 	<div class="img"><a href="{{ site.url }}/images/photos/jose/t-AB015.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/jose/st-bord-AB015.jpg"></a></div>
 </div>
 <div class="item" data-w="900" data-h="578">
 	<div class="img"><a href="{{ site.url }}/images/photos/jose/t-abAB015.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/jose/st-bord-abAB015.jpg"></a></div>
 </div>
+<div class="item" data-w="625" data-h="900" data-sqz="y">
+	<div class="img"><a href="{{ site.url }}/images/photos/jose/t-AB011.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/jose/st-bord-AB011.jpg"></a></div>
+</div>
+
+
 <div class="item" data-w="626" data-h="900">
 	<div class="img"><a href="{{ site.url }}/images/photos/jose/t-abAB012.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/jose/st-bord-abAB012.jpg"></a></div>
 </div>
@@ -184,7 +186,7 @@ $('#demo6').flexImages({ rowHeight:900 , truncate: 0});
 <div class="item" data-w="900" data-h="579">
 	<div class="img"><a href="{{ site.url }}/images/photos/jose/t-abAB016.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/jose/st-bord-abAB016.jpg"></a></div>
 </div>
-<div class="item" data-w="900" data-h="578">
+<div class="item" data-w="900" data-h="578" data-solo="y">
 	<div class="img"><a href="{{ site.url }}/images/photos/jose/t-abAB017.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/jose/st-bord-abAB017.jpg"></a></div>
 </div>
 
