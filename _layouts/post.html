@@ -3,12 +3,21 @@ layout: default
 ---
    <script src="https://code.jquery.com/jquery-1.11.1.min.js"></script>
    <script src="{{ site.url }}/js/fleximage/jquery.flex-images.js"></script>
+   <script src="{{ site.url }}/js/lightbox/lightbox.js"></script>
+   <script>
+    lightbox.option({
+      'resizeDuration': 200,
+      'wrapAround': true
+    })
+   </script>
+<!-
 <!-- Latest compiled and minified CSS -->
 
 <!-- Latest compiled and minified JavaScript -->
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
 <link rel="stylesheet" href="{{ site.url }}/css/screen.css" type="text/css" media="screen, projection"/>
 <link rel="stylesheet" href="{{ site.url }}/js/fleximage/jquery.flex-images.css"/>
+<link href="{{ site.url }}/css/lightbox.css" rel="stylesheet">
 
 <div id="post">
 {{ content }}

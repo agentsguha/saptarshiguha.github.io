@@ -84,11 +84,11 @@ html{ height:100%; }
 body {
        height: 100%;
        background-color:#FFFFFF;
-       background-image:url('firefox-aurora_logo-only_RGB.small.png');
-       background-repeat: no-repeat;
-       background-position: 50% -16%;
-       background-size: 200px;
-       background-position:fixed; 
+     /*  background-image:url('firefox-aurora_logo-only_RGB.small.png');*/
+     /*  background-repeat: no-repeat;*/
+     /*  background-position: 50% -16%;*/
+     /*  background-size: 200px;*/
+     /*  background-position:fixed;*/ 
        width:100%;
        /* max-width:92%; */
        /* margin:auto; */

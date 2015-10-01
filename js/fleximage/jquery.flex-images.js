@@ -3,6 +3,14 @@
     Copyright (c) 2014 Simon Steinberger / Pixabay
     GitHub: https://github.com/Pixabay/jQuery-flexImages
 	License: http://www.opensource.org/licenses/mit-license.php
+    
+    data-solo  = image placed by itself
+    data-sqz   = force image to be in same row as currently being formed
+    data-flush = flush the current row with this  image
+    
+    Images are placed one by one till the exceed the width
+    and then a new row is formed.
+    
 */
 
 (function($){
@@ -38,7 +46,6 @@
             }
         }
         function _isSolo(x){
-            console.log(x);
             if (x.solo== "y" || x.solo=="yes" || x.solo=="1") {
                 return true;
             }
@@ -57,6 +64,7 @@
        var i = 0; 
        while(i < items.length) {
             if(_isSolo(items[i][6])) {
+                console.log("Item is Solo"+items[i])
                if(row.length >0 ) {
                    doFlush(row, row_width);
                    row = [], row_width = 0;
@@ -66,10 +74,12 @@
                rows++;
                i = i+1;
             } else {
+                console.log("SBEGUNG")
+                console.log(items[i][6]) 
                 row.push(items[i]);
                 row_width += items[i][3] + o.margin;
-                i = i+1
-                if (row_width >= max_w || items[i][6].flush=="y") {
+                i = i+1;
+                if (row_width >= max_w || (items[i] != undefined && items[i][6].flush=="y") ){
                     // about to flush
                     j = i;
                     if(j< (items.length-1)){
@@ -86,7 +96,7 @@
                     row = [], row_width = 0;
                     rows++;
                     i = j;
-                }
+                } // else { i = i+1;}
             }
         }
         // layout last row - match height of last row to previous row

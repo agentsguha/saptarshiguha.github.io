@@ -16,7 +16,6 @@ tags: xpan
 
 <div id="textcontent">
 <p>
-Tadddaaa
 </p>
 </div>
 
@@ -41,12 +40,14 @@ Tadddaaa
 <div class="item" data-w="397" data-h="600">
 	<div class="img"><a href="{{ site.url }}/images/photos/colddc/t-000088580008.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/colddc/st-000088580008.jpg"></a></div>
 </div>
-<div class="item" data-w="397" data-h="600">
+<!--<div class="item" data-w="397" data-h="600">
 	<div class="img"><a href="{{ site.url }}/images/photos/colddc/t-000088580009.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/colddc/st-000088580009.jpg"></a></div>
 </div>
+
 <div class="item" data-w="397" data-h="600">
 	<div class="img"><a href="{{ site.url }}/images/photos/colddc/t-000088580010.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/colddc/st-000088580010.jpg"></a></div>
 </div>
+-->
 <div class="item" data-w="397" data-h="600">
 	<div class="img"><a href="{{ site.url }}/images/photos/colddc/t-000088580011.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/colddc/st-000088580011.jpg"></a></div>
 </div>
@@ -59,16 +60,18 @@ Tadddaaa
 <div class="item" data-w="600" data-h="397">
 	<div class="img"><a href="{{ site.url }}/images/photos/colddc/t-000088580014.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/colddc/st-000088580014.jpg"></a></div>
 </div>
-<div class="item" data-w="397" data-h="600">
+<div class="item" data-w="397" data-h="600" data-flush='y'>
 	<div class="img"><a href="{{ site.url }}/images/photos/colddc/t-000088580015.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/colddc/st-000088580015.jpg"></a></div>
 </div>
+<!--
 <div class="item" data-w="397" data-h="600">
 	<div class="img"><a href="{{ site.url }}/images/photos/colddc/t-000088580016.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/colddc/st-000088580016.jpg"></a></div>
 </div>
+-->
 <div class="item" data-w="397" data-h="600">
 	<div class="img"><a href="{{ site.url }}/images/photos/colddc/t-000088580017.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/colddc/st-000088580017.jpg"></a></div>
 </div>
-<div class="item" data-w="600" data-h="397">
+<div class="item" data-w="600" data-h="397" data-flush='y'>
 	<div class="img"><a href="{{ site.url }}/images/photos/colddc/t-000088580018.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/colddc/st-000088580018.jpg"></a></div>
 </div>
 <div class="item" data-w="397" data-h="600">
@@ -95,8 +98,8 @@ Tadddaaa
 <div class="item" data-w="397" data-h="600">
 	<div class="img"><a href="{{ site.url }}/images/photos/colddc/t-000088580027.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/colddc/st-000088580027.jpg"></a></div>
 </div>
-<div class="item" data-w="600" data-h="397">
-	<div class="img"><a href="{{ site.url }}/images/photos/colddc/t-000088580028.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/colddc/st-000088580028.jpg"></a></div>
+<div class="item" data-w="600" data-h="397" data-solo="y">
+	<div class="img"><a href="{{ site.url }}/images/photos/colddc/t-000088580028.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/colddc/t-000088580028.jpg"></a></div>
 </div>
 <div class="item" data-w="397" data-h="600">
 	<div class="img"><a href="{{ site.url }}/images/photos/colddc/t-000088580029.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/colddc/st-000088580029.jpg"></a></div>

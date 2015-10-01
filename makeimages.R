@@ -4,11 +4,11 @@ pattern <- ".*jpg"
 imges <- normalizePath(list.files(pattern=pattern,full=TRUE))
 ## PARAMS
 pct <- 1
-PATH='plaubel1'
+PATH='vancolor'
 
 ##
-rowheight <- 850
-rowwidth <- 850
+rowheight <- 600
+rowwidth <- 600
 ## rowheight <- 400
 ## rowwidth <- 400
 
@@ -28,13 +28,14 @@ convert=c(DSC=TRUE,ELSE=FALSE)
 ## Code
 library(data.table)
 addBorder <- TRUE
-border <- c('pctWhiteOuter'="3%%x1%%", pxBlack="6", pctWhiteInner="0")
+border <- c('pctWhiteOuter'="0%%x0%%", pxBlack="6", pctWhiteInner="0")
 ## http://www.imagemagick.org/script/command-line-options.php#border
 if(addBorder){
     lapply(imges, function(s){
-               print(s)
-               system(sprintf("convert %s -bordercolor white -border %s -bordercolor black -border %s -bordercolor white -border %s %s",
-                              s,border['pctWhiteInner'],border['pxBlack'],border['pctWhiteOuter'], sprintf("%s/bord-%s",dirname(s),basename(s))))
+               sf = sprintf("convert %s -bordercolor white -border %s -bordercolor black -border %s -bordercolor white -border %s %s",
+                              s,border['pctWhiteInner'],border['pxBlack'],border['pctWhiteOuter'], sprintf('"%s/bord-%s"',dirname(s),basename(s)))
+               print(sf)               
+               system(sf)
            })
     pattern <- "bord.*jpg"
     imges <- normalizePath(list.files(pattern=pattern,full=TRUE))
