@@ -3,26 +3,40 @@ layout: default
 ---
    <script src="https://code.jquery.com/jquery-1.11.1.min.js"></script>
    <script src="{{ site.url }}/js/fleximage/jquery.flex-images.js"></script>
-   <script src="{{ site.url }}/js/lightbox/lightbox.js"></script>
-   <script>
-    lightbox.option({
-      'resizeDuration': 200,
-      'wrapAround': true
-    })
-   </script>
-<!-
+   <script type="text/javascript" src="{{ site.url }}/js/fancybox/jquery.fancybox.pack.js"></script>
+   <script type="text/javascript" src="{{ site.url }}/js/fancybox/helpers/jquery.fancybox-thumbs.js"></script>
 <!-- Latest compiled and minified CSS -->
 
 <!-- Latest compiled and minified JavaScript -->
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
 <link rel="stylesheet" href="{{ site.url }}/css/screen.css" type="text/css" media="screen, projection"/>
 <link rel="stylesheet" href="{{ site.url }}/js/fleximage/jquery.flex-images.css"/>
-<link href="{{ site.url }}/css/lightbox.css" rel="stylesheet">
+<link rel="stylesheet" href="{{ site.url }}/js/fancybox/jquery.fancybox.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="{{ site.url }}/js/fancybox/helpers/jquery.fancybox-thumbs.css" type="text/css" media="screen" />
 
+    
 <div id="post">
 {{ content }}
   <br>
   <br>
+<script>
+   $(document).ready(function() {
+	   $("a[href$='.jpg'],a[href$='.jpeg'],a[href$='.png'],a[href$='.gif']").attr('rel', 'gallery').fancybox({
+		padding:5,margin:5,aspectRatio:true,
+		prevEffect	: 'none',
+		nextEffect	: 'none',
+		helpers	: {
+			title	: {
+				type: 'outside'
+			},
+			thumbs	: {
+				width	: 50,
+				height	: 50
+			}
+		}
+	})
+   })
+</script>
 </div>
 
 
