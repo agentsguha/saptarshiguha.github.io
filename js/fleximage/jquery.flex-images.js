@@ -22,11 +22,12 @@
             $items.each(function(){
                 var w = parseInt($(this).data('w')),
                     h = parseInt($(this).data('h')),
-                    isSolo = $(this).data('solo') ;                  
+                    isSolo = $(this).data('solo') ;  
+                    flush =   $(this).data('flush')  ;             
                     sqz = $(this).data('sqz') ;                  
                     norm_w = w*(o.rowHeight/h), // normalized width
                     obj = $(this).find(o.object);
-                items.push([$(this), w, h, norm_w, obj, obj.data('src'),{solo:isSolo,sqz:sqz}]);
+                items.push([$(this), w, h, norm_w, obj, obj.data('src'),{flush:flush,solo:isSolo,sqz:sqz}]);
             });
             makeGrid($this, items, o);
             $(window).off('resize.flexImages'+$this.data('flex-t'));
@@ -75,13 +76,15 @@
                i = i+1;
             } else {
                 console.log("SBEGUNG")
-                console.log(items[i][6]) 
+                console.log(items[i]) 
                 row.push(items[i]);
                 row_width += items[i][3] + o.margin;
                 i = i+1;
                 if (row_width >= max_w || (items[i] != undefined && items[i][6].flush=="y") ){
                     // about to flush
                     j = i;
+                    if(!(items[i] != undefined && items[i][6].flush=="y")){
+                        console.log("Does not have a flush")
                     if(j< (items.length-1)){
                         while(true){
                                 var tt = items[j];
@@ -92,6 +95,7 @@
                                 j = j+1;  
                         }
                     }
+                    }else { console.log("Last Image was a flush, flush NOW")}
                     doFlush(row, row_width,rows);
                     row = [], row_width = 0;
                     rows++;
