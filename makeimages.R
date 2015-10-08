@@ -4,11 +4,11 @@ pattern <- ".*jpg"
 imges <- normalizePath(list.files(pattern=pattern,full=TRUE))
 ## PARAMS
 pct <- 1
-PATH='vancolor'
+PATH='sibl'
 
 ##
-rowheight <- 600
-rowwidth <- 600
+rowheight <- 900
+rowwidth <- 900
 ## rowheight <- 400
 ## rowwidth <- 400
 

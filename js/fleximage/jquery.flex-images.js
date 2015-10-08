@@ -19,6 +19,8 @@
         return this.each(function(){
             var $this = $(this), $items = $(o.container, $this), items = [], i = $items.eq(0), t = new Date().getTime();
             o.margin = i.outerWidth(true) - i.innerWidth();
+            console.log("Hello")
+            console.log([i.outerWidth(true), i.innerWidth(), i.outerWidth(true) - i.innerWidth()]);
             $items.each(function(){
                 var w = parseInt($(this).data('w')),
                     h = parseInt($(this).data('h')),
@@ -33,17 +35,20 @@
             $(window).off('resize.flexImages'+$this.data('flex-t'));
             $(window).on('resize.flexImages'+t, function(){ makeGrid($this, items, o); });
             $this.data('flex-t', t)
+            console.log($this);
         });
     }
 
     function makeGrid(container, items, o, noresize){
         var x, new_w, ratio = 1, rows = 1, max_w = container.width(), row = [], row_width = 0, row_h = o.rowHeight;
+        
         // define inside makeGrid to access variables in scope
-        function _helper(lastRow,rows,rr){
+        function _helper(lastRow, rows, rr, nw, rh) {
+            console.log([nw, rh]);
             if (o.maxRows && rows > o.maxRows || o.truncate && lastRow) rr[x][0].hide();
             else {
                 if (rr[x][5]) { rr[x][4].attr('src', rr[x][5]); rr[x][5] = ''; }
-                rr[x][0].css({ width: new_w, height: row_h }).show();
+                rr[x][0].css({ width: nw, height: rh }).show();
             }
         }
         function _isSolo(x){
@@ -59,14 +64,16 @@
                     new_w = Math.ceil(r[x][3]*ratio);
                     exact_w += new_w + o.margin;
                     if (exact_w > max_w) new_w -= exact_w - max_w + 1;
-                    _helper(false,myrows, r);
+                    console.log(r);
+                    _helper(false,myrows, r,new_w, row_h);
                 }  
         }
        var i = 0; 
        while(i < items.length) {
             if(_isSolo(items[i][6])) {
-                console.log("Item is Solo"+items[i])
-               if(row.length >0 ) {
+                //console.log("Item is Solo"+items[i])
+                if (row.length > 0) {
+                    if (row_width == 0) row_width = items[i][3] + o.margin;
                    doFlush(row, row_width);
                    row = [], row_width = 0;
                    rows++;
