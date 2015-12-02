@@ -19,16 +19,21 @@ layout: default
 {{ content }}
   <br>
   <br>
-<script>
+   <script>
    $(document).ready(function() {
 	   $("a[href$='.jpg'],a[href$='.jpeg'],a[href$='.gif']").attr('rel', 'gallery').fancybox({
 		padding:5,margin:5,aspectRatio:true,
 		prevEffect	: 'none',
 		nextEffect	: 'none',
-	})
+       });
+    
+     $('tr').parent('thead').parent('table').addClass('table table-condensed');
+        console.log("FOOOO");
    })
 </script>
+
 </div>
+
 
 
 <footer id="disqus_thread">

@@ -194,27 +194,23 @@ p {
     margin: 1em 0;
 }
 
-a {
-    color:  #000;
+a,a:link,a:visited {
+    color: black;
+    border-bottom: 1px dotted #000;
     text-decoration: none;
 }
 
 
-a.post {
-    color:  #000;
-    text-decoration: dotted;
+.posts a {
+  border-bottom: none;
+    text-decoration: none;   
 }
 
 a:hover  {
     color: #E68415;
+    text-decoration:bold;
 }
 
-a:visited {
-    color: #000;
-}
-a:visited:hover {
-    color: #E68415;
-}
 
 #maintitle {
     color:#000000;

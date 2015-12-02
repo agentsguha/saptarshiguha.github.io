@@ -24,6 +24,7 @@ layout: default2
     {% include disqus.html %}
 </footer>
 </div>
+
 <script>
 
    $(document).ready(function() {
@@ -31,8 +32,12 @@ layout: default2
 		padding:5,margin:5,aspectRatio:true,
 		prevEffect	: 'none',
 		nextEffect	: 'none',
-	})
+	});
+      $('tr').parent('thead').parent('table').addClass('table table-condensed');
+        console.log("FOOOO");
    })
 </script>
+
+
 </div>
 

@@ -98,6 +98,9 @@ image in Figure 8 which means I need a larger <i>"Left"</i> value. Now, click on
 of the image. As you can see in my image ( Figure 8), I've chosen too much and
 have included the next image. Adjust accordingly and click <i>"Apply"</i>.
 </p>
+<p><b>Update</b>: Instead of framing each shot, set left to 0 and the frame to the max width. This will
+scan the entire strip into one image(which i save as a JPEG without enhancements) and then cut and crop in Photoshop
+</p>
 <div class="row">
 	<div class="col-lg-12">
     <figure>
