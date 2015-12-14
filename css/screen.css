@@ -215,8 +215,12 @@ a:hover  {
 #maintitle {
     color:#000000;
     font-size:160%;
+    border-bottom: none;
 }
 
+#maintitle a{
+    border-bottom: none;
+}
 .title {
     color: #000;
     font-weight: bold;
@@ -414,6 +418,7 @@ ul.posts span {
                 }
 #markdown-toc a{
                  color: #8085C1;
+                 border-bottom: none;
                }
 #markdown-toc a:hover{
                  color: #E68415;

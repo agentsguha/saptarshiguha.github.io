@@ -20,24 +20,17 @@ fills, shadows and text functions." This test consists of 5 tests,
 The tests are recorded as weighted times, the weights a measure of the
 complexity of the test. The final score is the sum of these weighted times.
 
-### Auto Updated Plots
 
-These figures will be updated on a regular basis. The figure plots the
-Canvasmark score vs. Commit Date. The band is a loess based prediction band.
-This plot will be updated with regression/improvement markers once an algorithm
-has been developed.
-
-
-### Observations
-
-See [this page](link) with plots of the subtests across e10s options and
+See
+[this page](https://metrics.mozilla.com/protected/shiny/sguha/canvasmark/)(behind
+LDAP because of Shiny, sorry) with plots of the subtests across e10s options and
 platforms (ignoring non-pgo). The data represents last 90 days (when we have
 it). All the replicate data is plotted and the black line is a [loess regression](https://en.wikipedia.org/wiki/Local_regression)
 . The band around is a prediction band.
 
 
 1. The subtests do measure different things as can be observed from
-   [this scatter plot]({{ site.url }}/images/talos/Screen Shot.2015-12-02.at.10.36.03 AM.png). This
+   [this scatter plot](https://docs.google.com/a/mozilla.com/uc?id=0B12g_7yjbdYJM0NCMXdTMTlxY1U&export=download). This
    is reassuring - we don't want duplicate tests.
 
 2. However the scales are widely different ranging from 300-400 for "Asteroids -
@@ -45,7 +38,7 @@ it). All the replicate data is plotted and the black line is a [loess regression
    (because of the weighting). However, not only are the means vastly different, the
    variation is very different for each. Across operating systems both the means
    and standard errors vary a lot.
-   [This figure]({{ site.url}}/images/talos/Screen Shot.2015-12-02.at.10.39.02 AM.png)
+   [This figure](https://docs.google.com/a/mozilla.com/uc?id=0B12g_7yjbdYJQjFjMkxGeENCQ0U&export=download)
    is a Box Plot of the test values for different platforms.  We see osx-10-10
    has a lot of spread whereas the others are much less.
 
@@ -60,7 +53,7 @@ it). All the replicate data is plotted and the black line is a [loess regression
 
 6. On average, the subtests contribute the following to the score.  A breakup by
    platform can be
-   [seen here]({{ site.url }}/images/talos/Screen Shot.2015-12-02.at.10.40.20 AM.png)
+   [seen here](https://docs.google.com/a/mozilla.com/uc?id=0B12g_7yjbdYJcVdYOVh1ZjlxMXM&export=download)
 
     |test                                             | contributionpct|
     |:------------------------------------------------|---------------:|
@@ -73,9 +66,12 @@ it). All the replicate data is plotted and the black line is a [loess regression
     |Plasma - Maths- canvas shapes                    |          14.544|
     |Pixel blur - Math- getImageData- putImageData    |          20.522|
 
+7. [This link](https://metrics.mozilla.com/protected/shiny/sguha/canvasmark/) is a time series of the canvasmark score across pushes. The
+   smooth band is from the standard errors of the loess curve. The smallest
+   change we can detect is
 
-### Suggestions
-Based on the above
+
+### Summary
 
 1. The filtering scheme for canvasmark is to drop first and take the median of
    the remaining. However on inspection, there is nothing remarkable about the
@@ -84,7 +80,11 @@ Based on the above
 
 2. Because of the very different means, canvasmark really won't measure changes
    in "Asteroids - Bitmaps". For example, in the last 7 days of builds preceding
-   2015-11-30, the mean and standard deviation of canvasmark is below.
+   2015-11-30, the mean and standard deviation of canvasmark is below. Given
+   this , the smallest change you can detect using a t-test and
+   12 observations each in the before and after groups at the 1% level is ~
+   $qt(1-0.05/2,df=24-2) * sd * \sqrt{\frac{2}{12}}$ or between 187 and  272.
+   ~
 
     |platform    |    Mean| StdDev|
     |:-----------|-------:|------:|
@@ -93,6 +93,8 @@ Based on the above
     |windowsxp   | 8411.45| 187.93|
     |windows8-64 | 8700.39| 214.29|
 
-   Given this , the smallest change you can detect using a t-test and 12
-   observations each in the before and after groups at the 1% level is ~
-   $qt(1-0.05/2,df=24-2) * sd * \sqrt{\frac{2}{12}}$ or between 187 and 272.  ~
+3.  There is a distinct day of week effect for OS X which manifests itself in in
+    creased variance. See this
+    [figure](https://docs.google.com/a/mozilla.com/uc?id=0B12g_7yjbdYJOTh4R3ZzeXltVG8&export=download). This
+    indicates a QA problem that depends on day of week, which it ought not to or
+    should be taken care of.
