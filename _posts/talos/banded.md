@@ -9,8 +9,8 @@ that the density of the observations is clearly bimodal. And indeed it is.
 
 {% include image.html url="images/talos/t1.png" width="55%" %}
 
- But consider this figure (which our algorithm will
-observe)
+ But consider this figure (B),which our algorithm will
+observe and need to classify
 
 {% include image.html url="images/talos/t2.png" width="55%" %}
 
@@ -55,15 +55,14 @@ clusters). Some observations follow:
 3. As mentioned above, k-means can return different clusters depending on the
    seed. If there are two distinct clusters it is expected that in N
    repetitions, these clusters will appear majority number of times. This N is
-   also  a parameter. For an example of where we can get multiple clusters with
-   different runs see this figure.
+   also  a parameter.
 
 4. The k-means algorithm can return false positives. For example, the k-means
    will return two clusters when given data from $Uniform(0,1)$. To identify
-   sharply defined clusters we come up with a 'distance' measure. There are two
+   sharply defined clusters we create a 'distance' measure. There are two
    clusters with centers $C_1$ and $C_2$. For a given observation $Y_i$ let it
    be assigned to cluster $C_i$. Then $\frac{ | Y_i - C_i|}{ |Y_i-C_1| + |
-   Y_i-C_2|}$ is a measure of how strongly the $Y_i$ belongs to cluster $i$. The
+   Y_i-C_2|}$ is a measure of how strongly the $Y_i$ belongs to cluster $C_i$. The
    mean of this across all points $Y_i$ is a measure of how strong the
    clustering is. This mean ought to be small.
 
@@ -185,5 +184,13 @@ observations , then we not so affected. But this all depends on the nature of
 the standard deviation with respect to the means of the reference data.
 
 In general, if we can conclude the data is bimodal, we classify observations to
-each component/cluster. We could construct an test with improved efficiency with
+each component/cluster. We could construct a test with improved efficiency with
 this new information.
+
+## Other Methods
+
+The first method that comes to mind is Kernel Density estimation (KDE). In this
+approach, the most sensitive parameter is the *bandwidth* $h$. KDE methods can also
+be non parametric which removes the Gaussian assumption. Some guiding parameters
+would still need to be chosen such as the mixing proportion ($\lambda$ in the
+Mixture section)

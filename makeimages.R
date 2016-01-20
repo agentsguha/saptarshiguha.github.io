@@ -4,7 +4,7 @@ pattern <- ".*jpg"
 imges <- normalizePath(list.files(pattern=pattern,full=TRUE))
 ## PARAMS
 pct <- 1
-PATH='xpansf'
+PATH='citysf'
 
 ##
 rowheight <- 900
@@ -28,7 +28,7 @@ convert=c(DSC=TRUE,ELSE=FALSE)
 ## Code
 library(data.table)
 addBorder <- TRUE
-border <- c('pctWhiteOuter'="0x150", pxBlack="10", pctWhiteInner="0")
+border <- c('pctWhiteOuter'="5x5", pxBlack="0", pctWhiteInner="0")
 ## http://www.imagemagick.org/script/command-line-options.php#border
 if(addBorder){
     lapply(imges, function(s){
