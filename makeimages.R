@@ -4,7 +4,7 @@ pattern <- ".*jpg"
 imges <- normalizePath(list.files(pattern=pattern,full=TRUE))
 ## PARAMS
 pct <- 1
-PATH='citysf'
+PATH='xpancal'
 
 ##
 rowheight <- 900
@@ -25,10 +25,19 @@ xpanWidth2Height <- 65/24
 ## but if this global variable is FALSE
 convert=c(DSC=TRUE,ELSE=FALSE)
 
+## convert 000095200007.jpg -background white  -gravity north -splice 0x40  -gravity south -splice 0x130 -gravity east -splice 20x0 -gravity west -splice 20x0  a.jpg
+
+## convert 000095200007.jpg -bordercolor black -border 5x5  -background white  -gravity north -splice 0x40  -gravity south -splice 0x130 -gravity east -splice 20x0 -gravity west -splice 20x0  -bordercolor grey -border 5x5 a.jpg 
+## see http://stackoverflow.com/questions/24696433/why-font-list-is-empty-for-imagemagick
+## convert 000095200007.jpg -bordercolor black -border 5x5  -background white  -gravity north -splice 0x40  -gravity south -splice 0x130 -gravity east -splice 20x0 -gravity west -splice 20x0  -font "TimesNewRoman" -pointsize 72 -gravity south -annotate +0+2 'Rose' -bordercolor grey -border 5x5 a.jpg 
 ## Code
 library(data.table)
 addBorder <- TRUE
 border <- c('pctWhiteOuter'="5x5", pxBlack="0", pctWhiteInner="0")
+
+##polastyle
+border <- c('pctWhiteOuter'="5x5", pxBlack="0", pctWhiteInner="0")
+
 ## http://www.imagemagick.org/script/command-line-options.php#border
 if(addBorder){
     lapply(imges, function(s){
