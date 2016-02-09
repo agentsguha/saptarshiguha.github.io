@@ -18,8 +18,9 @@ tags: xpan, pakon, 35mm, film, panoramic
 
 <div class="row">
 <div class="col-xs-9">
-<p>
+<p> I've updated this page to include a quicker work flow. Search for 'update' on this page</p>
 
+<p>
 Not happy with scanning quality and price combinations that abound in the San
 Francisco bay area, I once again fell for the praises of an internet fan
 club. This club swears by the Pakon 135+ for it's swiftness and quality in
@@ -99,7 +100,9 @@ of the image. As you can see in my image ( Figure 8), I've chosen too much and
 have included the next image. Adjust accordingly and click <i>"Apply"</i>.
 </p>
 <p><b>Update</b>: Instead of framing each shot, set left to 0 and the frame to the max width. This will
-scan the entire strip into one image(which i save as a JPEG without enhancements) and then cut and crop in Photoshop
+scan the entire strip into one image(which i save as a JPEG without enhancements) and then cut and crop in Photoshop.
+You could also save this twice, once as a jpeg and again as tiff. You could then invert colors  to get a nice version
+using ColorPerfect.
 </p>
 <div class="row">
 	<div class="col-lg-12">

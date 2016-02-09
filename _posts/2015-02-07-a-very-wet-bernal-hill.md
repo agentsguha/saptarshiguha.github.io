@@ -66,10 +66,10 @@ Hope you like the pictures.
 <div class="item" data-w="466" data-h="700">
 	<div class="img"><a href="{{ site.url }}/images/photos/bernalwet/t-F0702.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/bernalwet/st-F0702.jpg"></a></div>
 </div>
-<div class="item" data-w="466" data-h="700">
+<div class="item" data-w="466" data-h="700" data-solo="y">
 	<div class="img"><a href="{{ site.url }}/images/photos/bernalwet/t-F0704.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/bernalwet/st-F0704.jpg"></a></div>
 </div>
-<div class="item" data-w="466" data-h="700">
+<div class="item" data-w="466" data-h="700" data-sqz="y">
 	<div class="img"><a href="{{ site.url }}/images/photos/bernalwet/t-F0711.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/bernalwet/st-F0711.jpg"></a></div>
 </div>
 </div>
