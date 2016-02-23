@@ -12,7 +12,7 @@ tags: xpan, ektar, 45mm, bangalore, plaubel makina
 </div></div>
 
 <div class="row" style="margin:0;padding:0;margin-top:0.5em;margin-bottom:0.5em;">
-<a href="{{ site.url }}/images/photos/xpanbang/down-15.jpg"><img  class='bannerimg' src="{{ site.url }}/images/photos/xpanbang/down-15.jpg"></a>
+<a href="https://docs.google.com/uc?id=0B6d70FmpKIi1eVlzQ0FaVzVPX1U"><img  class='bannerimg' src="https://docs.google.com/uc?id=0B6d70FmpKIi1eVlzQ0FaVzVPX1U"></a>
 </div>
 
 
@@ -40,7 +40,7 @@ Here you will see come pictures that struck me.
 <div id="demo6" class="flex-images" style="padding-top:0.5em;">
 
 <div class="item" data-w="2300" data-h="1032">
-	<div class="img"><a href="{{ site.url }}/images/photos/xpancal/down-111.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/xpanbang/thum-111.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1S2N4amJUX3Z3cUU"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1ejhOY2xIU0t5VUU"></a></div>
 </div>
 
 <div class="col-md-10 col-md-offset-1">
@@ -48,14 +48,14 @@ Here you will see come pictures that struck me.
 </p></div>
 
 <div class="item" data-w="2300" data-h="1043">
-	<div class="img"><a href="{{ site.url }}/images/photos/xpancal/down-132.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/xpanbang/thum-132.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1TmdmT1Z4bjYtWUk"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1TmVJa2hpVF91UG8"></a></div>
 </div>
 
 
 
 
 <div class="item" data-w="2300" data-h="1024" data-solo="y">
-	<div class="img"><a href="{{ site.url }}/images/photos/xpanbang/down-101.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/xpanbang/thum-101.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1cGprT3NUcjBLajQ"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1YWVTc2QzeW1ycXM"></a></div>
 </div>
 
 <div class="col-md-10 col-md-offset-1">
@@ -63,12 +63,12 @@ Here you will see come pictures that struck me.
 </p></div>
 
 <div class="item" data-w="2299" data-h="1032" data-solo="y">
-	<div class="img"><a href="{{ site.url }}/images/photos/xpanbang/down-103.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/xpanbang/thum-103.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1WHVHYVViQkVkZ00"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1SjNNZXdCQUZyZ0E"></a></div>
 </div>
 
 
 <div class="item" data-w="2300" data-h="1027" data-solo="y">
-	<div class="img"><a href="{{ site.url }}/images/photos/xpanbang/down-3ls.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/xpanbang/thum-3ls.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1YmVzMzlmQTN0c0E"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1enFrTHlFVHhXczQ"></a></div>
 </div>
 
 <div class="col-md-10 col-md-offset-1">
@@ -79,13 +79,13 @@ Someone who told me that reducing my trouser's waist was impossible. "Reduce you
 
 
 <div class="item" data-w="2300" data-h="1033" data-solo="y">
-	<div class="img"><a href="{{ site.url }}/images/photos/xpanbang/down-42.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/xpanbang/thum-42.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1LTlHWHRVMXlGS0k"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1MDh4NldqdzBTamM"></a></div>
 </div>
 
 </div></div></div>
 
 <div class="row" style="margin:0;padding:0;margin-top:0.5em;margin-bottom:0.5em;">
-<a href="{{ site.url }}/images/photos/xpanbang/down-81.jpg"><img  class='bannerimg' src="{{ site.url }}/images/photos/xpanbang/down-81.jpg"></a>
+<a href="https://docs.google.com/uc?id=0B6d70FmpKIi1b0xiYTRKcnFjSGM"><img  class='bannerimg' src="https://docs.google.com/uc?id=0B6d70FmpKIi1b0xiYTRKcnFjSGM"></a>
 </div>
 
 
@@ -103,13 +103,13 @@ the thing actually works, I left it there in India. I hope it doesn't catch fung
 
 <p> A 'gali' tucked away in Commerical Street. There are about ten tailoring shops tucked away in the sides</p>
 <div class="item" data-w="1000" data-h="1225" data-solo="y">
-	<div class="img"><a href="{{ site.url }}/images/photos/xpanbang/down-000095200006.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/xpanbang/thum-000095200006.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1TUVZdmRocHhMNG8"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1dXF4NnFyVUUyT0E"></a></div>
 </div>
 
 <p> Not a companion, but overflowing stock. She will end up in some youngsters arms.</p>
 
 <div class="item" data-w="1000" data-h="1225" data-solo="y">
-	<div class="img"><a href="{{ site.url }}/images/photos/xpanbang/down-000095200007.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/xpanbang/thum-000095200007.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1dzVtWGx2TEZFUmM"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1YUs0ZHhPNTF0Mzg"></a></div>
 </div>
 
 
@@ -117,7 +117,7 @@ the thing actually works, I left it there in India. I hope it doesn't catch fung
 I had taken a lot of time to focus. Mistake not,  those smiles are laced with exhasparation.
 <p>
 <div class="item" data-w="1000" data-h="1225" data-solo="y">
-	<div class="img"><a href="{{ site.url }}/images/photos/xpanbang/down-000095200011.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/xpanbang/thum-000095200011.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1bkdHSG5hUlNzd0k"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1WjlvQ2RQdW5CX2M"></a></div>
 </div>
 
 
@@ -128,21 +128,21 @@ The thatched bamboo racks contain silkworms. This area is famous for its hand cr
 </p>
 
 <div class="item" data-w="1000" data-h="1056">
-	<div class="img"><a href="{{ site.url }}/images/photos/xpanbang/down-000095210004.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/xpanbang/thum-000095210004.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1eFZ4Nkx2TERFb2M"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1dTk2dHhvcHIzUUU"></a></div>
 </div>
 
 <div class="item" data-w="1000" data-h="1056" data-solo="y">
-	<div class="img"><a href="{{ site.url }}/images/photos/xpanbang/down-000095210005.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/xpanbang/thum-000095210005.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1Zkh6ekh2ajNXT2s"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1LUNBU2xMVE1YWU0"></a></div>
 </div>
 <div class="item" data-w="816" data-h="1240" data-solo="y">
-	<div class="img"><a href="{{ site.url }}/images/photos/xpanbang/down-000095210007.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/xpanbang/thum-000095210007.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1MGMzdTAwMlRkUzg"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1ck5NdFFjOWpxbEU"></a></div>
 </div>
 <p>Sheetal standing on the land she purchased some 8 years back. We were all relieved that the land
 is still hers and not the fiefdom of some paanwalla.
 </p>
 
 <div class="item" data-w="816" data-h="1240" data-solo="y">
-	<div class="img"><a href="{{ site.url }}/images/photos/xpanbang/down-000095210009.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/xpanbang/thum-000095210009.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1NzZCN3I3N2NvN0k"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1OVh1SWU5UjZ2T2c"></a></div>
 </div>
 
 <p>Much as I adore this picture, framing Shiv with his children and Moumita's two sons, getting them to stay still,
@@ -151,12 +151,12 @@ face the camera, keep their eyes open brought out the clown in me. This was take
 </p>
 
 <div class="item" data-w="1000" data-h="1054" data-solo="y">
-	<div class="img"><a href="{{ site.url }}/images/photos/xpanbang/down-000099260001.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/xpanbang/thum-000099260001.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1ZkJ1Qmg1N1hIWjQ"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1OHg3U19LamZkT0k"></a></div>
 </div>
 
 <p> 14 hours to get on that plane. Abu Dhabi airport has comfortable chairs.</p>
 <div class="item" data-w="1000" data-h="1045" data-solo="y">
-	<div class="img"><a href="{{ site.url }}/images/photos/xpanbang/down-000099260004.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/xpanbang/thum-000099260004.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1VXRRYmx4SWdMWjg"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1NFdRUGhMbDdhcXM"></a></div>
 </div>
 
 

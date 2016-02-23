@@ -40,104 +40,104 @@ More pictures using the Mamiya 645 Pro can be found
 <div id="demo4" class="flex-images">
 
 <div class="item" data-w="533" data-h="800">
-	<div class="img"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/dillon/4_0304-2.jpg"></div>
+	<div class="img"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1WjVPTTBTdE9fc1U"></div>
 </div>
 <div class="item" data-w="533" data-h="800">
-	<div class="img"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/dillon/5_0305.jpg"></div>
+	<div class="img"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1SVhpRko2UHFMOXM"></div>
 </div>
 <div class="item" data-w="533" data-h="800">
-	<div class="img"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/dillon/6_0306.jpg"></div>
+	<div class="img"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1VkhJVy1BaUowaWM"></div>
 </div>
 <div class="item" data-w="533" data-h="800">
-	<div class="img"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/dillon/7_0307-2.jpg"></div>
+	<div class="img"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1bUFwVUV2Qm5rRkU"></div>
 </div>
 <div class="item" data-w="1200" data-h="800">
-	<div class="img"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/dillon/8_0308.jpg"></div>
+	<div class="img"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1bE1Xb3FkX3QtTW8"></div>
 </div>
 	
 <div class="item" data-w="533" data-h="800">
-	<div class="img"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/dillon/11_0311-2.jpg"></div>
+	<div class="img"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1a0lkMzY5RXktT00"></div>
 </div>
 <div class="item" data-w="1200" data-h="800">
-	<div class="img"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/dillon/12_0312.jpg"></div>
+	<div class="img"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1a0EzV3JESWxtMm8"></div>
 </div>
 <div class="item" data-w="1200" data-h="800">
-	<div class="img"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/dillon/13_0313.jpg"></div>
+	<div class="img"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1LUtIdzBlYllYSFE"></div>
 </div>
 <div class="item" data-w="533" data-h="800">
-	<div class="img"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/dillon/14_0314.jpg"></div>
+	<div class="img"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1UXk1am9EZ053VDg"></div>
 </div>
 <div class="item" data-w="533" data-h="800">
-	<div class="img"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/dillon/15_0315.jpg"></div>
+	<div class="img"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1REhVTHBqZHpXTnM"></div>
 </div>
 <div class="item" data-w="1200" data-h="800">
-	<div class="img"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/dillon/16_0316.jpg"></div>
+	<div class="img"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1TUdMZmVYZEMwc1E"></div>
 </div>
 <div class="item" data-w="1200" data-h="800">
-	<div class="img"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/dillon/17_0317.jpg"></div>
+	<div class="img"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1NnAtdEtNQzRYTmM"></div>
 </div>
 <div class="item" data-w="1200" data-h="800">
-	<div class="img"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/dillon/18_0318.jpg"></div>
+	<div class="img"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1aEFuLTc5Mm9pQ0k"></div>
 </div>
 <div class="item" data-w="1200" data-h="800">
-	<div class="img"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/dillon/19_0319.jpg"></div>
+	<div class="img"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1SGwzR1lGY05JQlU"></div>
 </div>
 <div class="item" data-w="1200" data-h="800">
-	<div class="img"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/dillon/23_0323.jpg"></div>
+	<div class="img"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1VFRJdTV0UFVpdmM"></div>
 </div>
 <div class="item" data-w="1200" data-h="800">
-	<div class="img"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/dillon/20_0320.jpg"></div>
+	<div class="img"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1cGltV3B3Mk44eW8"></div>
 </div>
 <div class="item" data-w="533" data-h="800">
-	<div class="img"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/dillon/25_0325.jpg"></div>
+	<div class="img"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1U3JDMTV1OFk2SGs"></div>
 </div>
 <div class="item" data-w="1200" data-h="800">
-	<div class="img"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/dillon/24_0324.jpg"></div>
+	<div class="img"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1aXp5dFJhcWd3T28"></div>
 </div>
 <div class="item" data-w="1200" data-h="800">
-	<div class="img"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/dillon/27_0327.jpg"></div>
+	<div class="img"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1ak52SkNFNncwRlU"></div>
 </div>
 <div class="item" data-w="1200" data-h="800">
-	<div class="img"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/dillon/28_0328.jpg"></div>
+	<div class="img"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1S3RCUE1YUkkyQjQ"></div>
 </div>
 <div class="item" data-w="533" data-h="800">
-	<div class="img"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/dillon/26_0326.jpg"></div>
+	<div class="img"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1U2lMVVVYTHZnUzA"></div>
 </div>
 <div class="item" data-w="1200" data-h="800">
-	<div class="img"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/dillon/30_0330.jpg"></div>
+	<div class="img"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1a0dOc3hSUHpFc2c"></div>
 </div>
 <div class="item" data-w="1200" data-h="800">
-	<div class="img"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/dillon/31_0331.jpg"></div>
+	<div class="img"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1OUxCbmljNWUwelk"></div>
 </div>
 <div class="item" data-w="1200" data-h="800">
-	<div class="img"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/dillon/32_0332.jpg"></div>
+	<div class="img"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1WjZDel9jSU9mMVE"></div>
 </div>
 <div class="item" data-w="533" data-h="800">
-	<div class="img"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/dillon/37_0337.jpg"></div>
+	<div class="img"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1dmtzMHRCaE5uUXM"></div>
 </div>
 <div class="item" data-w="533" data-h="800">
-	<div class="img"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/dillon/35_0335.jpg"></div>
+	<div class="img"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1MUp6N3RWY05vQXM"></div>
 </div>
 <div class="item" data-w="533" data-h="800">
-	<div class="img"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/dillon/DSCF0042.jpg"></div>
+	<div class="img"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1ejJMcjlQMDN6RjA"></div>
 </div>
 <div class="item" data-w="533" data-h="800">
-	<div class="img"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/dillon/DSCF0043.jpg"></div>
+	<div class="img"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1WWZ4Y2ZsUmFQaEk"></div>
 </div>
 <div class="item" data-w="533" data-h="800">
-	<div class="img"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/dillon/DSCF0045.jpg"></div>
+	<div class="img"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1U0lsOHBYMF9vZGM"></div>
 </div>
 <div class="item" data-w="1200" data-h="800">
-	<div class="img"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/dillon/DSCF0046.jpg"></div>
+	<div class="img"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1ZXVlaFcyQllGSTg"></div>
 </div>
 <div class="item" data-w="533" data-h="800">
-	<div class="img"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/dillon/DSCF0053.jpg"></div>
+	<div class="img"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1Y2dJU0VUYmRwX0k"></div>
 </div>
 <div class="item" data-w="533" data-h="800">
-	<div class="img"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/dillon/DSCF0054.jpg"></div>
+	<div class="img"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1ZlZjYzZBMFo1OEk"></div>
 </div>
 <div class="item" data-w="533" data-h="800">
-	<div class="img"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/dillon/DSCF0056.jpg"></div>
+	<div class="img"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1MzBRLWZNMHkzQWs"></div>
 </div>
 	
 </div>

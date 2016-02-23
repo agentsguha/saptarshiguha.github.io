@@ -41,17 +41,17 @@ The Mamiya body can be separated.  Most importantly you can change the â€˜backâ€
 <div id="demo5" class="flex-images">
 
 <div class="item" data-w="275" data-h="200">
-<!-- <div class="img" style="overflow:visible;bottom: 25px;"><img src="{{ site.url }}/images/blank.gif" data-src="{{	site.url }}/images/photos/mamiya1/DSCF0061.jpg" > </div> -->
-<div class="img"><img src="{{ site.url }}/images/blank.gif" data-src="{{	site.url }}/images/photos/mamiya1/DSCF0061.jpg" > </div>
+<!-- <div class="img" style="overflow:visible;bottom: 25px;"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1YTh1eGFabHA5eUE" > </div> -->
+<div class="img"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1YTh1eGFabHA5eUE" > </div>
 </div>
 
 <div class="item" data-w="275" data-h="200">
-<div class="img"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/mamiya1/DSCF0062.jpg"></div>
+<div class="img"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1YS1TbkVsNEJCVW8"></div>
 </div>
 
 
 <div class="item" data-w="275" data-h="200">
-<div class="img"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/mamiya1/compare.jpg"> </div>
+<div class="img"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1LUJEZDF4U1hyRlk"> </div>
 <!-- <div class="bottom"/div> -->
 </div>
 
@@ -69,49 +69,49 @@ class="flex-images">
 
 <div class="item" data-w="1092" data-h="800">
 	<div class="img" style="overflow:visible;bottom: 25px;">
-		<img src="{{ site.url }}/images/blank.gif" data-src="{{	site.url }}/images/photos/mamiya1/27060001-2.jpg">
+		<img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1U0VoUUlnVUFDM0k">
     </div>
 	<div class="bottom"> Peace Lilies. They want just a dash of water. I must provide.</div>
 </div>
 <div class="item" data-w="1092" data-h="800">
-	<div class="img"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/mamiya1/27060002.jpg"></div>
+	<div class="img"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1UjV1WDRDWkhrV28"></div>
 </div>
 <div class="item" data-w="1092" data-h="800">
-	<div class="img"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/mamiya1/27060003.jpg"></div>
+	<div class="img"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1aUxZa3lQMDNRTms"></div>
 	<div class='bottom'>Peace Lilies. They want just a dash of water. I must provide.</div>
 </div>
 <div class="item" data-w="1092" data-h="800">
-	<div class="img"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/mamiya1/27060004-2.jpg"></div>
+	<div class="img"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1OEp6VTNFMjNic28"></div>
 </div>
 <div class="item" data-w="1092" data-h="800">
-	<div class="img"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/mamiya1/27060005.jpg"></div>
+	<div class="img"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1c2FfdDhWMEY1N3M"></div>
 </div>
 <div class="item" data-w="1092" data-h="800">
-	<div class="img"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/mamiya1/27060006.jpg"></div>
+	<div class="img"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1TU1NcjFwczEzWnc"></div>
 </div>
 <div class="item" data-w="1092" data-h="800">
-	<div class="img"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/mamiya1/27060007.jpg"></div>
+	<div class="img"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1ZTE2bjY5M05ZOG8"></div>
 </div>
 <div class="item" data-w="1092" data-h="800">
-	<div class="img"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/mamiya1/27060008.jpg"></div>
+	<div class="img"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1clFtSGxScUdnWDQ"></div>
 </div>
 <div class="item" data-w="1092" data-h="800">
-	<div class="img"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/mamiya1/27060009.jpg"></div>
+	<div class="img"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1aWVVeVpyRndOUnc"></div>
 </div>
 <div class="item" data-w="1092" data-h="800">
-	<div class="img"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/mamiya1/27060010.jpg"></div>
+	<div class="img"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1QnRpU0ZLdmpWNVE"></div>
 </div>
 <div class="item" data-w="1092" data-h="800">
-	<div class="img"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/mamiya1/27060012.jpg"></div>
+	<div class="img"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1ZmMyV3BYbjJ0aVE"></div>
 </div>
 <div class="item" data-w="1092" data-h="800">
-	<div class="img"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/mamiya1/27060013.jpg"></div>
+	<div class="img"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1R0laQ3F1QndQaWs"></div>
 </div>
 <div class="item" data-w="1092" data-h="800">
-	<div class="img"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/mamiya1/27060014.jpg"></div>
+	<div class="img"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1RzJENmF0U1FIVXc"></div>
 </div>
 <div class="item" data-w="1092" data-h="800">
-	<div class="img"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/mamiya1/27060015.jpg"></div>
+	<div class="img"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1SXJsV29FX0tsdG8"></div>
 </div>
 
 </div>

@@ -35,49 +35,49 @@ A very nice lens. Easy to hold. And would be lovely for travel
 <div id="demo4" class="flex-images">
 
 <div class="item" data-w="1201" data-h="800">
-	<div class="img"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/fleetweek/t-F4485.jpg"></div>
+	<div class="img"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1NzJSSzBydWRoM0U"></div>
 </div>
 <div class="item" data-w="1200" data-h="800">
-	<div class="img"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/fleetweek/t-F4495.jpg"></div>
+	<div class="img"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1TEs3cHY5UUd4dTA"></div>
 </div>
 <div class="item" data-w="1200" data-h="800">
-	<div class="img"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/fleetweek/t-F4501-2.jpg"></div>
+	<div class="img"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1bGdRSHk5XzR3Yzg"></div>
 </div>
 <div class="item" data-w="533" data-h="800">
-	<div class="img"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/fleetweek/t-F4503.jpg"></div>
+	<div class="img"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1S3RZUTJxckFCMmM"></div>
 </div>
 <div class="item" data-w="1200" data-h="800">
-	<div class="img"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/fleetweek/t-F4508.jpg"></div>
+	<div class="img"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1ODdVQzdLbW1abDA"></div>
 </div>
 <div class="item" data-w="533" data-h="800">
-	<div class="img"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/fleetweek/t-F4512.jpg"></div>
+	<div class="img"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1UzRqOURlQVJMcnc"></div>
 </div>
 <div class="item" data-w="533" data-h="800">
-	<div class="img"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/fleetweek/t-F4517.jpg"></div>
+	<div class="img"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1a1lJdXNHVE9XQnM"></div>
 </div>
 <div class="item" data-w="1200" data-h="800">
-	<div class="img"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/fleetweek/t-F4522.jpg"></div>
+	<div class="img"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1V1IxclM3aEJIakU"></div>
 </div>
 <div class="item" data-w="1200" data-h="800">
-	<div class="img"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/fleetweek/t-F4529.jpg"></div>
+	<div class="img"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1WnRDbUtLUnRCRnM"></div>
 </div>
 <div class="item" data-w="1199" data-h="800">
-	<div class="img"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/fleetweek/t-F4532.jpg"></div>
+	<div class="img"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1cTh4bWtnUUNhZTQ"></div>
 </div>
 <div class="item" data-w="1200" data-h="800">
-	<div class="img"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/fleetweek/t-F4534.jpg"></div>
+	<div class="img"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1ZGtJbkFkTDg2cXc"></div>
 </div>
 <div class="item" data-w="533" data-h="800">
-	<div class="img"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/fleetweek/t-F4541.jpg"></div>
+	<div class="img"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1cWMwWEdYQ0RqRGM"></div>
 </div>
 <div class="item" data-w="1200" data-h="800">
-	<div class="img"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/fleetweek/t-F4545.jpg"></div>
+	<div class="img"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1VTV2bWdNM3ZVS00"></div>
 </div>
 <div class="item" data-w="533" data-h="800">
-	<div class="img"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/fleetweek/t-F4547.jpg"></div>
+	<div class="img"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1a3RLbkkwMUZtT28"></div>
 </div>
 <div class="item" data-w="533" data-h="800">
-	<div class="img"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/fleetweek/t-F4549.jpg"></div>
+	<div class="img"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1MlZ1TXVvbXRpcEU"></div>
 	</div>
 
 

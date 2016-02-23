@@ -55,76 +55,76 @@ Click on the pictures for larger views.
 
 <div style="max-width:1200px;margin:0;padding:0;"> <div id="demo5" class="flex-images"> <br> <br>
 <div class="item" data-w="1500" data-h="994">
-	<div class="img"><a href="{{ site.url }}/images/photos/dubai/t-000088600003.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/dubai/st-000088600003.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1MDIwSmpLdnlqQXc"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1S0h3ajllTWg5cDA"></a></div>
 </div>
 <div class="item" data-w="994" data-h="1500">
-	<div class="img"><a href="{{ site.url }}/images/photos/dubai/t-000088600004.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/dubai/st-000088600004.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1dnZKNms2S1ZOUUk"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1dHpIS1hKbl9JeU0"></a></div>
 </div>
 <div class="item" data-w="994" data-h="1500">
-	<div class="img"><a href="{{ site.url }}/images/photos/dubai/t-000088600009.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/dubai/st-000088600009.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1R0ZZRDJTejlPRjA"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1aXFZNHY5VnJXd3M"></a></div>
 </div>
 <div class="item" data-w="994" data-h="1500">
-	<div class="img"><a href="{{ site.url }}/images/photos/dubai/t-000088600010.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/dubai/st-000088600010.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1aFVkamRJb2Q5WVU"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1dGEwZTEwODFmSXM"></a></div>
 </div>
 <div class="item" data-w="994" data-h="1500">
-	<div class="img"><a href="{{ site.url }}/images/photos/dubai/t-000088600012.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/dubai/st-000088600012.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1WG1Fa0JpM254Rnc"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1WGlmMHltcnB0NlU"></a></div>
 </div>
 <div class="item" data-w="994" data-h="1500">
-	<div class="img"><a href="{{ site.url }}/images/photos/dubai/t-000088600013.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/dubai/st-000088600013.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1aE8wWEJsOGZIZXc"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1NkFwV2V3NGpzelE"></a></div>
 </div>
 <div class="item" data-w="994" data-h="1500">
-	<div class="img"><a href="{{ site.url }}/images/photos/dubai/t-000088600014.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/dubai/st-000088600014.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1NHRZdTJyQWFrYlE"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1WG1nNk5ud1JieTA"></a></div>
 </div>
 <div class="item" data-w="994" data-h="1500">
-	<div class="img"><a href="{{ site.url }}/images/photos/dubai/t-000088600015.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/dubai/st-000088600015.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1bFlwMDlqRkhFTDA"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1QUN2TGZyVmJyZmM"></a></div>
 </div>
 <div class="item" data-w="994" data-h="1500">
-	<div class="img"><a href="{{ site.url }}/images/photos/dubai/t-000088600020.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/dubai/st-000088600020.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1cEIxSG5YNFpFM28"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1c0hHTUFOS0VfdW8"></a></div>
 </div>
 <div class="item" data-w="994" data-h="1500">
-	<div class="img"><a href="{{ site.url }}/images/photos/dubai/t-000088600022.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/dubai/st-000088600022.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1Y0tBVXNmdk1UNE0"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1ZjZLaE92WHN0RTA"></a></div>
 </div>
 <div class="item" data-w="994" data-h="1500">
-	<div class="img"><a href="{{ site.url }}/images/photos/dubai/t-000088600024.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/dubai/st-000088600024.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1ZkJjUEwxb0w0aUk"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1d0JTaVZTZEVsaTg"></a></div>
 </div>
 <div class="item" data-w="994" data-h="1500">
-	<div class="img"><a href="{{ site.url }}/images/photos/dubai/t-000088600026.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/dubai/st-000088600026.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1VzFncDYyd3dxWlU"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1VFRuM2R5Y1ZmUUE"></a></div>
 </div>
 <div class="item" data-w="1500" data-h="994">
-	<div class="img"><a href="{{ site.url }}/images/photos/dubai/t-000088600029.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/dubai/st-000088600029.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1X2h1c0FxN2dJYkk"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1am1YblNZdEdOQlU"></a></div>
 </div>
 <div class="item" data-w="994" data-h="1500">
-	<div class="img"><a href="{{ site.url }}/images/photos/dubai/t-000088600032.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/dubai/st-000088600032.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1LXJRMTJhdlNFSW8"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1ZnBEQ2MybE5sd2M"></a></div>
 </div>
 <div class="item" data-w="994" data-h="1500">
-	<div class="img"><a href="{{ site.url }}/images/photos/dubai/t-000088600033.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/dubai/st-000088600033.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1YTNBcEJtWjBySm8"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1UXg2OHhDanJGbmM"></a></div>
 </div>
 <div class="item" data-w="994" data-h="1500">
-	<div class="img"><a href="{{ site.url }}/images/photos/dubai/t-000088600034.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/dubai/st-000088600034.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1bWVTV1VIcGZ5OVE"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1X2NpU1gtUTFtZFE"></a></div>
 </div>
 <div class="item" data-w="1000" data-h="1500">
-	<div class="img"><a href="{{ site.url }}/images/photos/dubai/t-DSCF0279.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/dubai/st-DSCF0279.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1OXFpd3FmZnFWR00"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1Tk1PaFRmV2lYXzg"></a></div>
 </div>
 <div class="item" data-w="1000" data-h="1500">
-	<div class="img"><a href="{{ site.url }}/images/photos/dubai/t-DSCF0287.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/dubai/st-DSCF0287.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1aDBiSnFsdkJIVTA"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1c21rMFNMZkZvbkU"></a></div>
 </div>
 <div class="item" data-w="1000" data-h="1500">
-	<div class="img"><a href="{{ site.url }}/images/photos/dubai/t-DSCF0292.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/dubai/st-DSCF0292.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1dm9aMHE3aHdUSms"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1bUhHRW4yZkxYOXM"></a></div>
 </div>
 <div class="item" data-w="999" data-h="1500">
-	<div class="img"><a href="{{ site.url }}/images/photos/dubai/t-DSCF0293.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/dubai/st-DSCF0293.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1bjhCa1o3OWZyelE"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1STdKSjJiTUtJVDA"></a></div>
 </div>
 <div class="item" data-w="1000" data-h="1500">
-	<div class="img"><a href="{{ site.url }}/images/photos/dubai/t-DSCF0301.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/dubai/st-DSCF0301.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1eE5JX01BNzNIY1U"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1ZERpZlM3a0lNd2s"></a></div>
 </div>
 <div class="item" data-w="1000" data-h="1500">
-	<div class="img"><a href="{{ site.url }}/images/photos/dubai/t-DSCF0302.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/dubai/st-DSCF0302.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1M1BfczBVMWhSRlE"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1bkI4S0N4NnprcXc"></a></div>
 </div>
 <div class="item" data-w="1000" data-h="1500">
-	<div class="img"><a href="{{ site.url }}/images/photos/dubai/t-DSCF0304.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/dubai/st-DSCF0304.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1aVVIcGVHVG81MFE"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1blltbUtIOUxrLUk"></a></div>
 </div>
 <div class="item" data-w="1500" data-h="1000">
-	<div class="img"><a href="{{ site.url }}/images/photos/dubai/t-DSCF0309.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/dubai/st-DSCF0309.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1UXlEMTRpM1ctTDQ"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1VlI5SG13N1gzVkk"></a></div>
 </div>
 </div>
 </div>

@@ -177,7 +177,7 @@ later.
 <div id="demo2" class="flex-images" >
 
 <div class="item" data-w="292" data-h="800" style="float:right;">
-   <div class="img"><a href="{{ site.url }}/images/photos/xpanAndvisitors/t-53740018_a1.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/xpanAndvisitors/st-53740018_a1.jpg"></a></div>
+   <div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1OUVldzVIN281YUE"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1TWh4NFVTYWtGVmM"></a></div>
 </div>
 </div>
 </div>
@@ -190,10 +190,10 @@ $('#demo2').flexImages({ rowHeight:600 , truncate: 0});
 <div id="demo1" class="flex-images">
 
 <div class="item" data-w="2400" data-h="876">
-	<div class="img"><a href="{{ site.url }}/images/photos/xpanAndvisitors/t-001.25810002.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/xpanAndvisitors/st-001.25810002.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1UzRPZ01VdDdnVkU"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1bm8ySzkydGdoUXc"></a></div>
 </div>
 <div class="item" data-w="2400" data-h="876">
-  <div class="img"><a href="{{ site.url }}/images/photos/xpanAndvisitors/t-002.25810003.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/xpanAndvisitors/st-002.25810003.jpg"></a></div>
+  <div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1Wjc1VFhxeVhmY1k"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1VnJ6N3hQamZTUnc"></a></div>
 </div>
 
 </div></div>
@@ -209,13 +209,13 @@ $('#demo1').flexImages({ rowHeight:400 , truncate: 0});
 <div id="demo3" class="flex-images" >
 
 <div class="item" data-w="2400" data-h="876">
-	<div class="img"><a href="{{ site.url }}/images/photos/xpanAndvisitors/t-003.25810004.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/xpanAndvisitors/st-003.25810004.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1cmdyTEdEOFdDWVU"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1UElLZ1dVNzRPOXc"></a></div>
 </div>
 <div class="item" data-w="2400" data-h="876">
-	<div class="img"><a href="{{ site.url }}/images/photos/xpanAndvisitors/t-004.25810009.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/xpanAndvisitors/st-004.25810009.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1ZlJSZHJRbGVZS0U"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1UU1NV0RpRy15YWM"></a></div>
 </div>
 <div class="item" data-w="2400" data-h="876">
-	<div class="img"><a href="{{ site.url }}/images/photos/xpanAndvisitors/t-005.25810011.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/xpanAndvisitors/st-005.25810011.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1UXFJWXBLejN1Q3M"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1d2JWSEtUZXRUaTA"></a></div>
 </div>
 
 </div></div></div>
@@ -235,43 +235,43 @@ of my poor skills), the photo is better than the ground glass.
 <div id="demo4" class="flex-images" >
 
 <div class="item" data-w="1200" data-h="1182">
-	<div class="img"><a href="{{ site.url }}/images/photos/xpanAndvisitors/t-006.000049380002.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/xpanAndvisitors/st-006.000049380002.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1cThUU2prNGZHTjQ"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1VERxeERheXBfcVk"></a></div>
 </div>
 <div class="item" data-w="1200" data-h="1182">
-	<div class="img"><a href="{{ site.url }}/images/photos/xpanAndvisitors/t-007.000049380003.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/xpanAndvisitors/st-007.000049380003.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1NUdmMHlYeUE1MlE"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1eDNhMkUyNGVWREE"></a></div>
 </div>
 <div class="item" data-w="1200" data-h="1182">
-	<div class="img"><a href="{{ site.url }}/images/photos/xpanAndvisitors/t-008.000049380004.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/xpanAndvisitors/st-008.000049380004.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1akZCQWh2R2xrWEU"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1NXR3XzctMW40aEk"></a></div>
 </div>
 <div class="item" data-w="1200" data-h="1182">
-	<div class="img"><a href="{{ site.url }}/images/photos/xpanAndvisitors/t-009.000049380006.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/xpanAndvisitors/st-009.000049380006.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1N0JDVGF6Q0pDM28"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1X21aOXg0UWktZlU"></a></div>
 </div>
 <div class="item" data-w="1200" data-h="1182">
-	<div class="img"><a href="{{ site.url }}/images/photos/xpanAndvisitors/t-010.000049380007.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/xpanAndvisitors/st-010.000049380007.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1X2FEdFlkX3pzNXc"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1cXpLSG5tV1lYLTA"></a></div>
 </div>
 <div class="item" data-w="1200" data-h="1182">
-	<div class="img"><a href="{{ site.url }}/images/photos/xpanAndvisitors/t-011.000049380010.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/xpanAndvisitors/st-011.000049380010.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1WDFkdXktNjNsUm8"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1dkhBRE9CY2dVNEk"></a></div>
 </div>
 <div class="item" data-w="1200" data-h="1182">
-	<div class="img"><a href="{{ site.url }}/images/photos/xpanAndvisitors/t-012.000049380011.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/xpanAndvisitors/st-012.000049380011.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1elRtY003ZEk5Wkk"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1Q293YkttblRPeVE"></a></div>
 </div>
 <div class="item" data-w="1200" data-h="1182">
-	<div class="img"><a href="{{ site.url }}/images/photos/xpanAndvisitors/t-013.000049390002.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/xpanAndvisitors/st-013.000049390002.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1SmhwaFk1TTNFdHM"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1amh2OVVQTG41MVU"></a></div>
 </div>
 <div class="item" data-w="1200" data-h="1182">
-	<div class="img"><a href="{{ site.url }}/images/photos/xpanAndvisitors/t-014.000049390003.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/xpanAndvisitors/st-014.000049390003.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1YTk2a3NoYVhHa1U"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1MHhjNUxJUTJUM2M"></a></div>
 </div>
 <div class="item" data-w="1200" data-h="1182">
-	<div class="img"><a href="{{ site.url }}/images/photos/xpanAndvisitors/t-015.000049390004.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/xpanAndvisitors/st-015.000049390004.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1dFRkRXJhLWpEdEE"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1MmhEUm1TVk5LcUE"></a></div>
 </div>
 <div class="item" data-w="1200" data-h="1182">
-	<div class="img"><a href="{{ site.url }}/images/photos/xpanAndvisitors/t-016.000049390007.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/xpanAndvisitors/st-016.000049390007.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1NnZweUVSUl9SSE0"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1c0RXeEtWc0pJUlE"></a></div>
 </div>
 <div class="item" data-w="1200" data-h="1182">
-	<div class="img"><a href="{{ site.url }}/images/photos/xpanAndvisitors/t-017.000049390010.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/xpanAndvisitors/st-017.000049390010.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1aDR1TWFkLXRHaGs"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1Zng0Ml80T1FPUm8"></a></div>
 </div>
 <div class="item" data-w="1200" data-h="1182">
-	<div class="img"><a href="{{ site.url }}/images/photos/xpanAndvisitors/t-018.000049390011.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/xpanAndvisitors/st-018.000049390011.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1blppSWlUZXBVMkk"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1STh1WHgxMEw1c28"></a></div>
 </div>
 
 </div></div></div>
@@ -284,28 +284,28 @@ $('#demo4').flexImages({ rowHeight:600 , truncate: 0});
 <div class="col-xs-12" style="padding-right:0;margin-right:0;">
 <div id="demo5" class="flex-images" >
 <div class="item" data-w="530" data-h="800">
-	<div class="img"><a href="{{ site.url }}/images/photos/xpanAndvisitors/t-53740004.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/xpanAndvisitors/st-53740004.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1ajdqS3lfYzBCTGM"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1aVEyT19RcG5vSjg"></a></div>
 </div>
 <div class="item" data-w="530" data-h="800">
-	<div class="img"><a href="{{ site.url }}/images/photos/xpanAndvisitors/t-53740006.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/xpanAndvisitors/st-53740006.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1b0k4NzlhTWpKLW8"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1VHVjQXM0YnFIY2M"></a></div>
 </div>
 <div class="item" data-w="530" data-h="800">
-	<div class="img"><a href="{{ site.url }}/images/photos/xpanAndvisitors/t-53740008.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/xpanAndvisitors/st-53740008.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1OFhzUUc0MFNKNHc"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1Tkp1SS1xMHVXdUk"></a></div>
 </div>
 <div class="item" data-w="1200" data-h="796">
-	<div class="img"><a href="{{ site.url }}/images/photos/xpanAndvisitors/t-53740012.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/xpanAndvisitors/st-53740012.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1eFRTMFZnTzhpV28"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1ZTJxRHcwNnVRSkE"></a></div>
 </div>
 <div class="item" data-w="530" data-h="800">
-	<div class="img"><a href="{{ site.url }}/images/photos/xpanAndvisitors/t-53740013.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/xpanAndvisitors/st-53740013.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1VDZ6U0VaWUdvSGM"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1bkRMamlvUVgwT2c"></a></div>
 </div>
 <div class="item" data-w="1200" data-h="795">
-	<div class="img"><a href="{{ site.url }}/images/photos/xpanAndvisitors/t-53740015.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/xpanAndvisitors/st-53740015.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1OTRYS3VpME0weTQ"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1WkhaaTFxMDIxblU"></a></div>
 </div>
 <div class="item" data-w="530" data-h="800">
-	<div class="img"><a href="{{ site.url }}/images/photos/xpanAndvisitors/t-53740014.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/xpanAndvisitors/st-53740014.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1REVUOUIxdlR6ekE"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1NjhCMnFzSGRCLVU"></a></div>
 </div>
 <div class="item" data-w="1200" data-h="795">
-	<div class="img"><a href="{{ site.url }}/images/photos/xpanAndvisitors/t-53740018_a.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/xpanAndvisitors/st-53740018_a.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1b2VMcmkzMEo3QUE"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1YVpzQzk1bk5FYTA"></a></div>
 </div>
 </div></div></div>
 <script>
@@ -318,10 +318,10 @@ $('#demo5').flexImages({ rowHeight:795 , truncate: 0});
 <div class="col-xs-12" style="padding-right:0;margin-right:0;">
 <div id="demo6" class="flex-images" >
 <div class="item" data-w="2400" data-h="876">
-	<div class="img"><a href="{{ site.url }}/images/photos/xpanAndvisitors/t-53740018_a2.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/xpanAndvisitors/st-53740018_a2.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1RnVfek5qc1BNWDQ"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1YVRUak5SRk9UVjg"></a></div>
 </div>
 <div class="item" data-w="2400" data-h="876">
-	<div class="img"><a href="{{ site.url }}/images/photos/xpanAndvisitors/t-53740018_a3.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/xpanAndvisitors/st-53740018_a3.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1Z0p5MEdtSG54bE0"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1WVUyN1ZGUUxZSFk"></a></div>
 </div>
 </div></div></div>
 <script>
@@ -335,22 +335,22 @@ $('#demo6').flexImages({ rowHeight:600 , truncate: 0});
 <div id="demo7" class="flex-images" >
 
 <div class="item" data-w="265" data-h="400">
-	<div class="img"><a href="{{ site.url }}/images/photos/xpanAndvisitors/t-53740021.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/xpanAndvisitors/st-53740021.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1Qy1TTG9OUjBaMFk"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1bEFrVkVUVDRpQmM"></a></div>
 </div>
 <div class="item" data-w="1200" data-h="795">
-	<div class="img"><a href="{{ site.url }}/images/photos/xpanAndvisitors/t-53740023.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/xpanAndvisitors/st-53740023.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1S1I2dm1SN3hBaFU"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1UzJBY2g5Y19aSnM"></a></div>
 </div>
 <div class="item" data-w="265" data-h="400">
-	<div class="img"><a href="{{ site.url }}/images/photos/xpanAndvisitors/t-53740027.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/xpanAndvisitors/st-53740027.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1M2xuNlhqMk1XN0E"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1TnpVR2JjcGFBTDg"></a></div>
 </div>
 <div class="item" data-w="265" data-h="400">
-	<div class="img"><a href="{{ site.url }}/images/photos/xpanAndvisitors/t-53740028.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/xpanAndvisitors/st-53740028.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1Q3BwUzV3UHA0bW8"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1TVltWVhEMjdUOHc"></a></div>
 </div>
 <div class="item" data-w="265" data-h="400">
-	<div class="img"><a href="{{ site.url }}/images/photos/xpanAndvisitors/t-53740034.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/xpanAndvisitors/st-53740034.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1ZXkxZ1E0bTlxWlE"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1M2p3RGt6OHg2dUU"></a></div>
 </div>
 <div class="item" data-w="1200" data-h="795">
-	<div class="img"><a href="{{ site.url }}/images/photos/xpanAndvisitors/t-53740029.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/xpanAndvisitors/st-53740029.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1UWh3ZnZWeThiVjQ"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1dUVfc2IxN3lYa1E"></a></div>
 </div>
 </div></div></div>
 <script>
@@ -363,28 +363,28 @@ $('#demo7').flexImages({ rowHeight:795 , truncate: 0});
 <div class="col-xs-12" style="padding-right:0;margin-right:0;">
 <div id="demo8" class="flex-images" >
 <div class="item" data-w="2400" data-h="983">
-	<div class="img"><a href="{{ site.url }}/images/photos/xpanAndvisitors/t-53750001.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/xpanAndvisitors/st-53750001.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1c3NDTUQtRXhfRkU"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1eVQySjNCd0hCWnc"></a></div>
 </div>
 <div class="item" data-w="2400" data-h="983">
-	<div class="img"><a href="{{ site.url }}/images/photos/xpanAndvisitors/t-53750003.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/xpanAndvisitors/st-53750003.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1R0VxYWJCdmVPLW8"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1bjVkbEU1OVQ4Wjg"></a></div>
 </div>
 <div class="item" data-w="2341" data-h="959">
-	<div class="img"><a href="{{ site.url }}/images/photos/xpanAndvisitors/t-53750005.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/xpanAndvisitors/st-53750005.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1MHJyc3ZsWkpZakU"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1dlV2NG95NnRYTkk"></a></div>
 </div>
 <div class="item" data-w="2400" data-h="983">
-	<div class="img"><a href="{{ site.url }}/images/photos/xpanAndvisitors/t-53750006.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/xpanAndvisitors/st-53750006.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1bnlYLVBDSVBZYTA"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1OGNGcm1ENHkzeXc"></a></div>
 </div>
 <div class="item" data-w="2400" data-h="983">
-	<div class="img"><a href="{{ site.url }}/images/photos/xpanAndvisitors/t-53750008.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/xpanAndvisitors/st-53750008.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1NDVva0g0Q0YzSnM"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1cTFCODRhZlg1blk"></a></div>
 </div>
 <div class="item" data-w="2253" data-h="923">
-	<div class="img"><a href="{{ site.url }}/images/photos/xpanAndvisitors/t-53750011.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/xpanAndvisitors/st-53750011.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1V0h6ZTVBcnRzNHc"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1R043Unc2REVsc1k"></a></div>
 </div>
 <div class="item" data-w="2400" data-h="983">
-	<div class="img"><a href="{{ site.url }}/images/photos/xpanAndvisitors/t-53750014.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/xpanAndvisitors/st-53750014.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1dExQNDlkZ1JFOHM"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1MTFlbmhUY2tUaDQ"></a></div>
 </div>
 <div class="item" data-w="2400" data-h="983">
-	<div class="img"><a href="{{ site.url }}/images/photos/xpanAndvisitors/t-53750020.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/xpanAndvisitors/st-53750020.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1SjdMQ0tSNWw0UEE"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1dVdUWU5jM0lkUVE"></a></div>
 </div>
 </div></div></div>
 <script>

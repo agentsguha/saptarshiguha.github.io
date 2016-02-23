@@ -37,69 +37,69 @@ combination of Leica M7, Portra and Voigtlander 21mm. The black and whites are w
 	
 <div id="demo6" class="flex-images" style="padding-top:0.5em;">
 <div class="item" data-w="700" data-h="468">
-	<div class="img"><a href="{{ site.url }}/images/photos/tahoe2/t-10A.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/tahoe2/st-bord-10A.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1R0VRMDJWa2tvYjQ"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1ZHZlQTlKdHFiVlU"></a></div>
 </div>
 <div class="item" data-w="468" data-h="700">
-	<div class="img"><a href="{{ site.url }}/images/photos/tahoe2/t-9A.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/tahoe2/st-bord-9A.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1UVpubjZYNXRrTjA"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1ODA4azNtZ0RValk"></a></div>
 </div>
 <div class="item" data-w="700" data-h="467">
-	<div class="img"><a href="{{ site.url }}/images/photos/tahoe2/t-DSC00337.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/tahoe2/st-bord-DSC00337.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1Y21mWGcyRFVXR28"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1VmxONHZLMC1ERVE"></a></div>
 </div>
 <div class="item" data-w="700" data-h="467">
-	<div class="img"><a href="{{ site.url }}/images/photos/tahoe2/t-DSC00384.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/tahoe2/st-bord-DSC00384.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1RnFHZndLMzBMbFE"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1cnlIVTd2MUc5elk"></a></div>
 </div>
 <div class="item" data-w="700" data-h="467">
-	<div class="img"><a href="{{ site.url }}/images/photos/tahoe2/t-DSC00416.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/tahoe2/st-bord-DSC00416.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1alVHS25qT3dWSG8"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1RW9zeGRKTWhGeEk"></a></div>
 </div>
 
 
 <div class="item" data-w="700" data-h="468">
-	<div class="img"><a href="{{ site.url }}/images/photos/tahoe2/t-0A.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/tahoe2/st-bord-0A.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1NEVoUDZ1Y183NHc"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1elBmS3A3MlZZR1U"></a></div>
 </div>
 
 <div class="item" data-w="700" data-h="468">
-	<div class="img"><a href="{{ site.url }}/images/photos/tahoe2/t-31A.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/tahoe2/st-bord-31A.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1RHlfcC1CSHZZTXM"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1c0MxUzQzSHo2VTg"></a></div>
 </div>
 
 <div class="item" data-w="700" data-h="468">
-	<div class="img"><a href="{{ site.url }}/images/photos/tahoe2/t-12A.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/tahoe2/st-bord-12A.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1LU5RemRVZzVnTlU"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1ZlBhVmswWlJjQUE"></a></div>
 </div>
 <div class="item" data-w="700" data-h="468">
-	<div class="img"><a href="{{ site.url }}/images/photos/tahoe2/t-14A.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/tahoe2/st-bord-14A.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1YXVESTd4dVZqRUk"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1eWJGMG43eFlILTQ"></a></div>
 </div>
 <div class="item" data-w="700" data-h="468">
-	<div class="img"><a href="{{ site.url }}/images/photos/tahoe2/t-18A.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/tahoe2/st-bord-18A.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1YnI2QUJabmVocUk"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1ZHZCZGRzUFRzNDA"></a></div>
 </div>
 <div class="item" data-w="700" data-h="468">
-	<div class="img"><a href="{{ site.url }}/images/photos/tahoe2/t-16A.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/tahoe2/st-bord-16A.jpg"></a></div>
-</div>
-
-<div class="item" data-w="700" data-h="468">
-	<div class="img"><a href="{{ site.url }}/images/photos/tahoe2/t-17A.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/tahoe2/st-bord-17A.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1Z2h6WlktTzVPM2s"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1d2lLWkhwTFFTVVE"></a></div>
 </div>
 
 <div class="item" data-w="700" data-h="468">
-	<div class="img"><a href="{{ site.url }}/images/photos/tahoe2/t-7A.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/tahoe2/st-bord-7A.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1emVnU05YRjVBOUk"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1cWJCOTcxSXpBWnM"></a></div>
+</div>
+
+<div class="item" data-w="700" data-h="468">
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1Wjc4MkNWbktvTlE"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1NkFHS01vODFrQms"></a></div>
 </div>
 
 
 <div class="item" data-w="700" data-h="468">
-	<div class="img"><a href="{{ site.url }}/images/photos/tahoe2/t-19A.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/tahoe2/st-bord-19A.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1QVliTGp0R1ZSYTA"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1dDUyQ2xOdU9KbFE"></a></div>
 </div>
 <div class="item" data-w="700" data-h="468">
-	<div class="img"><a href="{{ site.url }}/images/photos/tahoe2/t-23A.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/tahoe2/st-bord-23A.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1Z0VaWUVhN3Ftd28"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1dFhWVG13d2ZKclE"></a></div>
 </div>
 <div class="item" data-w="700" data-h="468">
-	<div class="img"><a href="{{ site.url }}/images/photos/tahoe2/t-24A.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/tahoe2/st-bord-24A.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1M2RZbXN1amQ5S0U"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1V2lITFFYamxsd0k"></a></div>
 </div>
 
 
 <div class="item" data-w="700" data-h="467">
-	<div class="img"><a href="{{ site.url }}/images/photos/tahoe2/t-DSCF1044.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/tahoe2/st-bord-DSCF1044.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1ZTVyV0hPcm9iUlE"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1T0lNWWh1dW1QeXM"></a></div>
 </div>
 
 <div class="item" data-w="700" data-h="468">
-	<div class="img"><a href="{{ site.url }}/images/photos/tahoe2/t-5A.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/tahoe2/st-bord-5A.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1Smp0NXZodTByeWs"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1dk82bWdjTHQ3ak0"></a></div>
 </div>
 
 </div>

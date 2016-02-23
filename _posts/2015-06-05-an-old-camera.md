@@ -37,51 +37,51 @@ But then everyone could also take a picture on their cellphone too and share it 
 <div id="demo6" class="flex-images" style="padding-top:0.5em;">
 
 <div class="item" data-w="799" data-h="1200">
-	<div class="img"><a href="{{ site.url }}/images/photos/throwaway/t-AB006A.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/throwaway/st-AB006A.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1V2Z1SnpXVUI3U2s"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1ek41QzZmcFZyU1E"></a></div>
 </div>
 <div class="item" data-w="799" data-h="1200">
-	<div class="img"><a href="{{ site.url }}/images/photos/throwaway/t-AB011A.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/throwaway/st-AB011A.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1NmQwbWlEc05lYmc"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1TFJEZzVNcEt2X0U"></a></div>
 </div>
 <div class="item" data-w="799" data-h="1200">
-	<div class="img"><a href="{{ site.url }}/images/photos/throwaway/t-AB012A.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/throwaway/st-AB012A.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1WGNZbThrWmp1NmM"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1MlpPUEdyRGxVeGc"></a></div>
 </div>
 <div class="item" data-w="799" data-h="1200">
-	<div class="img"><a href="{{ site.url }}/images/photos/throwaway/t-AB013A.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/throwaway/st-AB013A.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1T0xLTUNDb1d6VEE"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1UWtsNmNpSG9oRlE"></a></div>
 </div>
 
 <div class="item" data-w="1200" data-h="799">
-	<div class="img"><a href="{{ site.url }}/images/photos/throwaway/t-AA000A.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/throwaway/st-AA000A.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1Ty05X2hjNmtaaTg"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1a3F1aG10dmFrNjA"></a></div>
 </div>
 <div class="item" data-w="1200" data-h="799">
-	<div class="img"><a href="{{ site.url }}/images/photos/throwaway/t-AA001A.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/throwaway/st-AA001A.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1UmhvaVZ6UmRzemM"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1bTlHUVlzU0h1dEE"></a></div>
 </div>
 <div class="item" data-w="799" data-h="1200">
-	<div class="img"><a href="{{ site.url }}/images/photos/throwaway/t-AB014A.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/throwaway/st-AB014A.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1bWhFNFhjdks1cEk"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1b19fWXV4RGFndFk"></a></div>
 </div>
 
 <div class="item" data-w="1200" data-h="799">
-	<div class="img"><a href="{{ site.url }}/images/photos/throwaway/t-AA007A.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/throwaway/st-AA007A.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1SUdacHB6M3NtYU0"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1bi10RUJ4c2s3NVk"></a></div>
 </div>
 <div class="item" data-w="799" data-h="1200">
-	<div class="img"><a href="{{ site.url }}/images/photos/throwaway/t-AA008A.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/throwaway/st-AA008A.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1QVExSy1TSm1IVjA"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1NldtWUVrT0dXWTg"></a></div>
 </div>
 <div class="item" data-w="1200" data-h="799">
-	<div class="img"><a href="{{ site.url }}/images/photos/throwaway/t-AA009A.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/throwaway/st-AA009A.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1VW9sRmdnOE5FcWs"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1QkNrWEhDaTA3Mk0"></a></div>
 </div>
 <div class="item" data-w="799" data-h="1200">
-	<div class="img"><a href="{{ site.url }}/images/photos/throwaway/t-AA010A.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/throwaway/st-AA010A.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1WFhBS0QxUnNNbkk"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1R3A1ajAxSndNVHM"></a></div>
 </div>
 <div class="item" data-w="1200" data-h="799">
-	<div class="img"><a href="{{ site.url }}/images/photos/throwaway/t-AA015A.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/throwaway/st-AA015A.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1akVWY1EyRUd0emM"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1QzVDcEhRdVNxTDQ"></a></div>
 </div>
 <div class="item" data-w="1200" data-h="799">
-	<div class="img"><a href="{{ site.url }}/images/photos/throwaway/t-AA025A.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/throwaway/st-AA025A.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1bkpndTZETGp0MjA"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1YlpVZ1FFdC1WX1U"></a></div>
 </div>
 <div class="item" data-w="1200" data-h="799">
-	<div class="img"><a href="{{ site.url }}/images/photos/throwaway/t-AB003A.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/throwaway/st-AB003A.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1S19kQjltYmN3bzQ"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1TUhOd09xbjlMT2c"></a></div>
 </div>
 <div class="item" data-w="1200" data-h="799">
-	<div class="img"><a href="{{ site.url }}/images/photos/throwaway/t-AB004A.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/throwaway/st-AB004A.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1WjZKUmw5MXJ5Z1k"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1eU9JSS1DWUQxM0k"></a></div>
 </div>
 
 </div>

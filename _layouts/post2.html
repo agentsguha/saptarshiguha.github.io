@@ -1,9 +1,10 @@
 ---
 layout: default2
 ---
-   <script src="https://code.jquery.com/jquery-1.11.1.min.js"></script>
+    <script type="text/javascript" src="https://code.jquery.com/jquery-latest.min.js"></script>
    <script src="{{ site.url }}/js/fleximage/jquery.flex-images.js"></script>
- <script type="text/javascript" src="{{ site.url }}/js/fancybox/jquery.fancybox.pack.js"></script>
+   <link rel="stylesheet" href="{{ site.url }}/js/fancybox/source/jquery.fancybox.css?v=2.1.5" type="text/css" media="screen" />
+   <script type="text/javascript" src="{{ site.url }}/js/fancybox/source/jquery.fancybox.pack.js?v=2.1.5"></script>
 
 <!-- Latest compiled and minified CSS -->
 
@@ -26,15 +27,15 @@ layout: default2
 </div>
 
 <script>
-
    $(document).ready(function() {
-	   $("a[href$='.jpg'],a[href$='.jpeg'],a[href$='.gif']").attr('rel', 'gallery').fancybox({
-		padding:5,margin:5,aspectRatio:true,
-		prevEffect	: 'none',
-		nextEffect	: 'none',
-	});
-      $('tr').parent('thead').parent('table').addClass('table table-condensed');
-        console.log("FOOOO");
+	   $("a[href*='docs.google.com/'],a[href*='.png'],a[href*='.jpg']").attr('rel', 'gallery').fancybox({
+	       padding:5,margin:5,aspectRatio:true,
+	       prevEffect	: 'none',
+	       nextEffect	: 'none',
+               type: "image"
+           });
+       $('tr').parent('thead').parent('table').addClass('table table-condensed');
+       console.log("FOOOO");
    })
 </script>
 

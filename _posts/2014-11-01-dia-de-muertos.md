@@ -22,154 +22,154 @@ Fuji XT1 with the 35mm/1.4. Touched up in LR.
 <div id="demo5" class="flex-images">
 
 <div class="item" data-w="1200" data-h="800">
-	<div class="img"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/dead/t-F0082.jpg"></div>
+	<div class="img"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1Y09NdVQzZXNLa0U"></div>
 </div>
 <div class="item" data-w="1199" data-h="800">
-	<div class="img"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/dead/t-F0090.jpg"></div>
+	<div class="img"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1ek85VEp2VkI0RDg"></div>
 </div>
 <div class="item" data-w="533" data-h="800">
-	<div class="img"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/dead/t-F0092.jpg"></div>
+	<div class="img"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1QkpsMVo2YTkxOE0"></div>
 </div>
 <div class="item" data-w="533" data-h="800">
-	<div class="img"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/dead/t-F0093.jpg"></div>
+	<div class="img"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1TDc1RjVMbFl5bkk"></div>
 </div>
 <div class="item" data-w="1200" data-h="800">
-	<div class="img"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/dead/t-F0095.jpg"></div>
+	<div class="img"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1Q29pQ0cwUE1QX1k"></div>
 </div>
 <div class="item" data-w="533" data-h="800">
-	<div class="img"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/dead/t-F0100.jpg"></div>
+	<div class="img"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1LXM0bzFtU0ljMDg"></div>
 </div>
 <div class="item" data-w="533" data-h="800">
-	<div class="img"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/dead/t-F0104.jpg"></div>
+	<div class="img"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1aUFZSzBKOTdLYmM"></div>
 </div>
 <div class="item" data-w="533" data-h="800">
-	<div class="img"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/dead/t-F0109.jpg"></div>
+	<div class="img"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1T1QtOHBVVnFwV0U"></div>
 </div>
 <div class="item" data-w="533" data-h="800">
-	<div class="img"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/dead/t-F0111.jpg"></div>
+	<div class="img"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1YjdjTi1scm5KejA"></div>
 </div>
 <div class="item" data-w="1200" data-h="800">
-	<div class="img"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/dead/t-F0114.jpg"></div>
+	<div class="img"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1TlZFR1AwX2VqWjg"></div>
 </div>
 <div class="item" data-w="1200" data-h="800">
-	<div class="img"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/dead/t-F0116.jpg"></div>
+	<div class="img"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1REpPZWhoVXlSN1U"></div>
 </div>
 <div class="item" data-w="1199" data-h="800">
-	<div class="img"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/dead/t-F0121.jpg"></div>
+	<div class="img"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1Ry00amFyLWk2QlU"></div>
 </div>
 <div class="item" data-w="1200" data-h="800">
-	<div class="img"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/dead/t-F0124.jpg"></div>
+	<div class="img"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1UmNQWHp2ZDdqaGM"></div>
 </div>
 <div class="item" data-w="1200" data-h="800">
-	<div class="img"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/dead/t-F0126.jpg"></div>
+	<div class="img"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1WjhBQ0RDR3JtT3M"></div>
 </div>
 <div class="item" data-w="533" data-h="800">
-	<div class="img"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/dead/t-F0128.jpg"></div>
+	<div class="img"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1c1VLSU0wZ2hDVVU"></div>
 </div>
 <div class="item" data-w="533" data-h="800">
-	<div class="img"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/dead/t-F0129.jpg"></div>
+	<div class="img"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1dnk3OGxiOXJJLUE"></div>
 </div>
 <div class="item" data-w="1200" data-h="800">
-	<div class="img"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/dead/t-F0130.jpg"></div>
+	<div class="img"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1aldhWTFOOGFNOTQ"></div>
 </div>
 <div class="item" data-w="1200" data-h="800">
-	<div class="img"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/dead/t-F0131.jpg"></div>
+	<div class="img"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1dXY3T0wxVmszTmc"></div>
 </div>
 <div class="item" data-w="533" data-h="800">
-	<div class="img"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/dead/t-F0135.jpg"></div>
+	<div class="img"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1al96eWREV1h2S0E"></div>
 </div>
 <div class="item" data-w="1200" data-h="800">
-	<div class="img"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/dead/t-F0136.jpg"></div>
+	<div class="img"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1VXRLZjBJT0dTQVk"></div>
 </div>
 <div class="item" data-w="1200" data-h="800">
-	<div class="img"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/dead/t-F0138.jpg"></div>
+	<div class="img"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1OTlUSnF2MWdSNWM"></div>
 </div>
 <div class="item" data-w="533" data-h="800">
-	<div class="img"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/dead/t-F0139.jpg"></div>
+	<div class="img"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1bjlPV0Y0ZngxV00"></div>
 </div>
 <div class="item" data-w="1200" data-h="800">
-	<div class="img"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/dead/t-F0141.jpg"></div>
+	<div class="img"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1TzhxR2FkVDRSWEk"></div>
 </div>
 <div class="item" data-w="1200" data-h="800">
-	<div class="img"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/dead/t-F0142.jpg"></div>
+	<div class="img"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1YUFDS3JiYXZlU3M"></div>
 </div>
 <div class="item" data-w="1200" data-h="800">
-	<div class="img"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/dead/t-F0145.jpg"></div>
+	<div class="img"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1cW1rUjFlQ21SQ2M"></div>
 </div>
 <div class="item" data-w="1200" data-h="800">
-	<div class="img"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/dead/t-F0148.jpg"></div>
+	<div class="img"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1ekJfc2hCejVXaUE"></div>
 </div>
 <div class="item" data-w="533" data-h="800">
-	<div class="img"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/dead/t-F0149.jpg"></div>
+	<div class="img"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1SENnMW5hd3pOeFE"></div>
 </div>
 <div class="item" data-w="1200" data-h="800">
-	<div class="img"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/dead/t-F0152.jpg"></div>
+	<div class="img"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1NDJxcWlTc1Q5SXM"></div>
 </div>
 <div class="item" data-w="1200" data-h="800">
-	<div class="img"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/dead/t-F0155.jpg"></div>
+	<div class="img"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1Qk9Yb2hOejZIaDQ"></div>
 </div>
 <div class="item" data-w="1200" data-h="800">
-	<div class="img"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/dead/t-F0156.jpg"></div>
+	<div class="img"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1c0lSemF4RWt2Z0E"></div>
 </div>
 <div class="item" data-w="1200" data-h="800">
-	<div class="img"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/dead/t-F0157.jpg"></div>
+	<div class="img"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1azF3d3JXS0NKSTQ"></div>
 </div>
 <div class="item" data-w="1200" data-h="800">
-	<div class="img"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/dead/t-F0158.jpg"></div>
+	<div class="img"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1RHUzZEkydERjWWc"></div>
 </div>
 <div class="item" data-w="1200" data-h="800">
-	<div class="img"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/dead/t-F0159.jpg"></div>
+	<div class="img"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1U2dDUmxwbWx5cjA"></div>
 </div>
 <div class="item" data-w="533" data-h="800">
-	<div class="img"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/dead/t-F0160.jpg"></div>
+	<div class="img"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1V2x4N0RiZVFoSkk"></div>
 </div>
 <div class="item" data-w="533" data-h="800">
-	<div class="img"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/dead/t-F0165.jpg"></div>
+	<div class="img"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1OFMxa3ptandEOFk"></div>
 </div>
 <div class="item" data-w="533" data-h="800">
-	<div class="img"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/dead/t-F0167.jpg"></div>
+	<div class="img"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1QzFUWVNJdUhTeVU"></div>
 </div>
 <div class="item" data-w="1200" data-h="800">
-	<div class="img"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/dead/t-F0171.jpg"></div>
+	<div class="img"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1anlQWDEyRzJ6eXM"></div>
 </div>
 <div class="item" data-w="533" data-h="800">
-	<div class="img"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/dead/t-F0172.jpg"></div>
+	<div class="img"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1Mzk5RXhkanpSSUk"></div>
 </div>
 <div class="item" data-w="1200" data-h="800">
-	<div class="img"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/dead/t-F0174.jpg"></div>
+	<div class="img"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1RmxNYTJkM2dIbmM"></div>
 </div>
 <div class="item" data-w="533" data-h="800">
-	<div class="img"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/dead/t-F0175.jpg"></div>
+	<div class="img"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1TjRHenpqMi1yWDg"></div>
 </div>
 <div class="item" data-w="1200" data-h="800">
-	<div class="img"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/dead/t-F0176.jpg"></div>
+	<div class="img"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1VmxJM0U0VXNWRVU"></div>
 </div>
 <div class="item" data-w="1200" data-h="800">
-	<div class="img"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/dead/t-F0178.jpg"></div>
+	<div class="img"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1UmVkUFFXX2VuOVk"></div>
 </div>
 <div class="item" data-w="533" data-h="800">
-	<div class="img"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/dead/t-F0181.jpg"></div>
+	<div class="img"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1NWxlbC13Y25INDA"></div>
 </div>
 <div class="item" data-w="533" data-h="800">
-	<div class="img"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/dead/t-F0183.jpg"></div>
+	<div class="img"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1UlktV0JQZFZHbkU"></div>
 </div>
 <div class="item" data-w="1200" data-h="800">
-	<div class="img"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/dead/t-F0184.jpg"></div>
+	<div class="img"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1ODdoSlBfV2dTYmM"></div>
 </div>
 <div class="item" data-w="1200" data-h="800">
-	<div class="img"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/dead/t-F0187.jpg"></div>
+	<div class="img"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1TnpHcW5zZzVZUjg"></div>
 </div>
 <div class="item" data-w="533" data-h="800">
-	<div class="img"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/dead/t-F0194.jpg"></div>
+	<div class="img"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1TmNnLVUxam5sc2s"></div>
 </div>
 <div class="item" data-w="1200" data-h="800">
-	<div class="img"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/dead/t-F0195.jpg"></div>
+	<div class="img"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1SnNQZkFCdC02a3c"></div>
 </div>
 <div class="item" data-w="1199" data-h="800">
-	<div class="img"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/dead/t-F0196.jpg"></div>
+	<div class="img"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1Slo4b0QyTmJLams"></div>
 </div>
 <div class="item" data-w="533" data-h="800">
-	<div class="img"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/dead/t-F0197.jpg"></div>
+	<div class="img"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1dFp6S3VQZVdTeXM"></div>
 </div>
 
 </div>

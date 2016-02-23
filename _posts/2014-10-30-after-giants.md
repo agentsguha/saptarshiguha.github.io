@@ -17,7 +17,7 @@ Morning after the giants won. I went out to buy groceries.
 <div id="demo4" class="flex-images">
 
 <div class="item" data-w="533" data-h="800">
-	<div class="img"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/giants1/DSCF4481.jpg"></div>
+	<div class="img"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1T1dzZmVtbVhSMm8"></div>
 </div>
 
 </div>

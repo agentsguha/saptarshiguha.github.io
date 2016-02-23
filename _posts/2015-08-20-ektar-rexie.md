@@ -45,53 +45,53 @@ simply, silently, knowingly,  his eyes track
 	
 <div id="demo6" class="flex-images" style="padding-top:0.5em;">
 <div class="item" data-w="600" data-h="400">
-	<div class="img"><a href="{{ site.url }}/images/photos/ohrexi/t-11.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/ohrexi/st-bord-11.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1OUxnTDNWTXktS1E"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1bkdrbEZQZ2JpdnM"></a></div>
 </div>
 <div class="item" data-w="600" data-h="400">
-	<div class="img"><a href="{{ site.url }}/images/photos/ohrexi/t-3.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/ohrexi/st-bord-3.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1aVQ4a3dhelA4Zkk"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1V05wYTVoUjk5UDg"></a></div>
 </div>
 <div class="item" data-w="600" data-h="400">
-	<div class="img"><a href="{{ site.url }}/images/photos/ohrexi/t-2.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/ohrexi/st-bord-2.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1Z3Y5dFZoNTZWMmc"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1cDlzdHJSSzRZTlk"></a></div>
 </div>
 <div class="item" data-w="600" data-h="399">
-	<div class="img"><a href="{{ site.url }}/images/photos/ohrexi/t-1.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/ohrexi/st-bord-1.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1N2lScmRoSVNTem8"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1QjVreWRxaEhqeUk"></a></div>
 </div>
 
 <div class="item" data-w="600" data-h="400">
-	<div class="img"><a href="{{ site.url }}/images/photos/ohrexi/t-5.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/ohrexi/st-bord-5.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1TXA3WDg2NU5tbGs"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1MmxjMkFNenFMeEE"></a></div>
 </div>
 <div class="item" data-w="600" data-h="399">
-	<div class="img"><a href="{{ site.url }}/images/photos/ohrexi/t-6.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/ohrexi/st-bord-6.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1YUlzdjNOdVZTalk"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1ek5OWG9aVG4yeFk"></a></div>
 </div>
 <div class="item" data-w="600" data-h="400">
-	<div class="img"><a href="{{ site.url }}/images/photos/ohrexi/t-33A.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/ohrexi/st-bord-33A.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1Ym5KVnNZUEZxYlU"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1V3BQTS1aNHgtR2M"></a></div>
 </div>
 <div class="item" data-w="600" data-h="600">
-	<div class="img"><a href="{{ site.url }}/images/photos/ohrexi/t-13A.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/ohrexi/st-bord-13A.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1VzFfU0hEM1JGU00"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1TmRMZHhMbkF4Q3M"></a></div>
 </div>
 <div class="item" data-w="600" data-h="400">
-	<div class="img"><a href="{{ site.url }}/images/photos/ohrexi/t-18A.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/ohrexi/st-bord-18A.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1YmRCWDhlVmxTYWc"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1SG9tZkhaVU5KbVk"></a></div>
 </div>
 
 <div class="item" data-w="600" data-h="399">
-	<div class="img"><a href="{{ site.url }}/images/photos/ohrexi/t-28A.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/ohrexi/st-bord-28A.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1dmgwbGx6NU5wNUE"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1Z25xSFVzVGRVOUE"></a></div>
 </div>
 
 <div class="item" data-w="600" data-h="399">
-	<div class="img"><a href="{{ site.url }}/images/photos/ohrexi/t-29A.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/ohrexi/st-bord-29A.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1clVjVmJ4ZVB6bDA"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1YnVWdi1CTGJqZTQ"></a></div>
 </div>
 
 <div class="item" data-w="600" data-h="400">
-	<div class="img"><a href="{{ site.url }}/images/photos/ohrexi/t-7.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/ohrexi/st-bord-7.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1THhORmI0QWRCbFk"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1S1V6R2JsMnpxcDg"></a></div>
 </div>
 <div class="item" data-w="600" data-h="400">
-	<div class="img"><a href="{{ site.url }}/images/photos/ohrexi/t-34A.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/ohrexi/st-bord-34A.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1anQ1WXhDV1hLdFk"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1cU03TmM4MHFzS00"></a></div>
 </div>
 
 
 
 <div class="item" data-w="600" data-h="400">
-	<div class="img"><a href="{{ site.url }}/images/photos/ohrexi/t-21A.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/ohrexi/st-bord-21A.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1Y0hlM0xxTzlhS0U"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1Uk1ncFpYR2ZlWUU"></a></div>
 </div>
 
 
@@ -119,29 +119,29 @@ $('#demo6').flexImages({ rowHeight:800 , truncate: 0});
 <br/>
 <div id="demo7" class="flex-images" style="padding-top:0.5em;">
 <div class="item" data-w="600" data-h="399">
-	<div class="img"><a href="{{ site.url }}/images/photos/ohrexi/t-10.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/ohrexi/st-bord-10.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1cXpzMVd6NE9FQk0"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1UWF1S2h2WTYwYlk"></a></div>
 </div>
 
 
 <div class="item" data-w="600" data-h="399">
-	<div class="img"><a href="{{ site.url }}/images/photos/ohrexi/t-22A.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/ohrexi/st-bord-22A.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1QXRFT3F3QVVZWWM"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1REM1aUFtXzNkNVU"></a></div>
 </div>
 <div class="item" data-w="600" data-h="399">
-	<div class="img"><a href="{{ site.url }}/images/photos/ohrexi/t-27A.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/ohrexi/st-bord-27A.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1NVV2RjlfUEdpRVk"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1N0dVX3Q1cUlBM28"></a></div>
 </div>
 
 
 
 <div class="item" data-w="600" data-h="400">
-	<div class="img"><a href="{{ site.url }}/images/photos/ohrexi/t-31A.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/ohrexi/st-bord-31A.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1RHgxcmY0TXNkVHM"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1dVlRelNpX0pLYW8"></a></div>
 </div>
 <div class="item" data-w="600" data-h="400">
-	<div class="img"><a href="{{ site.url }}/images/photos/ohrexi/t-32A.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/ohrexi/st-bord-32A.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1RkFGTURNVlNUS2M"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1NGVRQjZXczZTekk"></a></div>
 </div>
 
 
 <div class="item" data-w="600" data-h="400">
-	<div class="img"><a href="{{ site.url }}/images/photos/ohrexi/t-36A.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/ohrexi/st-bord-36A.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1WWNtbDZkUmcwdGM"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1Z1RxSkVRamRJRkk"></a></div>
 </div>
 </div>
 

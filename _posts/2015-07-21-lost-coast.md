@@ -152,121 +152,121 @@ P.S. No dogs allowed. And though it's mixed opinion on whether a bear canister i
 
 <div id="demo6" class="flex-images" style="padding-top:0.5em;">
 <div class="item" data-w="600" data-h="398">
-	<div class="img"><a href="{{ site.url }}/images/photos/lostcoast/t-DSC_0073-2.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/lostcoast/st-DSC_0073-2.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1eGpsYXI3T2loeTQ"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1QXlOSll3QmxLckk"></a></div>
 </div>
 <div class="item" data-w="600" data-h="398">
-	<div class="img"><a href="{{ site.url }}/images/photos/lostcoast/t-DSC_0081-2.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/lostcoast/st-DSC_0081-2.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1R3AxSHVLa2ZkSjQ"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1ZEI1bmpwVWk5emc"></a></div>
 </div>
 <div class="item" data-w="600" data-h="398">
-	<div class="img"><a href="{{ site.url }}/images/photos/lostcoast/t-DSC_0126-2.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/lostcoast/st-DSC_0126-2.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1Um5PSlF2aG9TVTQ"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1OVN0TkZUVjRSZGs"></a></div>
 </div>
 <div class="item" data-w="600" data-h="398">
-	<div class="img"><a href="{{ site.url }}/images/photos/lostcoast/t-DSC_0127-2.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/lostcoast/st-DSC_0127-2.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1Q2JKcTV6YlUxVjg"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1Vng1QTNkYWNzUms"></a></div>
 </div>
 <div class="item" data-w="600" data-h="398">
-	<div class="img"><a href="{{ site.url }}/images/photos/lostcoast/t-DSC_0203-2.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/lostcoast/st-DSC_0203-2.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1Zkx3Qm9DVFYzaUU"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1NkFyakVtbzZBYzg"></a></div>
 </div>
 <div class="item" data-w="600" data-h="400">
-	<div class="img"><a href="{{ site.url }}/images/photos/lostcoast/t-DSC00238.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/lostcoast/st-DSC00238.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1aFBielM3dEY3UlU"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1WHNTQ3dKVmM5MUk"></a></div>
 </div>
 
 <div class="item" data-w="600" data-h="400">
-	<div class="img"><a href="{{ site.url }}/images/photos/lostcoast/t-DSC00251.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/lostcoast/st-DSC00251.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1SHJRcXB5NEVUY00"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1TTRWampVVEc0T0U"></a></div>
 </div>
 <div class="item" data-w="600" data-h="400">
-	<div class="img"><a href="{{ site.url }}/images/photos/lostcoast/t-DSC00252.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/lostcoast/st-DSC00252.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1RXB6RG1abmZZWDg"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1TklYTjZpX0cwdWc"></a></div>
 </div>
 <div class="item" data-w="600" data-h="400">
-	<div class="img"><a href="{{ site.url }}/images/photos/lostcoast/t-DSC00264.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/lostcoast/st-DSC00264.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1T3JWdDMyYWFSbmM"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1dmhhTWpfV09qc2M"></a></div>
 </div>
 <div class="item" data-w="600" data-h="400">
-	<div class="img"><a href="{{ site.url }}/images/photos/lostcoast/t-DSC00295.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/lostcoast/st-DSC00295.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1WVJ5eHZzbU4zM3c"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1QkFEb09iVkY2Z3M"></a></div>
 </div>
 <div class="item" data-w="400" data-h="600">
-	<div class="img"><a href="{{ site.url }}/images/photos/lostcoast/t-DSC00297.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/lostcoast/st-DSC00297.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1T3EyMWthYkpxRFk"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1UnV4V2M4dmhYVjQ"></a></div>
 </div>
 <div class="item" data-w="400" data-h="600">
-	<div class="img"><a href="{{ site.url }}/images/photos/lostcoast/t-DSCF0865.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/lostcoast/st-DSCF0865.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1WWpMUHNpRzRLdnc"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1b1MteG1ROFVCSWM"></a></div>
 </div>
 <div class="item" data-w="600" data-h="399">
-	<div class="img"><a href="{{ site.url }}/images/photos/lostcoast/t-DSCF0867.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/lostcoast/st-DSCF0867.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1eFluNTRLT0NNVjQ"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1S3dRX1hKSlVTMnM"></a></div>
 </div>
 <div class="item" data-w="400" data-h="600">
-	<div class="img"><a href="{{ site.url }}/images/photos/lostcoast/t-DSCF0876.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/lostcoast/st-DSCF0876.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1OHBIM1RjNTlWT3M"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1dUFNZEpOVk9vN3c"></a></div>
 </div>
 <div class="item" data-w="600" data-h="400">
-	<div class="img"><a href="{{ site.url }}/images/photos/lostcoast/t-DSCF0880.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/lostcoast/st-DSCF0880.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1SVJDY2J4V3lZLUU"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1RC00SGJxR01vSTg"></a></div>
 </div>
 <div class="item" data-w="400" data-h="600">
-	<div class="img"><a href="{{ site.url }}/images/photos/lostcoast/t-DSCF0877.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/lostcoast/st-DSCF0877.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1bk1QUXd4aUI5bjA"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1dl9WQ3pobUlIV00"></a></div>
 </div>
 
 <div class="item" data-w="400" data-h="600">
-	<div class="img"><a href="{{ site.url }}/images/photos/lostcoast/t-DSCF0883.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/lostcoast/st-DSCF0883.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1TElZUVpQQkR3UVU"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1QTlFby1aNG4zY0k"></a></div>
 </div>
 <div class="item" data-w="400" data-h="600">
-	<div class="img"><a href="{{ site.url }}/images/photos/lostcoast/t-DSCF0885.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/lostcoast/st-DSCF0885.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1NkNlM0RYZ2JWTjA"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1elhSaXVzT0xYWFk"></a></div>
 </div>
 <div class="item" data-w="400" data-h="600">
-	<div class="img"><a href="{{ site.url }}/images/photos/lostcoast/t-DSCF0886.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/lostcoast/st-DSCF0886.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1bFFzbkJ0VkU0ZmM"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1SzZiS3NJdng4Nnc"></a></div>
 </div>
 <div class="item" data-w="400" data-h="600">
-	<div class="img"><a href="{{ site.url }}/images/photos/lostcoast/t-DSCF0889.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/lostcoast/st-DSCF0889.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1ZHdFX29DZFg4bEU"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1QW9LQmhiOThhWDQ"></a></div>
 </div>
 <div class="item" data-w="400" data-h="600">
-	<div class="img"><a href="{{ site.url }}/images/photos/lostcoast/t-DSCF0897.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/lostcoast/st-DSCF0897.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1MFZjQTV5bVBYU2M"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1VkNoaWNMYWZZM0U"></a></div>
 </div>
 <div class="item" data-w="400" data-h="600">
-	<div class="img"><a href="{{ site.url }}/images/photos/lostcoast/t-DSCF0898.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/lostcoast/st-DSCF0898.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1NF9VQ0c4akcwSkk"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1bWNCZExKS0pTNFU"></a></div>
 </div>
 <div class="item" data-w="600" data-h="400">
-	<div class="img"><a href="{{ site.url }}/images/photos/lostcoast/t-DSCF0903.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/lostcoast/st-DSCF0903.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1VVZvMGlzN0ljR0E"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1eFNoeEdIMWp5Tzg"></a></div>
 </div>
 <div class="item" data-w="600" data-h="400">
-	<div class="img"><a href="{{ site.url }}/images/photos/lostcoast/t-DSCF0911.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/lostcoast/st-DSCF0911.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1eFNIcFROUHpBNVU"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1SmMtVHdkSmhVN1k"></a></div>
 </div>
 <div class="item" data-w="400" data-h="600">
-	<div class="img"><a href="{{ site.url }}/images/photos/lostcoast/t-DSCF0916.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/lostcoast/st-DSCF0916.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1TW51Y0tmbXN1dHc"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1dTd4LVVzM3RfNWM"></a></div>
 </div>
 <div class="item" data-w="600" data-h="400">
-	<div class="img"><a href="{{ site.url }}/images/photos/lostcoast/t-DSCF0918.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/lostcoast/st-DSCF0918.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1TExVWW1mQ0Z6QlE"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1M2tjOWRuVVdJYmM"></a></div>
 </div>
 <div class="item" data-w="600" data-h="400">
-	<div class="img"><a href="{{ site.url }}/images/photos/lostcoast/t-DSCF0926.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/lostcoast/st-DSCF0926.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1QTZJTjg4VER5RE0"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1RGRSa1ptamtuU3M"></a></div>
 </div>
 <div class="item" data-w="600" data-h="400">
-	<div class="img"><a href="{{ site.url }}/images/photos/lostcoast/t-DSCF0933.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/lostcoast/st-DSCF0933.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1RjlRZUlvUDZIelU"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1bWROSVZkVF9yeU0"></a></div>
 </div>
 <div class="item" data-w="600" data-h="400">
-	<div class="img"><a href="{{ site.url }}/images/photos/lostcoast/t-DSCF0937.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/lostcoast/st-DSCF0937.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1WlRjSHphOE5zV1U"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1Tk1ydTRwb255S2s"></a></div>
 </div>
 <div class="item" data-w="600" data-h="400">
-	<div class="img"><a href="{{ site.url }}/images/photos/lostcoast/t-DSCF0944.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/lostcoast/st-DSCF0944.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1anQwS2NLakoyU2M"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1Sjc5R1VSS2haaXM"></a></div>
 </div>
 <div class="item" data-w="400" data-h="600">
-	<div class="img"><a href="{{ site.url }}/images/photos/lostcoast/t-DSCF0953.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/lostcoast/st-DSCF0953.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1T04wcVl0WFVMTWc"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1YkRnWVR0YlRIdms"></a></div>
 </div>
 <div class="item" data-w="400" data-h="600">
-	<div class="img"><a href="{{ site.url }}/images/photos/lostcoast/t-DSCF0959.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/lostcoast/st-DSCF0959.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1YlVhTmdRTUlRTFk"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1VlZmV0RfYy11Z2c"></a></div>
 </div>
 <div class="item" data-w="600" data-h="400">
-	<div class="img"><a href="{{ site.url }}/images/photos/lostcoast/t-DSCF0963.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/lostcoast/st-DSCF0963.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1UXFTSEZqcG13LVk"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1N0d2NnZBb3VNdGc"></a></div>
 </div>
 <div class="item" data-w="400" data-h="600">
-	<div class="img"><a href="{{ site.url }}/images/photos/lostcoast/t-DSCF0970.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/lostcoast/st-DSCF0970.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1SEtDRU8taUgyWTA"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1eFVEWld4ZGFYSm8"></a></div>
 </div>
 <div class="item" data-w="400" data-h="600">
-	<div class="img"><a href="{{ site.url }}/images/photos/lostcoast/t-DSCF0975.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/lostcoast/st-DSCF0975.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1NXp1NkRPVkczcUk"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1OWpwRk9vYUtlYkE"></a></div>
 </div>
 <div class="item" data-w="600" data-h="400">
-	<div class="img"><a href="{{ site.url }}/images/photos/lostcoast/t-DSCF0980.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/lostcoast/st-DSCF0980.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1Y3NXdGNoajJqdFk"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1WWFjcHhfU1QxSm8"></a></div>
 </div>
 
 <div class="item" data-w="400" data-h="600">
-	<div class="img"><a href="{{ site.url }}/images/photos/lostcoast/t-DSCF0986.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/lostcoast/st-DSCF0986.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1MlZnclNVaGNnVXM"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1b3d2bTR0OS1PUzg"></a></div>
 </div>
 <div class="item" data-w="600" data-h="400">
-	<div class="img"><a href="{{ site.url }}/images/photos/lostcoast/t-DSCF0988.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/lostcoast/st-DSCF0988.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1bXA1MW5OZFVKWWs"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1Y1ByZE1WVERubTA"></a></div>
 </div>
 </div>
 
@@ -276,10 +276,10 @@ $('#demo6').flexImages({ rowHeight:600 , truncate: 0});
 
 <div id="demo8" class="flex-images" style="padding-top:0.5em;">
 <div class="item" data-w="800" data-h="1200">
-	<div class="img"><a href="{{ site.url }}/images/photos/lostcoast/t-DSCF0984.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/lostcoast/t-DSCF0984.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1RGNFampuRi1RQTQ"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1RGNFampuRi1RQTQ"></a></div>
 </div>
 <div class="item" data-w="600" data-h="399">
-	<div class="img"><a href="{{ site.url }}/images/photos/lostcoast/t-DSCF0995.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/lostcoast/t-DSCF0995.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1VmdwdGx0ektaN0k"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1VmdwdGx0ektaN0k"></a></div>
 </div>
 
 </div>
@@ -291,10 +291,10 @@ $('#demo8').flexImages({ rowHeight:600 , truncate: 0});
 
 <div id="demo7" class="flex-images" style="padding-top:0.5em;">
 <div class="item" data-w="600" data-h="398">
-	<div class="img"><a href="{{ site.url }}/images/photos/lostcoast/t-DSC_0208-2.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/lostcoast/t-DSC_0208-2.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1ZjdxNVBUdTR1NEk"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1ZjdxNVBUdTR1NEk"></a></div>
 </div>
 <div class="item" data-w="600" data-h="400">
-	<div class="img"><a href="{{ site.url }}/images/photos/lostcoast/t-DSCF0997.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/lostcoast/t-DSCF0997.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1ZWFhX3ZtVDZ2ekU"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1ZWFhX3ZtVDZ2ekU"></a></div>
 </div>
 </div>
 

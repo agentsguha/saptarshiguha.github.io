@@ -107,12 +107,12 @@ using ColorPerfect.
 <div class="row">
 	<div class="col-lg-12">
     <figure>
-    <a href="{{ site.url }}/images/photos/xpanpakon/tlx7.png"> <img  style="margin:1em 0px;" src="{{ site.url }}/images/photos/xpanpakon/tlx7.png" width='320'></a>
+    <a href="https://docs.google.com/uc?id=0B6d70FmpKIi1aW9QcWdtRUphbGc"> <img  style="margin:1em 0px;" src="https://docs.google.com/uc?id=0B6d70FmpKIi1aW9QcWdtRUphbGc" width='320'></a>
     <figcaption>Figure 8: Scan  Framing  </figcaption>
     </figure>
 
     <figure>
-    <a href="{{ site.url }}/images/photos/xpanpakon/tlx8.png"> <img  style="margin:1em 0px;" src="{{ site.url }}/images/photos/xpanpakon/tlx8.png" width='320'></a>
+    <a href="https://docs.google.com/uc?id=0B6d70FmpKIi1aHRtVHA3ZGZRZWs"> <img  style="margin:1em 0px;" src="https://docs.google.com/uc?id=0B6d70FmpKIi1aHRtVHA3ZGZRZWs" width='320'></a>
     <figcaption>Figure 9: Scan  Saving  </figcaption>
     </figure>
 
@@ -153,22 +153,22 @@ view and then frame.
 
 	<div class="col-xs-3">
     <figure>
-    <a href="{{ site.url }}/images/photos/xpanpakon/tlx1.png"> <img  style="margin:1em 0px;" src="{{ site.url }}/images/photos/xpanpakon/tlx1.png" width='250'></a>
+    <a href="https://docs.google.com/uc?id=0B6d70FmpKIi1cm9lMjBrQ3U2bk0"> <img  style="margin:1em 0px;" src="https://docs.google.com/uc?id=0B6d70FmpKIi1cm9lMjBrQ3U2bk0" width='250'></a>
     <figcaption>Figure 1: TLCClientDemo splash page</figcaption>
     </figure>
 
     <figure>
-    <a href="{{ site.url }}/images/photos/xpanpakon/tlx2.png"> <img  style="margin:1em 0px;" src="{{ site.url }}/images/photos/xpanpakon/tlx2.png" width='250'></a>
+    <a href="https://docs.google.com/uc?id=0B6d70FmpKIi1Z1dZR2Jtb2pHYVk"> <img  style="margin:1em 0px;" src="https://docs.google.com/uc?id=0B6d70FmpKIi1Z1dZR2Jtb2pHYVk" width='250'></a>
     <figcaption>Figure 2: Scan dialogue </figcaption>
     </figure>
 
     <figure>
-    <a href="{{ site.url }}/images/photos/xpanpakon/tlx4.png"> <img  style="margin:1em 0px;" src="{{ site.url }}/images/photos/xpanpakon/tlx4.png" width='250'></a>
+    <a href="https://docs.google.com/uc?id=0B6d70FmpKIi1aXJtaE0wS0xPd1E"> <img  style="margin:1em 0px;" src="https://docs.google.com/uc?id=0B6d70FmpKIi1aXJtaE0wS0xPd1E" width='250'></a>
     <figcaption>Figure 6: Scan Warnings </figcaption>
     </figure>
 
     <figure>
-    <a href="{{ site.url }}/images/photos/xpanpakon/tlx6.png"> <img  style="margin:1em 0px;" src="{{ site.url }}/images/photos/xpanpakon/tlx6.png" width='250'></a>
+    <a href="https://docs.google.com/uc?id=0B6d70FmpKIi1a2RiRnlRN042UUE"> <img  style="margin:1em 0px;" src="https://docs.google.com/uc?id=0B6d70FmpKIi1a2RiRnlRN042UUE" width='250'></a>
     <figcaption>Figure 7 Your image appears </figcaption>
     </figure>
 
@@ -194,16 +194,16 @@ in  Lightroom v5.
 <br/>
 <div id="demo6" class="flex-images" style="padding-top:0.5em;">
 <div class="item" data-w="2400" data-h="885">
-	<div class="img"><a href="{{ site.url }}/images/photos/xpanpakon/t-1.jog.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/xpanpakon/st-1.jog.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1dXlDZk9LS1FndHc"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1MHQ0N25hQjcwY3M"></a></div>
 </div>
 <div class="item" data-w="2400" data-h="897">
-	<div class="img"><a href="{{ site.url }}/images/photos/xpanpakon/t-11A.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/xpanpakon/st-11A.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1bGFmS0VjMVRyWlE"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1cm5GeDRwV3RfT0k"></a></div>
 </div>
 <div class="item" data-w="2400" data-h="905">
-	<div class="img"><a href="{{ site.url }}/images/photos/xpanpakon/t-12A.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/xpanpakon/st-12A.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1cEpKdVR3MGxDNUU"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0FrN003REJRdzg"></a></div>
 </div>
 <div class="item" data-w="2400" data-h="903">
-	<div class="img"><a href="{{ site.url }}/images/photos/xpanpakon/t-22A.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/xpanpakon/st-22A.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1Y2FqVXEzSTFXdEU"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1UVJzUTNNajBMNkU"></a></div>
 </div>
 </div>
 </div>
@@ -213,7 +213,7 @@ $('#demo6').flexImages({ rowHeight:430 , truncate: 0});
 </script>
 
 <div class="row" style="margin:0;padding:0;margin-top:0.5em;margin-bottom:0.5em;">
-<a href="{{ site.url }}/images/photos/xpanpakon/t-13.jpg" ><img class='bannerimg' src="{{ site.url }}/images/photos/xpanpakon/t-13.jpg"></a>
+<a href="https://docs.google.com/uc?id=0B6d70FmpKIi1eGlNSVNBVXN5cXc" ><img class='bannerimg' src="https://docs.google.com/uc?id=0B6d70FmpKIi1eGlNSVNBVXN5cXc"></a>
 </div>
 
 
@@ -222,16 +222,16 @@ $('#demo6').flexImages({ rowHeight:430 , truncate: 0});
 
 <div id="demo8" class="flex-images" style="padding-top:0.5em;">
 <div class="item" data-w="2400" data-h="903">
-	<div class="img"><a href="{{ site.url }}/images/photos/xpanpakon/t-18A.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/xpanpakon/st-18A.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1cWZVcGYzS1NqMkk"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1elBFVDVTbXZpN1k"></a></div>
 </div>
 <div class="item" data-w="2400" data-h="895">
-	<div class="img"><a href="{{ site.url }}/images/photos/xpanpakon/t-3.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/xpanpakon/st-3.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1eGl1dUg4bTd0cU0"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1eXlyVXk1UVh6bDg"></a></div>
 </div>
 <div class="item" data-w="2400" data-h="891">
-	<div class="img"><a href="{{ site.url }}/images/photos/xpanpakon/t-4.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/xpanpakon/st-4.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1RXVpWlJQSjdDU3c"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1bXhVOFktUWVqWnM"></a></div>
 </div>
 <div class="item" data-w="2400" data-h="891">
-	<div class="img"><a href="{{ site.url }}/images/photos/xpanpakon/t-5.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/xpanpakon/st-5.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1Z1JmaGVva2FhcWM"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1SHBFX2J1T25WZmc"></a></div>
 </div>
 </div>
 
@@ -243,23 +243,23 @@ $('#demo8').flexImages({ rowHeight:430 , truncate: 0});
 
 
 <div class="row" style="margin:0;padding:0;margin-top:0.5em;margin-bottom:0.5em;">
-<a href="{{ site.url }}/images/photos/xpanpakon/t-cross2.jpg" ><img class='bannerimg' src="{{ site.url }}/images/photos/xpanpakon/t-cross2.jpg"></a>
+<a href="https://docs.google.com/uc?id=0B6d70FmpKIi1NFRsZTRBc1RIaHc" ><img class='bannerimg' src="https://docs.google.com/uc?id=0B6d70FmpKIi1NFRsZTRBc1RIaHc"></a>
 </div>
 
 <div class="row"><div class="col-sm-2"></div>
 <div class="col-sm-8">
 <div id="demo9" class="flex-images" style="padding-top:0.5em;">
 <div class="item" data-w="2400" data-h="880">
-	<div class="img"><a href="{{ site.url }}/images/photos/xpanpakon/t-docks.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/xpanpakon/st-docks.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1N3J0dmZyczBmWXc"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1Tk1HM0VwaWl2aGc"></a></div>
 </div>
 <div class="item" data-w="2400" data-h="885">
-	<div class="img"><a href="{{ site.url }}/images/photos/xpanpakon/t-troll.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/xpanpakon/st-troll.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1UnQxX3MySkRJVDQ"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1TExOMnk0SmFJZFE"></a></div>
 </div>
 <div class="item" data-w="1200" data-h="555">
-	<div class="img"><a href="{{ site.url }}/images/photos/xpanpakon/t-1.jpg.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/xpanpakon/st-1.jpg.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1ckNIa0hURnIyYXM"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1Y1dIal9FYmlQcFU"></a></div>
 </div>
 </div>
-<a href="{{ site.url }}/images/photos/xpanpakon/t-DX_ERROR.jpg"><img class='bannerimg' src="{{ site.url }}/images/photos/xpanpakon/t-DX_ERROR.jpg"></a>
+<a href="https://docs.google.com/uc?id=0B6d70FmpKIi1UnR5T1BtNGRPXzA"><img class='bannerimg' src="https://docs.google.com/uc?id=0B6d70FmpKIi1UnR5T1BtNGRPXzA"></a>
 
 </div>
 </div>

@@ -49,28 +49,28 @@ Hope you like the pictures.
 <br>
 
 <div class="item" data-w="466" data-h="700">
-	<div class="img"><a href="{{ site.url }}/images/photos/bernalwet/t-F0691.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/bernalwet/st-F0691.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1cng2ZDFUQ2d0NFU"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1WHJUX2Q5aVVxWlU"></a></div>
 </div>
 <div class="item" data-w="466" data-h="700">
-	<div class="img"><a href="{{ site.url }}/images/photos/bernalwet/t-F0693.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/bernalwet/st-F0693.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1QS1NRG1kdE5EcGM"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1bGJYelR5TUZMckk"></a></div>
 </div>
 <div class="item" data-w="466" data-h="700">
-	<div class="img"><a href="{{ site.url }}/images/photos/bernalwet/t-F0695.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/bernalwet/st-F0695.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1cFptbEpFZ3NiZG8"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1SkJlOXFYMG5tc0U"></a></div>
 </div>
 <div class="item" data-w="466" data-h="700">
-	<div class="img"><a href="{{ site.url }}/images/photos/bernalwet/t-F0699.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/bernalwet/st-F0699.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1U1FkMTdsc3pYUzg"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1Nl9iM25hdmY5bm8"></a></div>
 </div>
 <div class="item" data-w="466" data-h="700">
-	<div class="img"><a href="{{ site.url }}/images/photos/bernalwet/t-F0701.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/bernalwet/st-F0701.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1THdkUVdlYnI5bkk"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1bGZyR05oZ1RHcEE"></a></div>
 </div>
 <div class="item" data-w="466" data-h="700">
-	<div class="img"><a href="{{ site.url }}/images/photos/bernalwet/t-F0702.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/bernalwet/st-F0702.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1Rmx6eFlaZnc5V00"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1WmppaVRXSWdzZ2c"></a></div>
 </div>
 <div class="item" data-w="466" data-h="700" data-solo="y">
-	<div class="img"><a href="{{ site.url }}/images/photos/bernalwet/t-F0704.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/bernalwet/st-F0704.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1WEhzQ3VQdEhDSVk"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1UGU1cnhvS1lVQmM"></a></div>
 </div>
 <div class="item" data-w="466" data-h="700" data-sqz="y">
-	<div class="img"><a href="{{ site.url }}/images/photos/bernalwet/t-F0711.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/bernalwet/st-F0711.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1dk9xZDFMcUozYUU"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1UGFZZjFwNjlrTHc"></a></div>
 </div>
 </div>
 </div>

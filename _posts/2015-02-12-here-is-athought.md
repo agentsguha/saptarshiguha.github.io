@@ -41,67 +41,67 @@ guttatim: _adv. drop by drop_
 <div style="max-width:1200px;margin:0;padding:0;"> <div id="demo5" class="flex-images"> <br> <br>
 
 <div class="item" data-w="1000" data-h="1500">
-	<div class="img"><a href="{{ site.url }}/images/photos/bw1/t----_1068.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/bw1/st----_1068.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1WkQ1YlhpN2J0bzg"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1WVNYYlNwa1FpMVk"></a></div>
 </div>
 <div class="item" data-w="1000" data-h="1500">
-	<div class="img"><a href="{{ site.url }}/images/photos/bw1/t----_1069.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/bw1/st----_1069.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1ZEJVYnZBdnlwYVE"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1aTFwT0xfZ3pFa28"></a></div>
 </div>
 <div class="item" data-w="1500" data-h="1000">
-	<div class="img"><a href="{{ site.url }}/images/photos/bw1/t----_1060.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/bw1/st----_1060.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1ejFMUXpyaHV3V1U"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1UUMxTWYzOTNjaVE"></a></div>
 </div>
 <div class="item" data-w="1500" data-h="1000">
-	<div class="img"><a href="{{ site.url }}/images/photos/bw1/t----_1064.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/bw1/st----_1064.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1aDU3b2h4MnBfc1k"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1bE1CTGo5MDRFSmc"></a></div>
 </div>
 <div class="item" data-w="1500" data-h="1000">
-	<div class="img"><a href="{{ site.url }}/images/photos/bw1/t----_1078.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/bw1/st----_1078.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1M3BDdzBPeElzMVE"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1WHF6UUxSSHZ3Q0U"></a></div>
 </div>
 <div class="item" data-w="1500" data-h="1000">
-	<div class="img"><a href="{{ site.url }}/images/photos/bw1/t----_1080.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/bw1/st----_1080.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1Um1WYVFjcTBWN0U"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1WEFRb2NjM1RUZm8"></a></div>
 </div>
 <div class="item" data-w="1000" data-h="1500">
-	<div class="img"><a href="{{ site.url }}/images/photos/bw1/t----_1081.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/bw1/st----_1081.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1a3ZKdDF6RGdENUE"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1MHZ1ekhQRkRxVUk"></a></div>
 </div>
 <div class="item" data-w="994" data-h="1500">
-	<div class="img"><a href="{{ site.url }}/images/photos/bw1/t-000083660004.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/bw1/st-000083660004.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1VzZHTS0wYjJSaWs"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1VWx1NnEySzUwcEU"></a></div>
 </div>
 <div class="item" data-w="994" data-h="1500">
-	<div class="img"><a href="{{ site.url }}/images/photos/bw1/t-000083660005.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/bw1/st-000083660005.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1c29QWDd5ZkNvLUU"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1b1o5eENPNW5zZkk"></a></div>
 </div>
 <div class="item" data-w="994" data-h="1500">
-	<div class="img"><a href="{{ site.url }}/images/photos/bw1/t-000083660006.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/bw1/st-000083660006.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1c0JqazlGOTJhMTA"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1dEpBWXMzT21SYkU"></a></div>
 </div>
 <div class="item" data-w="994" data-h="1500">
-	<div class="img"><a href="{{ site.url }}/images/photos/bw1/t-000083660007.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/bw1/st-000083660007.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1XzBISjVlRXNZSDg"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1S1dFWk9IelFLS3M"></a></div>
 </div>
 <div class="item" data-w="994" data-h="1500">
-	<div class="img"><a href="{{ site.url }}/images/photos/bw1/t-000083670029.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/bw1/st-000083670029.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1bVR5bmxwVV94bVE"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1OWRocG9EMHhXV0k"></a></div>
 </div>
 <div class="item" data-w="1500" data-h="994">
-	<div class="img"><a href="{{ site.url }}/images/photos/bw1/t-000083660009.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/bw1/st-000083660009.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1RG5SYW04emhwRDg"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1ZUV1d014QVJFSEU"></a></div>
 </div>
 <div class="item" data-w="1500" data-h="994">
-	<div class="img"><a href="{{ site.url }}/images/photos/bw1/t-000083660014.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/bw1/st-000083660014.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1aVJ2ZGJkZkZHZjA"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1aFZRNHFhQ2c4WkE"></a></div>
 </div>
 <div class="item" data-w="994" data-h="1500">
-	<div class="img"><a href="{{ site.url }}/images/photos/bw1/t-000083660010.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/bw1/st-000083660010.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1OXpfWmVpWEtkN00"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1XzlKWXVZUlhDdjA"></a></div>
 </div>
 <div class="item" data-w="1500" data-h="1500">
-	<div class="img"><a href="{{ site.url }}/images/photos/bw1/t-000083660027.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/bw1/st-000083660027.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1TnlJSDZla2dNX28"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1UjRpcVJySzE4XzA"></a></div>
 </div>
 <div class="item" data-w="994" data-h="1500">
-	<div class="img"><a href="{{ site.url }}/images/photos/bw1/t-000083660028.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/bw1/st-000083660028.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1MFR2N09vTEdwakE"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1Z3ZIQUg2cjA1Njg"></a></div>
 </div>
 <div class="item" data-w="1500" data-h="994">
-	<div class="img"><a href="{{ site.url }}/images/photos/bw1/t-000083670006.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/bw1/st-000083670006.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1dGxPXzA0aUxMcWM"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1d0VBZFctZGhhdkE"></a></div>
 </div>
 <div class="item" data-w="994" data-h="1500">
-	<div class="img"><a href="{{ site.url }}/images/photos/bw1/t-000083670009.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/bw1/st-000083670009.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1X3pjeGowMnFPWWc"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1RjdpMVdUS2JydnM"></a></div>
 </div>
 <div class="item" data-w="994" data-h="1500">
-	<div class="img"><a href="{{ site.url }}/images/photos/bw1/t-000083670014.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/bw1/st-000083670014.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1ZTF5dVBPendzbVk"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1S29ZU2xLZ19NeGc"></a></div>
 </div>
 <div class="item" data-w="1500" data-h="994">
-	<div class="img"><a href="{{ site.url }}/images/photos/bw1/t-000083670017.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/bw1/st-000083670017.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1TmZWZXpjUmZuSVk"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1VC1LV1haUlpLWDQ"></a></div>
 </div>
 
 

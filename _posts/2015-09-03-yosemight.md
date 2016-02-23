@@ -19,7 +19,7 @@ tags: hasselblad, portra160, trix400, film
 	
 <div id="demo6" class="flex-images" style="padding-top:0.5em;">
 <div class="item" data-solo="y" data-w="900" data-h="874">
-	<div class="img"><a href="{{ site.url }}/images/photos/jose/t-000070390006.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/jose/st-bord-000070390006.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1LWl0RmU3Z3AtWG8"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1dmJKYmRlNm8xNms"></a></div>
 </div>
 
 <div class="row">
@@ -63,55 +63,55 @@ Voigtlander 21mm.
 
 
 <div class="item" data-w="900" data-h="872">
-	<div class="img"><a href="{{ site.url }}/images/photos/jose/t-000070390005.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/jose/st-bord-000070390005.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1bDFhazUxOEFqOE0"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1YmpNaXZqUmhZVWM"></a></div>
 </div>
 <div class="item" data-w="900" data-h="859">
-	<div class="img"><a href="{{ site.url }}/images/photos/jose/t-000070390002.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/jose/st-bord-000070390002.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1ZWFRekZxeXRNMUU"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1aTRHbjJCQno0SHc"></a></div>
 </div>
 <div class="item" data-w="900" data-h="853">
-	<div class="img"><a href="{{ site.url }}/images/photos/jose/t-000070390001.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/jose/st-bord-000070390001.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1SWp0Tmw3M2pHc3M"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1cHk5UGpLb1lyM28"></a></div>
 </div>
 <div class="item" data-w="900" data-h="867" data-sqz='y'>
-	<div class="img"><a href="{{ site.url }}/images/photos/jose/000078470003.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/jose/000078470003.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1UkxpTWoxa2lybEk"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1UkxpTWoxa2lybEk"></a></div>
 </div>
 <div class="item" data-solo="y" data-w="900" data-h="876">
-	<div class="img"><a href="{{ site.url }}/images/photos/jose/t-000070390007.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/jose/st-bord-000070390007.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1cHlFRG8wNWRaemc"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1MEd5aWV1bTgzTmc"></a></div>
 </div>
 <div class="item" data-w="900" data-h="875">
-	<div class="img"><a href="{{ site.url }}/images/photos/jose/t-000070390010.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/jose/st-bord-000070390010.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1eVg5X0trRDBjQmM"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1cERnMzVBSWFGdkU"></a></div>
 </div>
 <div class="item" data-w="900" data-h="877">
-	<div class="img"><a href="{{ site.url }}/images/photos/jose/t-000070390011.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/jose/st-bord-000070390011.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1LXFPUFNWLWpkV2M"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1QnNEb1FqN3lOVjQ"></a></div>
 </div>
 
 <div class="item" data-w="900" data-h="852" data-sqz="y">
-	<div class="img"><a href="{{ site.url }}/images/photos/jose/t-000078470003.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/jose/st-bord-000078470003.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1enpEYXNYVG1wekE"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1dFJ2UEVCMmlLd1k"></a></div>
 </div>
 
 
 
 <div class="item" data-w="900" data-h="874" data-solo="y">
-	<div class="img"><a href="{{ site.url }}/images/photos/jose/t-000070390012.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/jose/st-bord-000070390012.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1YVR0Q1lCRmR0Q2M"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1TWFsNm5xdkJnZ1k"></a></div>
 </div>
 
 
 
 <div class="item" data-w="900" data-h="853" data-sqz="y" >
-	<div class="img"><a href="{{ site.url }}/images/photos/jose/t-000078470009.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/jose/st-bord-000078470009.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1UFdleXA0bm9qcnM"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1Q0tyMjFzaWh5WDg"></a></div>
 </div>
 <div class="item" data-w="900" data-h="853" data-sqz="y">
-	<div class="img"><a href="{{ site.url }}/images/photos/jose/t-000078470002.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/jose/st-bord-000078470002.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1ejRzM0hvV1JrdDg"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1STQtNTczQkFTcTQ"></a></div>
 </div>
 <div class="item" data-w="900" data-h="853" data-sqz="y">
-	<div class="img"><a href="{{ site.url }}/images/photos/jose/t-000078470006.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/jose/st-bord-000078470006.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1b1ZjQnBybTg3bm8"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1empOODdOX1dZekU"></a></div>
 </div>
 
 
 <div class="item" data-w="900" data-h="852" data-solo="y">>
-	<div class="img"><a href="{{ site.url }}/images/photos/jose/t-000078470008.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/jose/st-bord-000078470008.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1ZHFlS1Ywa2E4SU0"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1NTQ2aEJCV0dzcjA"></a></div>
 </div>
 <div class="item" data-w="900" data-h="853" data-solo="y">>
-	<div class="img"><a href="{{ site.url }}/images/photos/jose/t-000078470010.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/jose/st-bord-000078470010.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1NWx2U1ZpT1JVbGc"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1aG52NW4xWWJhWFU"></a></div>
 </div>
 </div>
 
@@ -121,8 +121,8 @@ $('#demo6').flexImages({ rowHeight:900 , truncate: 0});
 
 
 <!--
-<a href="{{ site.url }}/images/photos/jose/t-000078470010.jpg">
-	<img  style="width:100%;" src="{{ site.url }}/images/photos/jose/t-000078470010.jpg">
+<a href="https://docs.google.com/uc?id=0B6d70FmpKIi1NWx2U1ZpT1JVbGc">
+	<img  style="width:100%;" src="https://docs.google.com/uc?id=0B6d70FmpKIi1NWx2U1ZpT1JVbGc">
 </a>
 -->
 <div class="row">
@@ -143,51 +143,51 @@ $('#demo6').flexImages({ rowHeight:900 , truncate: 0});
 <div id="demo7" class="flex-images" style="padding-top:0.5em;">
 
 <div class="item"  data-w="900" data-h="578" data-solo="y">
-	<div class="img"><a href="{{ site.url }}/images/photos/jose/t-AA001.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/jose/st-bord-AA001.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1NGMzOWZaOWJFNEk"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1cXBlWmx1bG1mVXM"></a></div>
 </div>
 <div class="item" data-w="900" data-h="578">
-	<div class="img"><a href="{{ site.url }}/images/photos/jose/t-AA003.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/jose/st-bord-AA003.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1SFphT1BianVTWmM"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1ZXM4ak9xS0h2Rjg"></a></div>
 </div>
 <div class="item" data-w="625" data-h="900" data-flush="y">
-	<div class="img"><a href="{{ site.url }}/images/photos/jose/t-aAA002.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/jose/st-bord-aAA002.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1RnM4QTB4eTJkNk0"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1aGZZMG5RdXlUNGM"></a></div>
 </div>
 
 <div class="item" data-w="625" data-h="900">
-	<div class="img"><a href="{{ site.url }}/images/photos/jose/t-AA005.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/jose/st-bord-AA005.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1MG5TMUk0U2I5MVk"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1Q2I2Tlhhc09zd2c"></a></div>
 </div>
 <div class="item" data-w="900" data-h="578">
-	<div class="img"><a href="{{ site.url }}/images/photos/jose/t-aAA001.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/jose/st-bord-aAA001.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1LUc4UWU2MGlPV3c"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1dXBMbVV4R3Myejg"></a></div>
 </div>
 
 <div class="item" data-w="900" data-h="578">
-	<div class="img"><a href="{{ site.url }}/images/photos/jose/t-aAB015.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/jose/st-bord-aAB015.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1UmthY083N2t3LWc"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1eGpMd1IwZU8wV1U"></a></div>
 </div>
 <div class="item" data-w="900" data-h="579">
-	<div class="img"><a href="{{ site.url }}/images/photos/jose/t-aAB016.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/jose/st-bord-aAB016.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1dElUVkF0ek51bDg"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1WmRLbVBjUmFFSFU"></a></div>
 </div>
 <div class="item" data-w="625" data-h="900">
-	<div class="img"><a href="{{ site.url }}/images/photos/jose/t-AB015.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/jose/st-bord-AB015.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1NlJZN0dMaG9vaTQ"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1cXdHVllUeGdVMjA"></a></div>
 </div>
 <div class="item" data-w="900" data-h="578">
-	<div class="img"><a href="{{ site.url }}/images/photos/jose/t-abAB015.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/jose/st-bord-abAB015.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1QldKS0F4TjFUTFU"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1NnZsLVRlWFVwMm8"></a></div>
 </div>
 <div class="item" data-w="625" data-h="900" data-sqz="y">
-	<div class="img"><a href="{{ site.url }}/images/photos/jose/t-AB011.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/jose/st-bord-AB011.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1b01Jc2ZOc3pIRGM"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1aVFvTkFOczltYjg"></a></div>
 </div>
 
 
 <div class="item" data-w="626" data-h="900">
-	<div class="img"><a href="{{ site.url }}/images/photos/jose/t-abAB012.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/jose/st-bord-abAB012.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1bWR0VTdJNDRXekk"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1ZjBIdXd3dlVRZGc"></a></div>
 </div>
 <div class="item" data-w="625" data-h="900">
-	<div class="img"><a href="{{ site.url }}/images/photos/jose/t-abAB014.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/jose/st-bord-abAB014.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1S3E2bmtONmpwOW8"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1dXlfcklETVo3Y00"></a></div>
 </div>
 
 <div class="item" data-w="900" data-h="579">
-	<div class="img"><a href="{{ site.url }}/images/photos/jose/t-abAB016.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/jose/st-bord-abAB016.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1a09BY1RqcHpXaWs"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1NDBjcEEwWWxiSWc"></a></div>
 </div>
 <div class="item" data-w="900" data-h="578" data-solo="y">
-	<div class="img"><a href="{{ site.url }}/images/photos/jose/t-abAB017.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/jose/st-bord-abAB017.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1TnhGc1ZaLWtUckU"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1dUhhTWJVRTFibGc"></a></div>
 </div>
 
 </div>

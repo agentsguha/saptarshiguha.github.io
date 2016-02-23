@@ -36,38 +36,38 @@ that winds. But what is it used for? As can be seen from the following two rolls
 </div>
 </div>
 <div class="item" data-w="850" data-h="546" data-solo="y">
-	<div class="img"><a href="{{ site.url }}/images/photos/zeno/t-DSCF1234.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/zeno/st-bord-DSCF1234.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1cHNYZWFLYmd1VHM"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1WmlfaGM0UE5QSkE"></a></div>
 </div>
 <div class="item" data-w="850" data-h="817" >
-	<div class="img"><a href="{{ site.url }}/images/photos/zeno/t-000053370001.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/zeno/st-bord-000053370001.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1QUF6OE5kWFZKbHc"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1eTZpNldNamxjQmM"></a></div>
 </div>
 <div class="item" data-w="850" data-h="804" data-sqz="y" >
-	<div class="img"><a href="{{ site.url }}/images/photos/zeno/t-000053370002.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/zeno/st-bord-000053370002.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1Y0F6dmV4dGgzMWM"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1SklKSG9NQ3NKRFU"></a></div>
 </div>
 <div class="item" data-w="850" data-h="804">
-	<div class="img"><a href="{{ site.url }}/images/photos/zeno/t-000053370004.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/zeno/st-bord-000053370004.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1aktVSXdMcDZVa28"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1bG5HNUJmYUZ3b3M"></a></div>
 </div>
 <div class="item" data-w="850" data-h="804">
-	<div class="img"><a href="{{ site.url }}/images/photos/zeno/t-000053370005.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/zeno/st-bord-000053370005.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1MG4tTUJMeElVMU0"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1Ulg4SVRCcXZsSmM"></a></div>
 </div>
 <div class="item" data-w="850" data-h="802" >
-	<div class="img"><a href="{{ site.url }}/images/photos/zeno/t-000053370007.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/zeno/st-bord-000053370007.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1ZlpEd1RKNlAxUkk"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1aWI2V3gxWjBBdnc"></a></div>
 </div>
 <div class="item" data-w="850" data-h="814">
-	<div class="img"><a href="{{ site.url }}/images/photos/zeno/t-000053370008.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/zeno/st-bord-000053370008.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1MnI0Ynh0d1NnaHM"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1V3JPUXBHc3BRSVU"></a></div>
 </div>
 <div class="item" data-w="850" data-h="816" data-solo="y">
-	<div class="img"><a href="{{ site.url }}/images/photos/zeno/t-000053370012.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/zeno/st-bord-000053370012.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1TnU4dWI3QnBTaFk"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1WXFOS1h0MEZ6SE0"></a></div>
 </div>
 <div class="item" data-w="850" data-h="819">
-	<div class="img"><a href="{{ site.url }}/images/photos/zeno/t-000053370010.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/zeno/st-bord-000053370010.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1YXU0R0o0dHRCNms"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1S01EcFk5REN5Nzg"></a></div>
 </div>
 
 <div class="item" data-w="850" data-h="817" data-sqz="y">
-	<div class="img"><a href="{{ site.url }}/images/photos/zeno/t-1793013-R1-E001.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/zeno/st-bord-1793013-R1-E001.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1U3NRb3hTUm9zVHc"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1MnhaQUp0VGUzTEU"></a></div>
 </div>
 <div class="item" data-w="850" data-h="817" data-solo="y">
-	<div class="img"><a href="{{ site.url }}/images/photos/zeno/t-1793013-R1-E009.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/zeno/st-bord-1793013-R1-E009.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1TUpIOFY0bzlobnM"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1YUowci1ST0I1OG8"></a></div>
 </div>
 
 

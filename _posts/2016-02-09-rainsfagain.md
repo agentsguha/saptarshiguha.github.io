@@ -20,12 +20,12 @@ Recall <a href='http://people.mozilla.org/~sguha/blog//2015/02/07/a-very-wet-ber
 . Plaubel Makina 67 with Ektar 100.
 </p>
 
-<div id="demo6" class="flex-images" style="padding-top:0.5em;">
+<div id="demo6" class="flex-images " style="padding-top:0.5em;">
 <div class="item" data-w="1000" data-h="1046" data-solo="y">
-	<div class="img"><a href="{{ site.url }}/images/photos/sfwet/down-000099260008.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/sfwet/thum-000099260008.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1ZkdqTDY3eC1XN0U"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1cTFzSDdrVEhFOHc"></a></div>
 </div>
 <div class="item" data-w="1000" data-h="1052"  data-solo="y">
-	<div class="img"><a href="{{ site.url }}/images/photos/sfwet/down-000099260009.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/sfwet/thum-000099260009.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1Wmpka1VfNWRDZFU"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1R0lIZ0dnSUR2Vzg"></a></div>
 </div>
 
 

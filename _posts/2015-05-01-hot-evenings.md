@@ -33,27 +33,27 @@ the air is warm and the air is still
 <div id="demo6" class="flex-images" style="padding-top:0.5em;">
 
 <div class="item" data-w="600" data-h="800">
-<div class="img"><a href="{{ site.url }}/images/photos/hotevening/t-2015-04-15a.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/hotevening/st-2015-04-15a.jpg"></a></div>
+<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1aUs1Q2JYbHg5SFk"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1anRhcFprRzVYS2M"></a></div>
 </div>
 <div class="item" data-w="533" data-h="800">
-	<div class="img"><a href="{{ site.url }}/images/photos/hotevening/t-2015-04-28b.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/hotevening/st-2015-04-28b.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1SDJhWGFZUWhTdzQ"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1MS1JSUtUeExKYlU"></a></div>
 </div>
 <div class="item" data-w="571" data-h="800">
-	<div class="img"><a href="{{ site.url }}/images/photos/hotevening/t-DSCF0684.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/hotevening/st-DSCF0684.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1ZTExa1hwYVI3LTA"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1eWxZWWg3aUpmSFk"></a></div>
 </div>
 <div class="item" data-w="533" data-h="800">
-	<div class="img"><a href="{{ site.url }}/images/photos/hotevening/t-image3.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/hotevening/st-image3.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1YXNjOExKNG8tMm8"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1Sk44bjYybWloT3M"></a></div>
 </div>
 <div class="item" data-w="533" data-h="800">
-	<div class="img"><a href="{{ site.url }}/images/photos/hotevening/t-image.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/hotevening/st-image.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1MVhpdEtLTk55Vms"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1dS1SWHhZLUJOTWM"></a></div>
 </div>
 <div class="item" data-w="533" data-h="800">
-	<div class="img"><a href="{{ site.url }}/images/photos/hotevening/t-image2.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/hotevening/st-image2.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1a1pDWHpnZmJMV0E"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1a3hWUjRKOHFWQXc"></a></div>
 </div>
 </div>
 
-<a href="{{ site.url }}/images/photos/hotevening/t-DSCF0674.jpg"><img
-src="{{site.url }}/images/photos/hotevening/st-DSCF0674.jpg" width='100%'></a>
+<a href="https://docs.google.com/uc?id=0B6d70FmpKIi1ZUVIOC1UZnJQdkE"><img
+src="https://docs.google.com/uc?id=0B6d70FmpKIi1VTlHc0MtQWdlNFU" width='100%'></a>
 
 
 

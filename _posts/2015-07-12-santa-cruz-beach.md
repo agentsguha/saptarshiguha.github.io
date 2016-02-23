@@ -70,66 +70,66 @@ an obstaculous one.
 
 <div id="demo5" class="flex-images" style="padding-top:0.5em;">
 <div class="item" data-w="333" data-h="500">
-	<div class="img"><a href="{{ site.url }}/images/photos/santacruz/t-1.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/santacruz/st-1.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1T2xyaGQzX1FJRVE"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1Z1dGNURUTEJPOUU"></a></div>
 </div>
 <div class="item" data-w="333" data-h="500">
-	<div class="img"><a href="{{ site.url }}/images/photos/santacruz/t-10A.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/santacruz/st-10A.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1RTFMdklFcU9hNlk"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1N3BSUEZpdjlTSUE"></a></div>
 </div>
 <div class="item" data-w="500" data-h="333">
-	<div class="img"><a href="{{ site.url }}/images/photos/santacruz/t-12A.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/santacruz/st-12A.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1S21reVZNMjV0RUk"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1Q2hSa0MteTRIOW8"></a></div>
 </div>
 <div class="item" data-w="500" data-h="333">
-	<div class="img"><a href="{{ site.url }}/images/photos/santacruz/t-13A.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/santacruz/st-13A.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1LWd0eXlCYXV5cVU"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1YzQ0Ymk1UUZuNkU"></a></div>
 </div>
 <div class="item" data-w="500" data-h="333">
-	<div class="img"><a href="{{ site.url }}/images/photos/santacruz/t-15A.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/santacruz/st-15A.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1aFBDc2Z0R01TdWM"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1Rlc4WmdFU094bGc"></a></div>
 </div>
 <div class="item" data-w="500" data-h="333">
-	<div class="img"><a href="{{ site.url }}/images/photos/santacruz/t-20A.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/santacruz/st-20A.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1QjIzYXZEQTVoTzg"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1RDdWbzdpUVFPcjg"></a></div>
 </div>
 <div class="item" data-w="500" data-h="333">
-	<div class="img"><a href="{{ site.url }}/images/photos/santacruz/t-24A.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/santacruz/st-24A.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1QlF0V295bl9CaWc"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1dEpZMUhlZ0ltdFU"></a></div>
 </div>
 <div class="item" data-w="500" data-h="333">
-	<div class="img"><a href="{{ site.url }}/images/photos/santacruz/t-25A.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/santacruz/st-25A.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1clhXWDE0S0pScXM"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1LTh1X19DSVBSbTA"></a></div>
 </div>
 <div class="item" data-w="333" data-h="500">
-	<div class="img"><a href="{{ site.url }}/images/photos/santacruz/t-26A.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/santacruz/st-26A.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1VGFTZXhlT0J2ODQ"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1aEh2b1NWUFdFblE"></a></div>
 </div>
 <div class="item" data-w="333" data-h="500">
-	<div class="img"><a href="{{ site.url }}/images/photos/santacruz/t-29A.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/santacruz/st-29A.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1RURLUFAwY1hnZm8"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1c0lYOWRfdzJYQlE"></a></div>
 </div>
 <div class="item" data-w="500" data-h="333">
-	<div class="img"><a href="{{ site.url }}/images/photos/santacruz/t-2A.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/santacruz/st-2A.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1VUtWcHh4am9EbkU"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1T25IRkx4NlJid0E"></a></div>
 </div>
 <div class="item" data-w="500" data-h="333">
-	<div class="img"><a href="{{ site.url }}/images/photos/santacruz/t-31A.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/santacruz/st-31A.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1a2xINXZyZjNPNjg"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1eWhIelBiQmpzNGc"></a></div>
 </div>
 <div class="item" data-w="500" data-h="333">
-	<div class="img"><a href="{{ site.url }}/images/photos/santacruz/t-32A.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/santacruz/st-32A.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1Y1ExU0QyZ0dSNmc"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1TlJra0R6S2FabG8"></a></div>
 </div>
 <div class="item" data-w="333" data-h="500">
-	<div class="img"><a href="{{ site.url }}/images/photos/santacruz/t-5A.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/santacruz/st-5A.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1bmwxWWREODBrZVU"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1OFdKYV9aNmRQTDA"></a></div>
 </div>
 <div class="item" data-w="500" data-h="333">
-	<div class="img"><a href="{{ site.url }}/images/photos/santacruz/t-36A.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/santacruz/st-36A.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1eXNTU2d3ejFfWWc"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1Uy1HTHZWVlY5RE0"></a></div>
 </div>
 <div class="item" data-w="333" data-h="500">
-	<div class="img"><a href="{{ site.url }}/images/photos/santacruz/t-3A.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/santacruz/st-3A.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1UmxDa0w5bEFfRjg"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1RmZPTVFfR3VhMVU"></a></div>
 </div>
 <div class="item" data-w="333" data-h="500">
-	<div class="img"><a href="{{ site.url }}/images/photos/santacruz/t-35A.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/santacruz/st-35A.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1bnhYb0lhYkJJaE0"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1LVJLZU1DM2tVOVE"></a></div>
 </div>
 
 <div class="item" data-w="333" data-h="500">
-	<div class="img"><a href="{{ site.url }}/images/photos/santacruz/t-4A.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/santacruz/st-4A.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1a3lwSGpFYk5aak0"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1ekRnZGctZklMMkU"></a></div>
 </div>
 
 <div class="item" data-w="500" data-h="333">
-	<div class="img"><a href="{{ site.url }}/images/photos/santacruz/t-6A.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/santacruz/st-6A.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1dzZacjl0THBrYUE"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1TGhScmhLS3J5WDg"></a></div>
 </div>
 <div class="item" data-w="333" data-h="500">
-	<div class="img"><a href="{{ site.url }}/images/photos/santacruz/t-7A.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/santacruz/st-7A.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1V0haVVVWUS11YW8"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1R3E1SWVwUUF4UHc"></a></div>
 </div>
 </div>
 <script>
@@ -138,7 +138,7 @@ $('#demo5').flexImages({ rowHeight:500 , truncate: 0});
 
 <div id="demo6" class="flex-images" style="padding-top:0.5em;">
 <div class="item" data-w="500" data-h="333">
-	<div class="img"><a href="{{ site.url }}/images/photos/santacruz/t-8A.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/santacruz/t-8A.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1SGhqc25xMU1sQ0k"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1SGhqc25xMU1sQ0k"></a></div>
 </div>
 <script>
 $('#demo6').flexImages({ rowHeight:800 , truncate: 0});

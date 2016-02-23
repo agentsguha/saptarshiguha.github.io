@@ -29,16 +29,16 @@ And it is medium format too. And black and white needs to be shot on a medium fo
 <div id="demo6" class="flex-images" style="padding-top:0.5em;">
 
 <div class="item" data-w="900" data-h="579">
-	<div class="img"><a href="{{ site.url }}/images/photos/slow/t-abAA004.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/slow/st-bord-abAA004.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1NkJxVXZFVXdKZjQ"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1WTVENVdYZkFVVUE"></a></div>
 </div>
 <div class="item" data-w="625" data-h="900">
-	<div class="img"><a href="{{ site.url }}/images/photos/slow/t-abAA001.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/slow/st-bord-abAA001.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1WGlZd0pPS0VqU1k"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1MGIzOS1KVDBVQ1E"></a></div>
 </div>
 <div class="item" data-w="625" data-h="900">
-	<div class="img"><a href="{{ site.url }}/images/photos/slow/t-1v.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/slow/st-bord-1v.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1RG1sbGVrZTI4TzA"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1RjdIS1FxNTlvTm8"></a></div>
 </div>
 <div class="item" data-w="900" data-h="579">
-	<div class="img"><a href="{{ site.url }}/images/photos/slow/t-3h.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/slow/st-bord-3h.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1dmhLekl4VTNQbms"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1VXFUeDFwOWoxcTQ"></a></div>
 </div>
 
 </div>

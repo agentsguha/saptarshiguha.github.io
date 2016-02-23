@@ -32,97 +32,97 @@ residents. I'll add a few black and white medium formats here.
 </div>
 </div>
 <div class="item" data-w="624" data-h="900">
-	<div class="img"><a href="{{ site.url }}/images/photos/botanical/t-DSCF1153.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/botanical/st-bord-DSCF1153.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1R2ZFT1Q5XzhWY00"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1Q2FXeVZLcDFJYWM"></a></div>
 </div>
 <div class="item" data-w="624" data-h="900">
-	<div class="img"><a href="{{ site.url }}/images/photos/botanical/t-DSCF1155.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/botanical/st-bord-DSCF1155.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1cVdNamZGZ0FEYkk"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1S1VVbk5fejd4dFk"></a></div>
 </div>
 <div class="item" data-w="624" data-h="900">
-	<div class="img"><a href="{{ site.url }}/images/photos/botanical/t-DSCF1159.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/botanical/st-bord-DSCF1159.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1UXRLYWQwd2FfVkU"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1SjdiNmtNYUJyVU0"></a></div>
 </div>
 <div class="item" data-w="624" data-h="900">
-	<div class="img"><a href="{{ site.url }}/images/photos/botanical/t-DSCF1160.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/botanical/st-bord-DSCF1160.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1UnN4eEJVZ2w4Z1E"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1V1g4T0ZTWUszN2M"></a></div>
 </div>
 <div class="item" data-w="624" data-h="900">
-	<div class="img"><a href="{{ site.url }}/images/photos/botanical/t-DSCF1164.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/botanical/st-bord-DSCF1164.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1WmNyRFJ0WU5rQTQ"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1NFU5LWRoeWJfQ0U"></a></div>
 </div>
 <div class="item" data-w="900" data-h="578">
-	<div class="img"><a href="{{ site.url }}/images/photos/botanical/t-DSCF1165.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/botanical/st-bord-DSCF1165.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1TWRIU0NEcVJOQVk"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1VDBhMnE0bUpuSTg"></a></div>
 </div>
 <div class="item" data-w="624" data-h="900">
-	<div class="img"><a href="{{ site.url }}/images/photos/botanical/t-DSCF1169.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/botanical/st-bord-DSCF1169.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1TF9JS21oZUpkb0E"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1STNPY2d2REp3UWc"></a></div>
 </div>
 <div class="item" data-w="624" data-h="900">
-	<div class="img"><a href="{{ site.url }}/images/photos/botanical/t-DSCF1171.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/botanical/st-bord-DSCF1171.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1Sy1uaWwwUXprX0E"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1VWwtRHpGc1V0RlU"></a></div>
 </div>
 <div class="item" data-w="624" data-h="900">
-	<div class="img"><a href="{{ site.url }}/images/photos/botanical/t-DSCF1172.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/botanical/st-bord-DSCF1172.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1Q01xRU9HSVl5REE"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1bUtCSEp5a3lfaUE"></a></div>
 </div>
 <div class="item" data-w="624" data-h="900">
-	<div class="img"><a href="{{ site.url }}/images/photos/botanical/t-DSCF1173.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/botanical/st-bord-DSCF1173.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1Ykk1M1BYZmZCbTg"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1N3NqNWhBZlI0VWs"></a></div>
 </div>
 <div class="item" data-w="624" data-h="900">
-	<div class="img"><a href="{{ site.url }}/images/photos/botanical/t-DSCF1174.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/botanical/st-bord-DSCF1174.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1T1FZT3VMVDlMQVk"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1YWUzYnhUbnlKLUU"></a></div>
 </div>
 <div class="item" data-w="624" data-h="900">
-	<div class="img"><a href="{{ site.url }}/images/photos/botanical/t-DSCF1175.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/botanical/st-bord-DSCF1175.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1NFZ1TnBxMXVidVk"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1Y0hZcy1CbmpJcW8"></a></div>
 </div>
 <div class="item" data-w="900" data-h="578">
-	<div class="img"><a href="{{ site.url }}/images/photos/botanical/t-DSCF1176.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/botanical/st-bord-DSCF1176.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1dGRZTGZ1OW9Oa1U"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1UDNCNU01QkhDb0E"></a></div>
 </div>
 <div class="item" data-w="624" data-h="900">
-	<div class="img"><a href="{{ site.url }}/images/photos/botanical/t-DSCF1177.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/botanical/st-bord-DSCF1177.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1UFJxUWZsbnFxRzg"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1SFpuTF80eFRrR3M"></a></div>
 </div>
 <div class="item" data-w="624" data-h="900">
-	<div class="img"><a href="{{ site.url }}/images/photos/botanical/t-DSCF1179.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/botanical/st-bord-DSCF1179.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1ZjhiYUpKZnZBY0E"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1SjZiTC1kLTI0STA"></a></div>
 </div>
 <div class="item" data-w="624" data-h="900">
-	<div class="img"><a href="{{ site.url }}/images/photos/botanical/t-DSCF1180.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/botanical/st-bord-DSCF1180.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1SEV3czgwRDAxUGs"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1RlBTM3hMZlRqcEk"></a></div>
 </div>
 <div class="item" data-w="624" data-h="900">
-	<div class="img"><a href="{{ site.url }}/images/photos/botanical/t-DSCF1186.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/botanical/st-bord-DSCF1186.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1bndSUXdzQ0FLaTg"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1Z1lMNzY5NFJMOVU"></a></div>
 </div>
 <div class="item" data-w="624" data-h="900">
-	<div class="img"><a href="{{ site.url }}/images/photos/botanical/t-DSCF1188.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/botanical/st-bord-DSCF1188.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1RHFiMF95NG0xYUk"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1RlRHRXRNUTlQdTA"></a></div>
 </div>
 <div class="item" data-w="900" data-h="578">
-	<div class="img"><a href="{{ site.url }}/images/photos/botanical/t-DSCF1190.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/botanical/st-bord-DSCF1190.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1bTRXRlYyQlRCRVE"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1TGFlVW1TaUpSNWM"></a></div>
 </div>
 <div class="item" data-w="624" data-h="900">
-	<div class="img"><a href="{{ site.url }}/images/photos/botanical/t-DSCF1191.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/botanical/st-bord-DSCF1191.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1Y3lYc3J3N01UZ1k"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1YkZqeDQ1VV9YM3c"></a></div>
 </div>
 <div class="item" data-w="624" data-h="900">
-	<div class="img"><a href="{{ site.url }}/images/photos/botanical/t-DSCF1192.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/botanical/st-bord-DSCF1192.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1R3A3eG5tVzJaNDA"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1b20zQUdJYzBMVGs"></a></div>
 </div>
 <div class="item" data-w="624" data-h="900">
-	<div class="img"><a href="{{ site.url }}/images/photos/botanical/t-DSCF1194.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/botanical/st-bord-DSCF1194.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1NUpBNldsbnlBQ0k"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1ZVFMOXhwa1VJcEE"></a></div>
 </div>
 <div class="item" data-w="624" data-h="900">
-	<div class="img"><a href="{{ site.url }}/images/photos/botanical/t-DSCF1200.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/botanical/st-bord-DSCF1200.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1cmVYTkwxdE1pams"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1T3AxZ0VWVWQ5UG8"></a></div>
 </div>
 <div class="item" data-w="900" data-h="578"  data-solo="y">
-	<div class="img"><a href="{{ site.url }}/images/photos/botanical/t-DSCF1198.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/botanical/st-bord-DSCF1198.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1QzhPQk1PcVZMdTg"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1NmIyYlZZMEVSUnM"></a></div>
 </div>
 <div class="item" data-w="624" data-h="900" data-solo="y">
-	<div class="img"><a href="{{ site.url }}/images/photos/botanical/t-DSCF1203.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/botanical/t-DSCF1203.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1YzlMTjVvQVhTMmc"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1YzlMTjVvQVhTMmc"></a></div>
 </div>
 <div class="item" data-w="900" data-h="578">
-	<div class="img"><a href="{{ site.url }}/images/photos/botanical/t-DSCF1204.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/botanical/st-bord-DSCF1204.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1UEpjTnVDTV8zNUk"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1UFZMbTRiODBGVDg"></a></div>
 </div>
 <div class="item" data-w="624" data-h="900">
-	<div class="img"><a href="{{ site.url }}/images/photos/botanical/t-DSCF1211.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/botanical/st-bord-DSCF1211.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1Z2R5ZENENzlaTVU"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1QWlzYWdVRnhzNmM"></a></div>
 </div>
 <div class="item" data-w="624" data-h="900">
-	<div class="img"><a href="{{ site.url }}/images/photos/botanical/t-DSCF1215.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/botanical/st-bord-DSCF1215.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1ZW5mcFRUTlNFWjg"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1NkZOejJvanVPM28"></a></div>
 </div>
 <div class="item" data-w="624" data-h="900">
-	<div class="img"><a href="{{ site.url }}/images/photos/botanical/t-DSCF1220.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/botanical/st-bord-DSCF1220.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1WkdHRUZuSFVMMGM"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1bjR0TThESWVmb2M"></a></div>
 </div>
 <div class="item" data-w="624" data-h="900">
-	<div class="img"><a href="{{ site.url }}/images/photos/botanical/t-DSCF1226.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/botanical/st-bord-DSCF1226.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1QVN5MGpUMkZ5TkU"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1bUs4SG9mV3hoa3M"></a></div>
 </div>
 <div class="item" data-w="900" data-h="578">
-	<div class="img"><a href="{{ site.url }}/images/photos/botanical/t-DSCF1231.jpg"><img src="{{ site.url }}/images/blank.gif" data-src="{{ site.url }}/images/photos/botanical/st-bord-DSCF1231.jpg"></a></div>
+	<div class="img"><a href="https://docs.google.com/uc?id=0B6d70FmpKIi1cktZOTVyc1BoQ0E"><img src="https://docs.google.com/uc?id=0B6d70FmpKIi1V0pkMTNDN2hWSm8" data-src="https://docs.google.com/uc?id=0B6d70FmpKIi1Q2VOdHAzS0gwbXc"></a></div>
 </div>
 </div> <!--ends demo6-->
 <script>
