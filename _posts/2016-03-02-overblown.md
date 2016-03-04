@@ -23,14 +23,14 @@ set at 2.8 and the shutter at 1/8. Though the images were blurry and the grain p
 </p>
 
 
-<a href= "{{ site.url }}/images/photos/overex/000022900001.jpg"> <img class="center-block" style="padding-top:5em;padding-bottom:5em;" height='700px' src="{{ site.url }}/images/photos/overex/000022900001.jpg"></a>
+<a href= "{{ site.url }}/images/photos/overex/000022900001.jpg"> <img class="center-block" style="padding-top:5em;padding-bottom:5em;" width='80%' src="{{ site.url }}/images/photos/overex/000022900001.jpg"></a>
 
 <p>
 The image above probably had a light value of 10 but was taken with an EV of 6. The second had a LV of say 14'ish and again i took the photo with EV of 6. 
 </p>
 
 <a href="{{ site.url }}/images/photos/overex/000022900008.jpg">
-<img  class="center-block" style="padding-top:5em;padding-bottom:5em;" height='700px'  src="{{ site.url }}/images/photos/overex/000022900008.jpg">
+<img  class="center-block" style="padding-top:5em;padding-bottom:5em;" width='80%'  src="{{ site.url }}/images/photos/overex/000022900008.jpg">
 </a>
 
 <p>
@@ -38,7 +38,7 @@ I finally caught on and the last one was at EV 11  with the same LV (and i adjus
 </p>
 
 <a href="{{ site.url }}/images/photos/overex/000022900010.jpg">
-<img  class="center-block" style="padding-top:5em;padding-bottom:5em;" height='700px'  src="{{ site.url }}/images/photos/overex/000022900010.jpg">
+<img  class="center-block" style="padding-top:5em;padding-bottom:5em;" width='80%'  src="{{ site.url }}/images/photos/overex/000022900010.jpg">
 </a>
 
 
