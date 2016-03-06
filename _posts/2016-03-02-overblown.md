@@ -13,12 +13,11 @@ tags: reala 100, dynamic range
 
 
 <h1> {{ page.title }} </h1>
-<div class="pdate"> {{ page.date | date: "%b %d, %Y" }} </div>
 
-<div class="col-md-10 col-md-offset-1">
 <p>
+<b style='font-size:80%;'>{{ page.date | date: "%b %d, %Y" }}</b>
 While walking and talking with friends, I forgot that the Plaubel Makina is completely manual. Though it
-does have a TTL exposure meter, it does not set the exposure for you! The easily ignored little voice in the back of my head that thought that the long shutter whirr might indicate a bad camera was in fact ... right in  a way. The apeture was
+does have a TTL exposure meter, it does not set the exposure for you! The easily ignored little voice in the back of my head that thought that the long shutter whirr might indicate a faulty camera was in fact ... right in  a way. The apeture was
 set at 2.8 and the shutter at 1/8. Though the images were blurry and the grain prominent (for Reala 100, though the hand shake could contribute to that), it's not like the hightlights were blown! That's how good the dynamic range of film is.
 </p>
 
@@ -42,7 +41,6 @@ I finally caught on and the last one was at EV 11  with the same LV (and i adjus
 </a>
 
 
-</div>
 </div>
 </div>
 

@@ -8,14 +8,13 @@ tags: plaubel makina, bernal heights, ekar
 <div class="row">
 <div class="col-xs-8 col-xs-offset-2">
 <h1> {{ page.title }} </h1>
-<div class="pdate"> {{ page.date | date: "%b %d, %Y" }} </div>
 </div></div>
 
 
 <div class="row">
 <div class="col-xs-8 col-xs-offset-2">
 
-<p>
+<p><b style='font-size:80%;'>{{ page.date | date: "%b %d, %Y" }}</b>
 Recall <a href='http://people.mozilla.org/~sguha/blog//2015/02/07/a-very-wet-bernal-hill.html'>this</a>
 . Plaubel Makina 67 with Ektar 100.
 </p>

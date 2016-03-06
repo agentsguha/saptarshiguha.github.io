@@ -124,8 +124,9 @@ body {
 #bottomlogo {
     position: fixed;
     bottom:0;
-    left: 0
-}
+    left: 0;
+    pointer-events: none;
+    }
     
    
 iframe {
@@ -140,15 +141,6 @@ iframe {
 max-width: 100%;height:auto;width:auto;
 }
 
-
-.col-centered {
-    display:inline-block;
-    float:none;
-    /* reset the text-align */
-    text-align:left;
-    /* inline-block space fix */
-    margin-right:-4px;
-}
 
 
 #textcontent {
@@ -240,30 +232,30 @@ a:hover  {
 
 
 #maintitle {
-    color:#000000;
+    color:#000;
     font-size:48px;
-    border-bottom: none;
     font-weight: bold;
     font-family: 'Fira Sans', sans-serif;
-    line-height:110%;
 }
 
-
+#spaced {
+    padding-bottom:0.5em;
+}
 #maintitle a{
-    color: #000;
-    border-bottom: none;
-    font-weight: bold;
-    font-family: 'Fira Sans', sans-serif;
+    border-bottom: none;   
+    line-height:140%;
+}
+
+.title {
+    font-size:12px;
+    color: #888888;
+    font-family: 'Domine', georgia, serif;
+    text-align:right;
+    margin-bottom:1.5em;
 }
 
 .title a {
     border-bottom:none;
-    font-family: 'Domine', georgia, serif;
-}
-.title {
-    font-size:12px;
-    color: #888888;
-    margin-bottom: 2em;
     font-family: 'Domine', georgia, serif;
 }
 

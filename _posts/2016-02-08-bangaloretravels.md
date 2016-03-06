@@ -8,7 +8,6 @@ tags: xpan, ektar, 45mm, bangalore, plaubel makina
 <div class="row">
 <div class="col-xs-8 col-xs-offset-2">
 <h1> {{ page.title }} </h1>
-<div class="pdate"> {{ page.date | date: "%b %d, %Y" }} </div>
 </div></div>
 
 <div class="row" style="margin:0;padding:0;margin-top:0.5em;margin-bottom:0.5em;">
@@ -19,7 +18,7 @@ tags: xpan, ektar, 45mm, bangalore, plaubel makina
 <div class="row">
 <div class="col-xs-8 col-xs-offset-2">
 <div class="col-md-10 col-md-offset-1">
-<p>
+<p><b style='font-size:80%;'>{{ page.date | date: "%b %d, %Y" }}</b>
 A little rant, dear reader, do indulge? On the internet exist a million recipes.Yet none do proper timings
 divulge! Cook for 20 minutes they say, stir for 5 minutes mention others, roast for 10, the cooks of the world, unlike 
 bakers, care not for times. I understand cooking is an art, but give us beginners a guideline remotely close to the original. Makes me wonder <i>how much</i> alchohol is being consumed. Or, dare I say, how good their version came out ...
