@@ -7,7 +7,8 @@ drive = GoogleDrive(gauth) # Create GoogleDrive instance with authenticated Goog
 
 allImages = []
 allFolders = []
-bp="webimages"
+bp="mosh"  ### change this to get URL names for files in a particular folder
+
 
 alist = drive.ListFile({'q': "title= '%s' "  % bp}).GetList()
 def ListFolder(parent):
@@ -22,8 +23,7 @@ def ListFolder(parent):
 ListFolder(alist[0]['id'])
 
 d2 = {}
-d2[alist[0]['id']]=[bp,"0"]  ### change this to get URL names for files in a particular folder
-
+d2[alist[0]['id']]=[bp,"0"] 
 for a in allFolders:
     pid = a['id']
     d2[pid] = [ a['title'], a['parents'][0]['id']]
@@ -32,13 +32,16 @@ f2 = []
 for a in allImages:
     title = a['title']
     url = a[u'webContentLink']
+    height = a[u'imageMediaMetadata']['height']
+    width = a[u'imageMediaMetadata']['width']
+    mod = a[u'modifiedDate'][0:10]
     pid = a['parents'][0]['id']
-    f2.append(    [title, url, d2[pid][0]])
+    f2.append(    [title, url, d2[pid][0],mod,width,height     ]  )
 
 import csv
 with open("/tmp/images.csv", 'wb') as csvfile:
     spamwriter = csv.writer(csvfile, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
-    heads = ['title','url','parent']
+    heads = ['title','url','parent','moddate','w','h']
     spamwriter.writerow(heads)
     for r in  f2:
         spamwriter.writerow(r)

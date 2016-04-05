@@ -302,7 +302,7 @@ ul.posts span {
 
 #post {
     font-family: 'Fira Sans',georgia,serif;
-    line-height: 1.75em;
+    line-height: 2em;
     font-size: 18.34px ;
     font-weight: 300;
     overflow:visible;
@@ -319,7 +319,7 @@ ul.posts span {
     text-align: justify;
     width: 70%;
     float:left;
-    line-height: 22px;
+    line-height: 26px;
     display:block;
 }
 
@@ -478,7 +478,7 @@ ul.posts span {
 }
 
 #post p {
-      line-height: 28px;
+      line-height: 32px;
       margin: 28px 0;
 }
 

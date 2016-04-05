@@ -10,3 +10,4 @@ images/
 *.RData
 *.Rdata
 .jekyll*
+client_secrets.json
