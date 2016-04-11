@@ -7,7 +7,7 @@ drive = GoogleDrive(gauth) # Create GoogleDrive instance with authenticated Goog
 
 allImages = []
 allFolders = []
-bp="mosh"  ### change this to get URL names for files in a particular folder
+bp="bw10"  ### change this to get URL names for files in a particular folder
 
 
 alist = drive.ListFile({'q': "title= '%s' "  % bp}).GetList()
@@ -46,4 +46,4 @@ with open("/tmp/images.csv", 'wb') as csvfile:
     for r in  f2:
         spamwriter.writerow(r)
 csvfile.close()
-
+print("Lines written to /tmp/images.csv")
