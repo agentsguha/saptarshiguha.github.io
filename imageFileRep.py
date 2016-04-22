@@ -7,7 +7,7 @@ drive = GoogleDrive(gauth) # Create GoogleDrive instance with authenticated Goog
 
 allImages = []
 allFolders = []
-bp="bw10"  ### change this to get URL names for files in a particular folder
+bp="plaubels1"  ### change this to get URL names for files in a particular folder
 
 
 alist = drive.ListFile({'q': "title= '%s' "  % bp}).GetList()
