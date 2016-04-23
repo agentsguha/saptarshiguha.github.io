@@ -211,6 +211,8 @@ h1 {
 
 p {
     margin: 1em 0;
+        text-align: justify;    
+    text-justify: inter-word;   
 }
 
 a,a:link,a:visited {
