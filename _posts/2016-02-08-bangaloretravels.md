@@ -6,7 +6,7 @@ tags: xpan, ektar, 45mm, bangalore, plaubel makina
 ---
 
 <div class="row">
-<div class="col-xs-8 col-xs-offset-2">
+<div class="col-lg-8 col-xs-10 col-lg-offset-2 col-xs-offset-1">
 <h1> {{ page.title }} </h1>
 </div></div>
 
@@ -16,7 +16,7 @@ tags: xpan, ektar, 45mm, bangalore, plaubel makina
 
 
 <div class="row">
-<div class="col-xs-8 col-xs-offset-2">
+<div class="col-lg-8 col-xs-10 col-lg-offset-2 col-xs-offset-1">
 <div class="col-md-10 col-md-offset-1">
 <p><b style='font-size:80%;'>{{ page.date | date: "%b %d, %Y" }}</b>
 A little rant, dear reader, do indulge? On the internet exist a million recipes.Yet none do proper timings
@@ -35,7 +35,7 @@ Here you will see come pictures that struck me.
 
 
 <div class="row">
-<div class="col-xs-8 col-xs-offset-2">
+<div class="col-lg-8 col-xs-10 col-lg-offset-2 col-xs-offset-1">
 <div id="demo6" class="flex-images" style="padding-top:0.5em;">
 
 <div class="item" data-w="2300" data-h="1032">
@@ -90,7 +90,7 @@ Someone who told me that reducing my trouser's waist was impossible. "Reduce you
 
 
 <div class="row">
-<div class="col-xs-8 col-xs-offset-2">
+<div class="col-lg-8 col-xs-10 col-lg-offset-2 col-xs-offset-1">
 <div id="demo7" class="flex-images" style="padding-top:0.5em;">
 
 <br/><br/>

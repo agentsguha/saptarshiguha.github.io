@@ -7,7 +7,7 @@ tags: reala 100, dynamic range
 
 
 <div class="row">
-<div class="col-xs-8 col-xs-offset-2">
+<div class="col-lg-8 col-xs-10 col-lg-offset-2 col-xs-offset-1">
 
 
 

@@ -6,13 +6,13 @@ tags: plaubel makina, bernal heights, ekar
 ---
 
 <div class="row">
-<div class="col-xs-8 col-xs-offset-2">
+<div class="col-lg-8 col-xs-10 col-lg-offset-2 col-xs-offset-1">
 <h1> {{ page.title }} </h1>
 </div></div>
 
 
 <div class="row">
-<div class="col-xs-8 col-xs-offset-2">
+<div class="col-lg-8 col-xs-10 col-lg-offset-2 col-xs-offset-1">
 
 <p><b style='font-size:80%;'>{{ page.date | date: "%b %d, %Y" }}</b>
 Recall <a href='http://people.mozilla.org/~sguha/blog//2015/02/07/a-very-wet-bernal-hill.html'>this</a>
